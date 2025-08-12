@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|d:\\github\\eventdriventmicroservices\\src\\backgroundservicesdemo\\backgroundservicesdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|solutionrelative:backgroundservicesdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|d:\\github\\eventdriventmicroservices\\src\\backgroundservicesdemo\\backgroundservicesdemo\\backgroundservices\\fileimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|solutionrelative:backgroundservicesdemo\\backgroundservices\\fileimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|d:\\github\\eventdriventmicroservices\\src\\backgroundservicesdemo\\backgroundservicesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|solutionrelative:backgroundservicesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|d:\\github\\eventdriventmicroservices\\src\\backgroundservicesdemo\\backgroundservicesdemo\\backgroundservices\\sampleservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|solutionrelative:backgroundservicesdemo\\backgroundservices\\sampleservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|d:\\github\\eventdriventmicroservices\\src\\backgroundservicesdemo\\backgroundservicesdemo\\contracts\\fileimportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|solutionrelative:backgroundservicesdemo\\contracts\\fileimportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|d:\\github\\eventdriventmicroservices\\src\\backgroundservicesdemo\\backgroundservicesdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B686B095-1CC2-4233-A2B7-9617A929D220}|BackgroundServicesDemo\\BackgroundServicesDemo.csproj|solutionrelative:backgroundservicesdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileImportService.cs",
+              "DocumentMoniker": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\BackgroundServices\\FileImportService.cs",
+              "RelativeDocumentMoniker": "BackgroundServicesDemo\\BackgroundServices\\FileImportService.cs",
+              "ToolTip": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\BackgroundServices\\FileImportService.cs",
+              "RelativeToolTip": "BackgroundServicesDemo\\BackgroundServices\\FileImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:47:51.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BackgroundServicesDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BackgroundServicesDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:27:14.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "BackgroundServicesDemo\\Program.cs",
+              "ToolTip": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\Program.cs",
+              "RelativeToolTip": "BackgroundServicesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:24:34.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleService1.cs",
+              "DocumentMoniker": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\BackgroundServices\\SampleService1.cs",
+              "RelativeDocumentMoniker": "BackgroundServicesDemo\\BackgroundServices\\SampleService1.cs",
+              "ToolTip": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\BackgroundServices\\SampleService1.cs",
+              "RelativeToolTip": "BackgroundServicesDemo\\BackgroundServices\\SampleService1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:18:16.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileImportRequest.cs",
+              "DocumentMoniker": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\Contracts\\FileImportRequest.cs",
+              "RelativeDocumentMoniker": "BackgroundServicesDemo\\Contracts\\FileImportRequest.cs",
+              "ToolTip": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\Contracts\\FileImportRequest.cs",
+              "RelativeToolTip": "BackgroundServicesDemo\\Contracts\\FileImportRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:48:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BackgroundServicesDemo\\WeatherForecast.cs",
+              "ToolTip": "D:\\github\\EventDriventMicroservices\\src\\BackgroundServicesDemo\\BackgroundServicesDemo\\WeatherForecast.cs",
+              "RelativeToolTip": "BackgroundServicesDemo\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:24:30.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
