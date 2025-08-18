@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SendMessageApi.Controllers.SendersController",
+    "Method": "Send",
+    "RelativePath": "api/Senders/messages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Send.Messaging.Send.SendRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
