@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC78D59-1543-46D1-B8D2-5ED5936A9C9C}|ProcessorMessageApi\\ProcessorMessageApi.csproj|c:\\data\\backlogs\\#4 - my github\\eventdriventmicroservices\\src\\kafka\\kafkaactions\\processormessageapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAC78D59-1543-46D1-B8D2-5ED5936A9C9C}|ProcessorMessageApi\\ProcessorMessageApi.csproj|solutionrelative:processormessageapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC78D59-1543-46D1-B8D2-5ED5936A9C9C}|ProcessorMessageApi\\ProcessorMessageApi.csproj|c:\\data\\backlogs\\#4 - my github\\eventdriventmicroservices\\src\\kafka\\kafkaactions\\processormessageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC78D59-1543-46D1-B8D2-5ED5936A9C9C}|ProcessorMessageApi\\ProcessorMessageApi.csproj|solutionrelative:processormessageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC78D59-1543-46D1-B8D2-5ED5936A9C9C}|ProcessorMessageApi\\ProcessorMessageApi.csproj|c:\\data\\backlogs\\#4 - my github\\eventdriventmicroservices\\src\\kafka\\kafkaactions\\processormessageapi\\backgroundservices\\processorbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC78D59-1543-46D1-B8D2-5ED5936A9C9C}|ProcessorMessageApi\\ProcessorMessageApi.csproj|solutionrelative:processormessageapi\\backgroundservices\\processorbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|c:\\data\\backlogs\\#4 - my github\\eventdriventmicroservices\\src\\kafka\\kafkaactions\\sendmessageapi\\backgroundservices\\sendprocessorbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|solutionrelative:sendmessageapi\\backgroundservices\\sendprocessorbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|c:\\data\\backlogs\\#4 - my github\\eventdriventmicroservices\\src\\kafka\\kafkaactions\\sendmessageapi\\backgroundservices\\sendproducerbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|solutionrelative:sendmessageapi\\backgroundservices\\sendproducerbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|c:\\data\\backlogs\\#4 - my github\\eventdriventmicroservices\\src\\kafka\\kafkaactions\\sendmessageapi\\controllers\\senderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|solutionrelative:sendmessageapi\\controllers\\senderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|c:\\data\\backlogs\\#4 - my github\\eventdriventmicroservices\\src\\kafka\\kafkaactions\\sendmessageapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|solutionrelative:sendmessageapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|c:\\data\\backlogs\\#4 - my github\\eventdriventmicroservices\\src\\kafka\\kafkaactions\\sendmessageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1221ED5-5D36-4A30-87E4-A7F11160431D}|SendMessageApi\\SendMessageApi.csproj|solutionrelative:sendmessageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8114B6-256D-4188-A330-FBBA73DAAA24}|Send.Messaging\\Send.Messaging.csproj|c:\\data\\backlogs\\#4 - my github\\eventdriventmicroservices\\src\\kafka\\kafkaactions\\send.messaging\\send\\sendresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8114B6-256D-4188-A330-FBBA73DAAA24}|Send.Messaging\\Send.Messaging.csproj|solutionrelative:send.messaging\\send\\sendresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\ProcessorMessageApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessorMessageApi\\Program.cs",
+              "ToolTip": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\ProcessorMessageApi\\Program.cs",
+              "RelativeToolTip": "ProcessorMessageApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:53:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SendersController.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\Controllers\\SendersController.cs",
+              "RelativeDocumentMoniker": "SendMessageApi\\Controllers\\SendersController.cs",
+              "ToolTip": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\Controllers\\SendersController.cs",
+              "RelativeToolTip": "SendMessageApi\\Controllers\\SendersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:05:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\ProcessorMessageApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProcessorMessageApi\\appsettings.Development.json",
+              "ToolTip": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\ProcessorMessageApi\\appsettings.Development.json",
+              "RelativeToolTip": "ProcessorMessageApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T03:53:31.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessorBackgroundService.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\ProcessorMessageApi\\BackgroundServices\\ProcessorBackgroundService.cs",
+              "RelativeDocumentMoniker": "ProcessorMessageApi\\BackgroundServices\\ProcessorBackgroundService.cs",
+              "ToolTip": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\ProcessorMessageApi\\BackgroundServices\\ProcessorBackgroundService.cs",
+              "RelativeToolTip": "ProcessorMessageApi\\BackgroundServices\\ProcessorBackgroundService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAWwBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:52:08.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SendMessageApi\\appsettings.Development.json",
+              "ToolTip": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\appsettings.Development.json",
+              "RelativeToolTip": "SendMessageApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T03:40:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\Program.cs",
+              "RelativeDocumentMoniker": "SendMessageApi\\Program.cs",
+              "ToolTip": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\Program.cs",
+              "RelativeToolTip": "SendMessageApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:39:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendProducerBackgroundService.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\BackgroundServices\\SendProducerBackgroundService.cs",
+              "RelativeDocumentMoniker": "SendMessageApi\\BackgroundServices\\SendProducerBackgroundService.cs",
+              "ToolTip": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\BackgroundServices\\SendProducerBackgroundService.cs",
+              "RelativeToolTip": "SendMessageApi\\BackgroundServices\\SendProducerBackgroundService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAewBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:33:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SendResponse.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\Send.Messaging\\Send\\SendResponse.cs",
+              "RelativeDocumentMoniker": "Send.Messaging\\Send\\SendResponse.cs",
+              "ToolTip": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\Send.Messaging\\Send\\SendResponse.cs",
+              "RelativeToolTip": "Send.Messaging\\Send\\SendResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:22:05.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SendProcessorBackgroundService.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\BackgroundServices\\SendProcessorBackgroundService.cs",
+              "RelativeDocumentMoniker": "SendMessageApi\\BackgroundServices\\SendProcessorBackgroundService.cs",
+              "ToolTip": "C:\\data\\backlogs\\#4 - my github\\EventDriventMicroservices\\src\\kafka\\KafkaActions\\SendMessageApi\\BackgroundServices\\SendProcessorBackgroundService.cs",
+              "RelativeToolTip": "SendMessageApi\\BackgroundServices\\SendProcessorBackgroundService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:14:05.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

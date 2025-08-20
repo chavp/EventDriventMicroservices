@@ -1,0 +1,6 @@
+@ProcessorMessageApi_HostAddress = http://localhost:5192
+
+GET {{ProcessorMessageApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
