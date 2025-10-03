@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\mti.partymanagement.services.api\\applications\\getassetsbyids\\getassetsbyidshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|solutionrelative:mti.partymanagement.services.api\\applications\\getassetsbyids\\getassetsbyidshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\mti.partymanagement.services.api\\infrastructure\\messagestreammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|solutionrelative:mti.partymanagement.services.api\\infrastructure\\messagestreammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\mti.partymanagement.services.api\\backgroundservices\\savepartiesbyorder\\savepartiesbyorderconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|solutionrelative:mti.partymanagement.services.api\\backgroundservices\\savepartiesbyorder\\savepartiesbyorderconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\mti.partymanagement.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|solutionrelative:mti.partymanagement.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C63D35-B31D-786B-C84F-3CC583B6AC84}|Mti.PartyManagement.Messaging\\Mti.PartyManagement.Messaging.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\mti.partymanagement.messaging\\parties\\getassetsbyids\\getassetsbyidsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C63D35-B31D-786B-C84F-3CC583B6AC84}|Mti.PartyManagement.Messaging\\Mti.PartyManagement.Messaging.csproj|solutionrelative:mti.partymanagement.messaging\\parties\\getassetsbyids\\getassetsbyidsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\mti.partymanagement.services.api\\backgroundservices\\parties\\partyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A004D8-1247-48FB-8CE8-A142FACCA3B0}|Mti.PartyManagement.Services.Api\\Mti.PartyManagement.Services.Api.csproj|solutionrelative:mti.partymanagement.services.api\\backgroundservices\\parties\\partyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageStreamManager.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\Infrastructure\\MessageStreamManager.cs",
+              "RelativeDocumentMoniker": "Mti.PartyManagement.Services.Api\\Infrastructure\\MessageStreamManager.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\Infrastructure\\MessageStreamManager.cs",
+              "RelativeToolTip": "Mti.PartyManagement.Services.Api\\Infrastructure\\MessageStreamManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:06:43.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mti.PartyManagement.Services.Api\\Program.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\Program.cs",
+              "RelativeToolTip": "Mti.PartyManagement.Services.Api\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:30:50.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAssetsByIdsHandler.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\Applications\\GetAssetsByIds\\GetAssetsByIdsHandler.cs",
+              "RelativeDocumentMoniker": "Mti.PartyManagement.Services.Api\\Applications\\GetAssetsByIds\\GetAssetsByIdsHandler.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\Applications\\GetAssetsByIds\\GetAssetsByIdsHandler.cs",
+              "RelativeToolTip": "Mti.PartyManagement.Services.Api\\Applications\\GetAssetsByIds\\GetAssetsByIdsHandler.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAD4v64AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:25:13.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAssetsByIdsResponse.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Messaging\\Parties\\GetAssetsByIds\\GetAssetsByIdsResponse.cs",
+              "RelativeDocumentMoniker": "Mti.PartyManagement.Messaging\\Parties\\GetAssetsByIds\\GetAssetsByIdsResponse.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Messaging\\Parties\\GetAssetsByIds\\GetAssetsByIdsResponse.cs",
+              "RelativeToolTip": "Mti.PartyManagement.Messaging\\Parties\\GetAssetsByIds\\GetAssetsByIdsResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:49:13.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartyService.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\BackgroundServices\\Parties\\PartyService.cs",
+              "RelativeDocumentMoniker": "Mti.PartyManagement.Services.Api\\BackgroundServices\\Parties\\PartyService.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\BackgroundServices\\Parties\\PartyService.cs",
+              "RelativeToolTip": "Mti.PartyManagement.Services.Api\\BackgroundServices\\Parties\\PartyService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwDAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:47:12.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavePartiesByOrderConsumer.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\BackgroundServices\\SavePartiesByOrder\\SavePartiesByOrderConsumer.cs",
+              "RelativeDocumentMoniker": "Mti.PartyManagement.Services.Api\\BackgroundServices\\SavePartiesByOrder\\SavePartiesByOrderConsumer.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-party-management-services\\src\\Mti.PartyManagement.Services.Api\\BackgroundServices\\SavePartiesByOrder\\SavePartiesByOrderConsumer.cs",
+              "RelativeToolTip": "Mti.PartyManagement.Services.Api\\BackgroundServices\\SavePartiesByOrder\\SavePartiesByOrderConsumer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAtwIUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:08:58.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

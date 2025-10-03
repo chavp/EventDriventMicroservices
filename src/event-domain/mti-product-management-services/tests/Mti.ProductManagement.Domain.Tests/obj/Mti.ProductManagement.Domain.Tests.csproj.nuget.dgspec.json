@@ -1,0 +1,434 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\Mti.ProductManagement.Domain.Tests\\Mti.ProductManagement.Domain.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Application\\Mti.ProductManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Application\\Mti.ProductManagement.Application.csproj",
+        "projectName": "Mti.ProductManagement.Application",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Application\\Mti.ProductManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Messaging\\Mti.ProductManagement.Messaging.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Messaging\\Mti.ProductManagement.Messaging.csproj"
+              },
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Persistance\\Mti.ProductManagement.Persistance.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Persistance\\Mti.ProductManagement.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "FluentResults": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj",
+        "projectName": "Mti.ProductManagement.Domain",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Messaging\\Mti.ProductManagement.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Messaging\\Mti.ProductManagement.Messaging.csproj",
+        "projectName": "Mti.ProductManagement.Messaging",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Messaging\\Mti.ProductManagement.Messaging.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Persistance\\Mti.ProductManagement.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Persistance\\Mti.ProductManagement.Persistance.csproj",
+        "projectName": "Mti.ProductManagement.Persistance",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Persistance\\Mti.ProductManagement.Persistance.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\Mti.ProductManagement.Domain.Tests\\Mti.ProductManagement.Domain.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\Mti.ProductManagement.Domain.Tests\\Mti.ProductManagement.Domain.Tests.csproj",
+        "projectName": "Mti.ProductManagement.Domain.Tests",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\Mti.ProductManagement.Domain.Tests\\Mti.ProductManagement.Domain.Tests.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\Mti.ProductManagement.Domain.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Application\\Mti.ProductManagement.Application.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Application\\Mti.ProductManagement.Application.csproj"
+              },
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Persistance\\Mti.ProductManagement.Persistance.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Persistance\\Mti.ProductManagement.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

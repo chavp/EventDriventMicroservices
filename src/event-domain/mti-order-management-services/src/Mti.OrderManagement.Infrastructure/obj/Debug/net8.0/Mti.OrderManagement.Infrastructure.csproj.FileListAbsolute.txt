@@ -1,0 +1,17 @@
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\bin\Debug\net8.0\Mti.OrderManagement.Infrastructure.deps.json
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\bin\Debug\net8.0\Mti.OrderManagement.Infrastructure.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\bin\Debug\net8.0\Mti.OrderManagement.Infrastructure.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\bin\Debug\net8.0\Mti.Domain.Application.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\bin\Debug\net8.0\Mti.Domain.Core.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\bin\Debug\net8.0\Mti.Domain.Application.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\bin\Debug\net8.0\Mti.Domain.Core.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\Mti.OrderManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\Mti.OrderManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\Mti.OrderManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\Mti.OrderManagement.Infrastructure.AssemblyInfo.cs
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\Mti.OrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\Mti.Orde.BBBD062F.Up2Date
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\Mti.OrderManagement.Infrastructure.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\refint\Mti.OrderManagement.Infrastructure.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\Mti.OrderManagement.Infrastructure.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Infrastructure\obj\Debug\net8.0\ref\Mti.OrderManagement.Infrastructure.dll

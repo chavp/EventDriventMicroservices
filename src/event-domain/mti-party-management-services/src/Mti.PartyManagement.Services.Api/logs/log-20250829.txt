@@ -1,0 +1,614 @@
+2025-08-29 09:32:02.963 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 09:32:03.018 +07:00 [DBG] Hosting starting
+2025-08-29 09:32:03.716 +07:00 [DBG] Middleware loaded
+2025-08-29 09:32:03.723 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 09:32:03.790 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 09:32:04.388 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 09:32:04.525 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 09:32:04.657 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 09:32:04.659 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 09:32:04.661 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 09:32:04.663 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 09:32:04.664 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 09:32:04.695 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 09:32:04.797 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 09:32:04.811 +07:00 [INF] Hosting environment: Development
+2025-08-29 09:32:04.812 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 09:32:04.813 +07:00 [DBG] Hosting started
+2025-08-29 09:32:09.363 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[]}
+2025-08-29 09:32:09.363 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[]}
+2025-08-29 09:32:09.374 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[]}
+2025-08-29 09:32:09.516 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 09:32:09.516 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 09:32:09.541 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 09:32:09.559 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 09:32:09.605 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 09:32:09.616 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 09:32:09.648 +07:00 [INF] Response correlationId = 8f8c778b-705d-4e4d-bb88-3cbab7668b87, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 8f8c778b-705d-4e4d-bb88-3cbab7668b87
+2025-08-29 09:32:09.667 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 09:32:09.764 +07:00 [INF] Response correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b
+2025-08-29 09:32:09.783 +07:00 [INF] Response correlationId = 9c7f346d-169d-4346-917e-c6b05dc812a2, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 9c7f346d-169d-4346-917e-c6b05dc812a2
+2025-08-29 09:32:10.024 +07:00 [INF] Response correlationId = 66bfca37-0905-4847-a685-f3d85ee3d13a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 66bfca37-0905-4847-a685-f3d85ee3d13a
+2025-08-29 09:32:10.082 +07:00 [INF] Response correlationId = 5383c013-28d7-4865-a85a-fc5ed3162d7a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 5383c013-28d7-4865-a85a-fc5ed3162d7a
+2025-08-29 09:32:10.091 +07:00 [INF] Response correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75
+2025-08-29 09:32:10.133 +07:00 [INF] Response correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617
+2025-08-29 09:32:10.195 +07:00 [INF] Response correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f
+2025-08-29 09:32:10.206 +07:00 [INF] Response correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104
+2025-08-29 09:32:10.222 +07:00 [INF] Response correlationId = 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3
+2025-08-29 09:43:49.173 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 09:43:49.721 +07:00 [INF] Response correlationId = 3b640909-f6a2-46b5-a8e1-6bef62d4f108, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 3b640909-f6a2-46b5-a8e1-6bef62d4f108
+2025-08-29 09:44:09.509 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 09:44:10.037 +07:00 [INF] Response correlationId = 1832f2ba-3f69-433a-8468-b12e4c288a6e, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 1832f2ba-3f69-433a-8468-b12e4c288a6e
+2025-08-29 09:45:01.240 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 09:45:01.334 +07:00 [DBG] Hosting starting
+2025-08-29 09:45:01.632 +07:00 [DBG] Middleware loaded
+2025-08-29 09:45:01.646 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 09:45:01.653 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 09:45:02.035 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 09:45:02.300 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 09:45:02.305 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 09:45:02.308 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 09:45:02.309 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 09:45:02.311 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 09:45:02.312 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 09:45:02.314 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 09:45:02.318 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 09:45:02.319 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 09:45:02.321 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 09:45:02.322 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 09:45:02.332 +07:00 [INF] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 09:45:02.401 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 09:45:02.403 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 09:45:02.406 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 09:45:02.407 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 09:45:02.409 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 09:45:02.432 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 09:45:02.593 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 09:45:02.606 +07:00 [INF] Hosting environment: Development
+2025-08-29 09:45:02.609 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 09:45:02.612 +07:00 [DBG] Hosting started
+2025-08-29 09:45:18.919 +07:00 [DBG] 📦 [Worker-2] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 09:45:40.716 +07:00 [DBG] ✅ [Worker-2] Completed: 973d3d69-9b4d-44ae-b948-bd842f41d0b1
+2025-08-29 09:45:48.687 +07:00 [DBG] Producing response for: {"CorrelationId":"973d3d69-9b4d-44ae-b948-bd842f41d0b1","Data":{"AssetIds":["0198ee8d-77b4-72ad-a599-032d55454757"]},"ConsumeResult":{"Topic":"dev.mti_party_management.get_assets_by_ids.request.th.v1","Partition":{"Value":0,"IsSpecial":false},"Offset":{"Value":12,"IsSpecial":false},"LeaderEpoch":0,"TopicPartition":{"Topic":"dev.mti_party_management.get_assets_by_ids.request.th.v1","Partition":{"Value":0,"IsSpecial":false}},"TopicPartitionOffset":{"Topic":"dev.mti_party_management.get_assets_by_ids.request.th.v1","Partition":{"Value":0,"IsSpecial":false},"Offset":{"Value":12,"IsSpecial":false},"LeaderEpoch":0,"TopicPartition":{"Topic":"dev.mti_party_management.get_assets_by_ids.request.th.v1","Partition":{"Value":0,"IsSpecial":false}}},"Message":{"Key":"973d3d69-9b4d-44ae-b948-bd842f41d0b1","Value":{"AssetIds":["0198ee8d-77b4-72ad-a599-032d55454757"]},"Timestamp":{"Type":1,"UnixTimestampMs":1756435514184,"UtcDateTime":"2025-08-29T02:45:14.184Z"},"Headers":[{"Key":"CorrelationId"}]},"Key":"973d3d69-9b4d-44ae-b948-bd842f41d0b1","Value":{"AssetIds":["0198ee8d-77b4-72ad-a599-032d55454757"]},"Timestamp":{"Type":1,"UnixTimestampMs":1756435514184,"UtcDateTime":"2025-08-29T02:45:14.184Z"},"Headers":[{"Key":"CorrelationId"}],"IsPartitionEOF":false},"ReceivedAt":"2025-08-29T02:45:14.989412Z"}
+2025-08-29 09:45:48.775 +07:00 [INF] Response correlationId = 973d3d69-9b4d-44ae-b948-bd842f41d0b1, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 973d3d69-9b4d-44ae-b948-bd842f41d0b1
+2025-08-29 09:48:49.756 +07:00 [DBG] 📦 [Worker-1] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 09:48:52.203 +07:00 [DBG] ✅ [Worker-1] Completed: 68e5dc0c-0c86-4a4e-9ef3-f5fcf5940ed8
+2025-08-29 09:48:58.399 +07:00 [DBG] Producing response for: {"CorrelationId":"68e5dc0c-0c86-4a4e-9ef3-f5fcf5940ed8","Data":{"AssetIds":["0198ee8d-77b4-72ad-a599-032d55454757"]},"ConsumeResult":{"Topic":"dev.mti_party_management.get_assets_by_ids.request.th.v1","Partition":{"Value":0,"IsSpecial":false},"Offset":{"Value":13,"IsSpecial":false},"LeaderEpoch":0,"TopicPartition":{"Topic":"dev.mti_party_management.get_assets_by_ids.request.th.v1","Partition":{"Value":0,"IsSpecial":false}},"TopicPartitionOffset":{"Topic":"dev.mti_party_management.get_assets_by_ids.request.th.v1","Partition":{"Value":0,"IsSpecial":false},"Offset":{"Value":13,"IsSpecial":false},"LeaderEpoch":0,"TopicPartition":{"Topic":"dev.mti_party_management.get_assets_by_ids.request.th.v1","Partition":{"Value":0,"IsSpecial":false}}},"Message":{"Key":"68e5dc0c-0c86-4a4e-9ef3-f5fcf5940ed8","Value":{"AssetIds":["0198ee8d-77b4-72ad-a599-032d55454757"]},"Timestamp":{"Type":1,"UnixTimestampMs":1756435724380,"UtcDateTime":"2025-08-29T02:48:44.38Z"},"Headers":[{"Key":"CorrelationId"}]},"Key":"68e5dc0c-0c86-4a4e-9ef3-f5fcf5940ed8","Value":{"AssetIds":["0198ee8d-77b4-72ad-a599-032d55454757"]},"Timestamp":{"Type":1,"UnixTimestampMs":1756435724380,"UtcDateTime":"2025-08-29T02:48:44.38Z"},"Headers":[{"Key":"CorrelationId"}],"IsPartitionEOF":false},"ReceivedAt":"2025-08-29T02:48:44.6392967Z"}
+2025-08-29 09:49:01.573 +07:00 [INF] Response correlationId = 68e5dc0c-0c86-4a4e-9ef3-f5fcf5940ed8, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 68e5dc0c-0c86-4a4e-9ef3-f5fcf5940ed8
+2025-08-29 09:50:44.733 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 09:50:44.808 +07:00 [DBG] Hosting starting
+2025-08-29 09:50:45.285 +07:00 [DBG] Middleware loaded
+2025-08-29 09:50:45.299 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 09:50:45.305 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 09:50:45.689 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 09:50:45.873 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 09:50:45.926 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 09:50:45.932 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 09:50:45.933 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 09:50:45.934 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 09:50:45.935 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 09:50:45.937 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 09:50:45.938 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 09:50:45.939 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 09:50:45.940 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 09:50:45.942 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 09:50:45.943 +07:00 [INF] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 09:50:45.946 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 09:50:45.947 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 09:50:45.949 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 09:50:45.950 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 09:50:45.955 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 09:50:45.971 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 09:50:46.040 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 09:50:46.042 +07:00 [INF] Hosting environment: Development
+2025-08-29 09:50:46.043 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 09:50:46.044 +07:00 [DBG] Hosting started
+2025-08-29 09:59:51.443 +07:00 [DBG] 📦 [Worker-1] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:00:12.639 +07:00 [DBG] ✅ [Worker-1] Completed: 0c25f986-a641-4a02-829d-15b993a6a97d
+2025-08-29 10:00:21.571 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:00:21.651 +07:00 [INF] Response correlationId = 0c25f986-a641-4a02-829d-15b993a6a97d, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 0c25f986-a641-4a02-829d-15b993a6a97d
+2025-08-29 10:00:27.268 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:00:29.255 +07:00 [DBG] ✅ [Worker-0] Completed: 4aaa0d20-4644-40f8-8075-ec505db5e04d
+2025-08-29 10:00:29.257 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:00:29.794 +07:00 [INF] Response correlationId = 4aaa0d20-4644-40f8-8075-ec505db5e04d, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 4aaa0d20-4644-40f8-8075-ec505db5e04d
+2025-08-29 10:01:11.351 +07:00 [DBG] 📦 [Worker-4] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:01:56.515 +07:00 [DBG] ✅ [Worker-4] Completed: 35a61bf5-08bc-403c-a08e-f932387770eb
+2025-08-29 10:01:56.586 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:01:59.768 +07:00 [INF] Response correlationId = 35a61bf5-08bc-403c-a08e-f932387770eb, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 35a61bf5-08bc-403c-a08e-f932387770eb
+2025-08-29 10:03:20.391 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 10:03:20.452 +07:00 [DBG] Hosting starting
+2025-08-29 10:03:20.682 +07:00 [DBG] Middleware loaded
+2025-08-29 10:03:20.692 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 10:03:20.697 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 10:03:21.049 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 10:03:21.241 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 10:03:21.313 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 10:03:21.318 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 10:03:21.320 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 10:03:21.322 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 10:03:21.323 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 10:03:21.324 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 10:03:21.325 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 10:03:21.326 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 10:03:21.328 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 10:03:21.330 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 10:03:21.331 +07:00 [INF] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 10:03:21.340 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 10:03:21.342 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 10:03:21.344 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 10:03:21.345 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 10:03:21.346 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 10:03:21.367 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 10:03:21.483 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 10:03:21.493 +07:00 [INF] Hosting environment: Development
+2025-08-29 10:03:21.495 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 10:03:21.496 +07:00 [DBG] Hosting started
+2025-08-29 10:03:44.382 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:03:58.816 +07:00 [DBG] ✅ [Worker-0] Completed: 3db80f87-0529-4659-865f-22edfeb52ee0
+2025-08-29 10:04:17.921 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:04:18.477 +07:00 [INF] Response correlationId = 3db80f87-0529-4659-865f-22edfeb52ee0, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 3db80f87-0529-4659-865f-22edfeb52ee0
+2025-08-29 10:08:01.873 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 10:08:01.921 +07:00 [DBG] Hosting starting
+2025-08-29 10:08:02.142 +07:00 [DBG] Middleware loaded
+2025-08-29 10:08:02.153 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 10:08:02.159 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 10:08:02.419 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 10:08:02.533 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 10:08:02.617 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 10:08:02.619 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 10:08:02.621 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 10:08:02.622 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 10:08:02.622 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 10:08:02.636 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 10:08:02.705 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 10:08:02.711 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 10:08:02.713 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 10:08:02.715 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 10:08:02.717 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 10:08:02.718 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 10:08:02.720 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 10:08:02.721 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 10:08:02.722 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 10:08:02.724 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 10:08:02.725 +07:00 [INF] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 10:08:02.739 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 10:08:02.747 +07:00 [INF] Hosting environment: Development
+2025-08-29 10:08:02.749 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 10:08:02.751 +07:00 [DBG] Hosting started
+2025-08-29 10:08:50.189 +07:00 [DBG] 📦 [Worker-1] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:08:50.485 +07:00 [DBG] ✅ [Worker-1] Completed: 76e086b5-175d-4469-b41f-40b446279068
+2025-08-29 10:09:27.819 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:09:27.911 +07:00 [INF] Response correlationId = 76e086b5-175d-4469-b41f-40b446279068, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 76e086b5-175d-4469-b41f-40b446279068
+2025-08-29 10:11:16.414 +07:00 [DBG] 📦 [Worker-2] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:11:16.492 +07:00 [DBG] ✅ [Worker-2] Completed: fa2779f0-3300-43cd-9f8d-14fb79949cd0
+2025-08-29 10:20:40.200 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:20:40.267 +07:00 [ERR] Consume Error
+2025-08-29 10:20:40.273 +07:00 [ERR] Error consuming messages from topic dev.mti_party_management.save_parties_by_order.request.th.v1 Application maximum poll interval (300000ms) exceeded by 96ms
+Confluent.Kafka.ConsumeException: Application maximum poll interval (300000ms) exceeded by 96ms
+   at Confluent.Kafka.Consumer`2.Consume(Int32 millisecondsTimeout)
+   at Confluent.Kafka.Consumer`2.Consume(CancellationToken cancellationToken)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 85
+2025-08-29 10:20:40.439 +07:00 [INF] Response correlationId = fa2779f0-3300-43cd-9f8d-14fb79949cd0, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = fa2779f0-3300-43cd-9f8d-14fb79949cd0
+2025-08-29 10:20:43.618 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:20:43.618 +07:00 [DBG] 📦 [Worker-3] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:20:43.631 +07:00 [DBG] 📦 [Worker-6] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:20:43.618 +07:00 [DBG] 📦 [Worker-4] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:20:43.619 +07:00 [DBG] 📦 [Worker-5] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:20:43.734 +07:00 [DBG] 📦 [Worker-7] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:20:43.871 +07:00 [DBG] ✅ [Worker-3] Completed: 8645501a-cd13-452d-aa58-7ac247b36eb1
+2025-08-29 10:20:43.951 +07:00 [DBG] ✅ [Worker-5] Completed: ef19722f-775c-4bc6-9357-0514ab2b86a1
+2025-08-29 10:20:43.952 +07:00 [DBG] ✅ [Worker-0] Completed: d05ed18d-e79d-41c7-964e-ea3253fa84a1
+2025-08-29 10:20:43.951 +07:00 [DBG] ✅ [Worker-4] Completed: aa34b199-f0d0-4c0d-89ec-a2063318ec8b
+2025-08-29 10:20:43.952 +07:00 [DBG] ✅ [Worker-6] Completed: fc60928d-c47b-445a-a115-ae10d84b794c
+2025-08-29 10:20:43.951 +07:00 [DBG] ✅ [Worker-7] Completed: 43f2b645-ac41-43fb-9b8f-e51fb6d7da5f
+2025-08-29 10:20:43.992 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:20:44.078 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:20:44.078 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:20:44.080 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:20:44.078 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:20:44.078 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:20:44.243 +07:00 [INF] Response correlationId = d05ed18d-e79d-41c7-964e-ea3253fa84a1, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = d05ed18d-e79d-41c7-964e-ea3253fa84a1
+2025-08-29 10:20:44.531 +07:00 [INF] Response correlationId = 8645501a-cd13-452d-aa58-7ac247b36eb1, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 8645501a-cd13-452d-aa58-7ac247b36eb1
+2025-08-29 10:20:44.619 +07:00 [INF] Response correlationId = fc60928d-c47b-445a-a115-ae10d84b794c, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = fc60928d-c47b-445a-a115-ae10d84b794c
+2025-08-29 10:20:44.626 +07:00 [INF] Response correlationId = aa34b199-f0d0-4c0d-89ec-a2063318ec8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = aa34b199-f0d0-4c0d-89ec-a2063318ec8b
+2025-08-29 10:20:44.631 +07:00 [INF] Response correlationId = ef19722f-775c-4bc6-9357-0514ab2b86a1, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = ef19722f-775c-4bc6-9357-0514ab2b86a1
+2025-08-29 10:20:45.147 +07:00 [INF] Response correlationId = 43f2b645-ac41-43fb-9b8f-e51fb6d7da5f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 43f2b645-ac41-43fb-9b8f-e51fb6d7da5f
+2025-08-29 10:21:17.091 +07:00 [DBG] 📦 [Worker-8] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:21:17.107 +07:00 [DBG] ✅ [Worker-8] Completed: cdee5652-cb47-45db-8db7-80a882db754f
+2025-08-29 10:21:17.115 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:21:17.650 +07:00 [INF] Response correlationId = cdee5652-cb47-45db-8db7-80a882db754f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = cdee5652-cb47-45db-8db7-80a882db754f
+2025-08-29 10:22:26.424 +07:00 [DBG] 📦 [Worker-9] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:22:26.467 +07:00 [DBG] ✅ [Worker-9] Completed: 7c2f1b0c-ead0-4660-9472-2d0ce1b3cf84
+2025-08-29 10:22:26.483 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:22:27.003 +07:00 [INF] Response correlationId = 7c2f1b0c-ead0-4660-9472-2d0ce1b3cf84, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 7c2f1b0c-ead0-4660-9472-2d0ce1b3cf84
+2025-08-29 10:30:29.584 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 10:30:29.668 +07:00 [DBG] Hosting starting
+2025-08-29 10:30:29.968 +07:00 [DBG] Middleware loaded
+2025-08-29 10:30:29.976 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 10:30:29.981 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 10:30:30.319 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 10:30:30.463 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 10:30:30.466 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 10:30:30.472 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 10:30:30.474 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 10:30:30.477 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 10:30:30.479 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 10:30:30.480 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 10:30:30.483 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 10:30:30.492 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 10:30:30.500 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 10:30:30.501 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 10:30:30.503 +07:00 [INF] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 10:30:30.547 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 10:30:30.548 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 10:30:30.549 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 10:30:30.550 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 10:30:30.551 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 10:30:30.567 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 10:30:30.684 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 10:30:30.686 +07:00 [INF] Hosting environment: Development
+2025-08-29 10:30:30.687 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 10:30:30.688 +07:00 [DBG] Hosting started
+2025-08-29 10:31:20.442 +07:00 [DBG] 📦 [Worker-1] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:31:21.094 +07:00 [DBG] ✅ [Worker-1] Completed: d39de97b-12fc-4bf6-9f4f-b6212895370e
+2025-08-29 10:31:21.224 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:31:21.318 +07:00 [INF] Response correlationId = d39de97b-12fc-4bf6-9f4f-b6212895370e, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = d39de97b-12fc-4bf6-9f4f-b6212895370e
+2025-08-29 10:32:41.918 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:32:41.943 +07:00 [DBG] ✅ [Worker-0] Completed: c8852dc2-d81c-442a-a2ad-d39ebc930f4c
+2025-08-29 10:32:41.964 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:32:42.497 +07:00 [INF] Response correlationId = c8852dc2-d81c-442a-a2ad-d39ebc930f4c, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = c8852dc2-d81c-442a-a2ad-d39ebc930f4c
+2025-08-29 10:33:37.441 +07:00 [DBG] 📦 [Worker-5] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:33:40.384 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:33:40.409 +07:00 [DBG] ✅ [Worker-5] Completed: a9201166-3988-4557-9af8-0a3811afbcb3
+2025-08-29 10:33:42.211 +07:00 [INF] Response correlationId = a9201166-3988-4557-9af8-0a3811afbcb3, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = a9201166-3988-4557-9af8-0a3811afbcb3
+2025-08-29 10:34:01.944 +07:00 [DBG] 📦 [Worker-6] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:34:03.998 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:34:04.028 +07:00 [DBG] ✅ [Worker-6] Completed: 4bd7b72e-7de2-4277-83c9-f468b262f3d4
+2025-08-29 10:34:10.625 +07:00 [INF] Response correlationId = 4bd7b72e-7de2-4277-83c9-f468b262f3d4, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 4bd7b72e-7de2-4277-83c9-f468b262f3d4
+2025-08-29 10:35:06.400 +07:00 [DBG] 📦 [Worker-2] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:35:07.607 +07:00 [DBG] ✅ [Worker-2] Completed: f094f678-5913-45b0-a60d-29413261567d
+2025-08-29 10:35:07.610 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:35:08.138 +07:00 [INF] Response correlationId = f094f678-5913-45b0-a60d-29413261567d, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = f094f678-5913-45b0-a60d-29413261567d
+2025-08-29 10:36:44.239 +07:00 [DBG] 📦 [Worker-7] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:36:56.610 +07:00 [DBG] ✅ [Worker-7] Completed: e4d85bde-ff24-47f1-ab87-6abca7c0e60d
+2025-08-29 10:36:56.612 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:36:57.150 +07:00 [INF] Response correlationId = e4d85bde-ff24-47f1-ab87-6abca7c0e60d, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = e4d85bde-ff24-47f1-ab87-6abca7c0e60d
+2025-08-29 10:46:48.057 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 10:46:48.112 +07:00 [DBG] Hosting starting
+2025-08-29 10:46:48.337 +07:00 [DBG] Middleware loaded
+2025-08-29 10:46:48.346 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 10:46:48.351 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 10:46:48.835 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 10:46:48.949 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 10:46:48.955 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 10:46:48.957 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 10:46:48.958 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 10:46:48.960 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 10:46:48.961 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 10:46:48.963 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 10:46:48.963 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 10:46:48.964 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 10:46:48.967 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 10:46:48.969 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 10:46:48.971 +07:00 [INF] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 10:46:49.035 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 10:46:49.037 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 10:46:49.041 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 10:46:49.044 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 10:46:49.045 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 10:46:49.066 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 10:46:49.162 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 10:46:49.170 +07:00 [INF] Hosting environment: Development
+2025-08-29 10:46:49.171 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 10:46:49.173 +07:00 [DBG] Hosting started
+2025-08-29 10:47:23.020 +07:00 [DBG] 📦 [Worker-1] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:47:23.432 +07:00 [DBG] ✅ [Worker-1] Completed: e554bd4e-5a8c-4419-9842-a739f38b46df
+2025-08-29 10:47:23.504 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:47:24.541 +07:00 [INF] Response correlationId = e554bd4e-5a8c-4419-9842-a739f38b46df, reply = dev.mti_party_management.4fb3874f-af9f-4eac-a74a-18e9f1700ef9.reply, correlationId = e554bd4e-5a8c-4419-9842-a739f38b46df
+2025-08-29 10:54:45.374 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:54:45.538 +07:00 [DBG] ✅ [Worker-0] Completed: ced4e827-df41-4401-be4c-a49214688e49
+2025-08-29 10:54:45.572 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:54:46.116 +07:00 [INF] Response correlationId = ced4e827-df41-4401-be4c-a49214688e49, reply = dev.mti_party_management.797f2c84-bb7e-42f5-940f-936b9037e621.reply, correlationId = ced4e827-df41-4401-be4c-a49214688e49
+2025-08-29 10:57:03.488 +07:00 [DBG] 📦 [Worker-3] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:57:03.623 +07:00 [DBG] ✅ [Worker-3] Completed: 6e4b3dec-9d62-4761-9699-ac75e67eb6bb
+2025-08-29 10:57:03.651 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:57:04.210 +07:00 [INF] Response correlationId = 6e4b3dec-9d62-4761-9699-ac75e67eb6bb, reply = dev.mti_party_management.d6cd0396-e1c9-4e69-af21-efbd9e42af77.reply, correlationId = 6e4b3dec-9d62-4761-9699-ac75e67eb6bb
+2025-08-29 10:57:31.105 +07:00 [DBG] 📦 [Worker-5] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:57:31.125 +07:00 [DBG] ✅ [Worker-5] Completed: 6ce073e8-8e69-4ee6-9976-b18c2c7a9f31
+2025-08-29 10:57:31.134 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:57:31.660 +07:00 [INF] Response correlationId = 6ce073e8-8e69-4ee6-9976-b18c2c7a9f31, reply = dev.mti_party_management.f8b03117-81dc-42f2-bbc9-0916a9d8e8d0.reply, correlationId = 6ce073e8-8e69-4ee6-9976-b18c2c7a9f31
+2025-08-29 10:57:54.205 +07:00 [DBG] 📦 [Worker-2] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:57:54.260 +07:00 [DBG] ✅ [Worker-2] Completed: 6acb0530-ad94-41dd-a361-5450e4b54f74
+2025-08-29 10:57:54.262 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:57:54.790 +07:00 [INF] Response correlationId = 6acb0530-ad94-41dd-a361-5450e4b54f74, reply = dev.mti_party_management.7c1fc7df-c391-4cde-a5aa-a7cc82f3d019.reply, correlationId = 6acb0530-ad94-41dd-a361-5450e4b54f74
+2025-08-29 10:57:59.559 +07:00 [DBG] 📦 [Worker-4] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:57:59.613 +07:00 [DBG] ✅ [Worker-4] Completed: 989f90b8-7f22-4b00-8214-d0e9a588c5ca
+2025-08-29 10:57:59.614 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:57:59.747 +07:00 [INF] Response correlationId = 989f90b8-7f22-4b00-8214-d0e9a588c5ca, reply = dev.mti_party_management.61815a07-3f1b-4740-acf3-2af09c40328f.reply, correlationId = 989f90b8-7f22-4b00-8214-d0e9a588c5ca
+2025-08-29 10:58:08.514 +07:00 [DBG] 📦 [Worker-3] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:58:08.531 +07:00 [DBG] ✅ [Worker-3] Completed: 71b96728-db20-4c15-b9f0-6a0142a26a19
+2025-08-29 10:58:08.532 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:58:09.059 +07:00 [INF] Response correlationId = 71b96728-db20-4c15-b9f0-6a0142a26a19, reply = dev.mti_party_management.abb582ed-9568-43f7-8dcb-9d34bb657d68.reply, correlationId = 71b96728-db20-4c15-b9f0-6a0142a26a19
+2025-08-29 10:58:13.398 +07:00 [DBG] 📦 [Worker-6] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:58:13.404 +07:00 [DBG] ✅ [Worker-6] Completed: e51e8fd2-3291-47d1-9d43-7e0a9c97be1d
+2025-08-29 10:58:13.405 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:58:13.938 +07:00 [INF] Response correlationId = e51e8fd2-3291-47d1-9d43-7e0a9c97be1d, reply = dev.mti_party_management.c486ce54-6ef0-4e10-9035-9c0953e10517.reply, correlationId = e51e8fd2-3291-47d1-9d43-7e0a9c97be1d
+2025-08-29 10:58:18.171 +07:00 [DBG] 📦 [Worker-5] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:58:18.183 +07:00 [DBG] ✅ [Worker-5] Completed: 43544572-fd84-4198-981a-ffbb53a6120e
+2025-08-29 10:58:18.184 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:58:18.711 +07:00 [INF] Response correlationId = 43544572-fd84-4198-981a-ffbb53a6120e, reply = dev.mti_party_management.09ff59da-941e-4f80-8dd7-8c9d68acf8ec.reply, correlationId = 43544572-fd84-4198-981a-ffbb53a6120e
+2025-08-29 10:58:22.722 +07:00 [DBG] 📦 [Worker-9] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:58:22.728 +07:00 [DBG] ✅ [Worker-9] Completed: 9ebc9123-c5af-442b-802c-420dedd9cdc9
+2025-08-29 10:58:22.729 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:58:23.265 +07:00 [INF] Response correlationId = 9ebc9123-c5af-442b-802c-420dedd9cdc9, reply = dev.mti_party_management.2b2abd4f-bdd0-4e77-a0ca-b7840ad09fdf.reply, correlationId = 9ebc9123-c5af-442b-802c-420dedd9cdc9
+2025-08-29 10:58:38.973 +07:00 [DBG] 📦 [Worker-8] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:58:38.980 +07:00 [DBG] ✅ [Worker-8] Completed: 5214557d-04a4-47bc-ab85-5be596d16bae
+2025-08-29 10:58:38.982 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:58:39.514 +07:00 [INF] Response correlationId = 5214557d-04a4-47bc-ab85-5be596d16bae, reply = dev.mti_party_management.519fd1fa-5d4a-40de-bb43-26f8023577c4.reply, correlationId = 5214557d-04a4-47bc-ab85-5be596d16bae
+2025-08-29 10:58:43.163 +07:00 [DBG] 📦 [Worker-4] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:58:43.169 +07:00 [DBG] ✅ [Worker-4] Completed: ffea5579-91ea-4216-af4b-422d86e6f379
+2025-08-29 10:58:43.170 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:58:43.704 +07:00 [INF] Response correlationId = ffea5579-91ea-4216-af4b-422d86e6f379, reply = dev.mti_party_management.3d040b92-8ea0-4722-aa00-842c3717727e.reply, correlationId = ffea5579-91ea-4216-af4b-422d86e6f379
+2025-08-29 10:58:47.232 +07:00 [DBG] 📦 [Worker-1] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:58:47.240 +07:00 [DBG] ✅ [Worker-1] Completed: 1434fd8d-3639-41a6-b1bd-f09bf0ebc5c8
+2025-08-29 10:58:47.242 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:58:47.773 +07:00 [INF] Response correlationId = 1434fd8d-3639-41a6-b1bd-f09bf0ebc5c8, reply = dev.mti_party_management.72a2593a-6dc3-4d31-ae76-81bc01dd46ac.reply, correlationId = 1434fd8d-3639-41a6-b1bd-f09bf0ebc5c8
+2025-08-29 10:58:51.654 +07:00 [DBG] 📦 [Worker-3] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:58:51.660 +07:00 [DBG] ✅ [Worker-3] Completed: f4220eaf-eff3-46ed-bb42-754911ca0146
+2025-08-29 10:58:51.664 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:58:52.210 +07:00 [INF] Response correlationId = f4220eaf-eff3-46ed-bb42-754911ca0146, reply = dev.mti_party_management.7b850ee5-51ce-492e-83ef-639b266a105d.reply, correlationId = f4220eaf-eff3-46ed-bb42-754911ca0146
+2025-08-29 10:58:55.869 +07:00 [DBG] 📦 [Worker-7] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:58:55.881 +07:00 [DBG] ✅ [Worker-7] Completed: 1e4d86c5-1979-4c7d-adb9-4c9c7a6af9c1
+2025-08-29 10:58:55.884 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:58:56.417 +07:00 [INF] Response correlationId = 1e4d86c5-1979-4c7d-adb9-4c9c7a6af9c1, reply = dev.mti_party_management.3ddddf94-3ac2-4d37-8bba-83cfc0262bfe.reply, correlationId = 1e4d86c5-1979-4c7d-adb9-4c9c7a6af9c1
+2025-08-29 10:59:00.644 +07:00 [DBG] 📦 [Worker-5] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:59:00.652 +07:00 [DBG] ✅ [Worker-5] Completed: 5258f4df-3934-44cc-b37a-708fdc02aa0d
+2025-08-29 10:59:00.655 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:59:01.187 +07:00 [INF] Response correlationId = 5258f4df-3934-44cc-b37a-708fdc02aa0d, reply = dev.mti_party_management.aca0ddfd-d803-4224-b70f-56ef87e3528a.reply, correlationId = 5258f4df-3934-44cc-b37a-708fdc02aa0d
+2025-08-29 10:59:04.784 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:59:04.790 +07:00 [DBG] ✅ [Worker-0] Completed: 3aff3dbd-37d0-4e5f-af3e-55e8d3177612
+2025-08-29 10:59:04.790 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:59:05.346 +07:00 [INF] Response correlationId = 3aff3dbd-37d0-4e5f-af3e-55e8d3177612, reply = dev.mti_party_management.b01a25a4-f455-479e-a676-b921f5e9eb96.reply, correlationId = 3aff3dbd-37d0-4e5f-af3e-55e8d3177612
+2025-08-29 10:59:08.981 +07:00 [DBG] 📦 [Worker-2] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:59:08.987 +07:00 [DBG] ✅ [Worker-2] Completed: 0344db3b-986a-478b-b006-a0265d6c8e2d
+2025-08-29 10:59:08.988 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:59:09.518 +07:00 [INF] Response correlationId = 0344db3b-986a-478b-b006-a0265d6c8e2d, reply = dev.mti_party_management.ae54e97b-aacd-4c78-a985-8e16aba49cf4.reply, correlationId = 0344db3b-986a-478b-b006-a0265d6c8e2d
+2025-08-29 10:59:14.163 +07:00 [DBG] 📦 [Worker-6] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:59:14.169 +07:00 [DBG] ✅ [Worker-6] Completed: c36d15a5-4da5-4b99-8214-464af240e622
+2025-08-29 10:59:14.169 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:59:14.702 +07:00 [INF] Response correlationId = c36d15a5-4da5-4b99-8214-464af240e622, reply = dev.mti_party_management.f9d06922-561f-4dee-9bb7-76a7b1d39491.reply, correlationId = c36d15a5-4da5-4b99-8214-464af240e622
+2025-08-29 10:59:18.562 +07:00 [DBG] 📦 [Worker-4] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 10:59:18.588 +07:00 [DBG] ✅ [Worker-4] Completed: b45f9e14-624c-49e6-b835-9f2490ca1eda
+2025-08-29 10:59:18.591 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 10:59:19.138 +07:00 [INF] Response correlationId = b45f9e14-624c-49e6-b835-9f2490ca1eda, reply = dev.mti_party_management.7b5c2df0-888b-40e9-a0ed-03bb2ffe65ed.reply, correlationId = b45f9e14-624c-49e6-b835-9f2490ca1eda
+2025-08-29 11:01:23.040 +07:00 [DBG] 📦 [Worker-8] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 11:01:23.191 +07:00 [DBG] ✅ [Worker-8] Completed: 696e5c68-bf65-4850-bd8e-88016c2411bc
+2025-08-29 11:01:23.254 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 11:01:23.799 +07:00 [INF] Response correlationId = 696e5c68-bf65-4850-bd8e-88016c2411bc, reply = dev.mti_party_management.20063137-fe08-4bad-ac1a-50edc54e771e.reply, correlationId = 696e5c68-bf65-4850-bd8e-88016c2411bc
+2025-08-29 11:01:27.210 +07:00 [DBG] 📦 [Worker-3] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 11:01:27.234 +07:00 [DBG] ✅ [Worker-3] Completed: 34b928fd-a4f0-44be-aa84-efbed59f808e
+2025-08-29 11:01:27.239 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 11:01:27.767 +07:00 [INF] Response correlationId = 34b928fd-a4f0-44be-aa84-efbed59f808e, reply = dev.mti_party_management.685938d1-43cb-486d-ba90-c755dcc648f2.reply, correlationId = 34b928fd-a4f0-44be-aa84-efbed59f808e
+2025-08-29 11:14:47.579 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 11:14:47.624 +07:00 [DBG] Hosting starting
+2025-08-29 11:14:47.930 +07:00 [DBG] Middleware loaded
+2025-08-29 11:14:47.935 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 11:14:47.943 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 11:18:31.908 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 11:18:31.973 +07:00 [DBG] Hosting starting
+2025-08-29 11:18:32.353 +07:00 [DBG] Middleware loaded
+2025-08-29 11:18:32.365 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 11:18:32.370 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 11:18:32.799 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 11:18:32.946 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 11:18:33.027 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 11:18:33.028 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 11:18:33.030 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 11:18:33.032 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 11:18:33.032 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 11:18:33.033 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 11:18:33.035 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 11:18:33.036 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 11:18:33.037 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 11:18:33.039 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 11:18:33.040 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 11:18:33.041 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 11:18:33.043 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 11:18:33.044 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 11:18:33.044 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 11:18:33.046 +07:00 [INF] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 11:18:33.057 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 11:18:33.158 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 11:18:33.172 +07:00 [INF] Hosting environment: Development
+2025-08-29 11:18:33.173 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 11:18:33.175 +07:00 [DBG] Hosting started
+2025-08-29 11:18:40.932 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 11:18:41.325 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 11:18:41.410 +07:00 [INF] Response correlationId = 9ea3b5bc-76fb-4a63-be44-ef3148c08129, reply = dev.mti_party_management.89219892-f24d-4c6d-b395-1f053d602cd7.reply, correlationId = 9ea3b5bc-76fb-4a63-be44-ef3148c08129
+2025-08-29 11:18:41.516 +07:00 [DBG] ✅ [Worker-0] Completed: 9ea3b5bc-76fb-4a63-be44-ef3148c08129
+2025-08-29 11:18:47.265 +07:00 [DBG] 📦 [Worker-2] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 11:18:47.279 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 11:18:47.808 +07:00 [INF] Response correlationId = 57406391-9259-4c27-ab2e-9e8afc0071cc, reply = dev.mti_party_management.3060a591-6cbe-4fca-b181-38a3b375db67.reply, correlationId = 57406391-9259-4c27-ab2e-9e8afc0071cc
+2025-08-29 11:18:47.929 +07:00 [DBG] ✅ [Worker-2] Completed: 57406391-9259-4c27-ab2e-9e8afc0071cc
+2025-08-29 12:59:15.143 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 12:59:15.189 +07:00 [DBG] Hosting starting
+2025-08-29 12:59:15.513 +07:00 [DBG] Middleware loaded
+2025-08-29 12:59:15.524 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 12:59:15.529 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 12:59:15.903 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 12:59:16.052 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 12:59:16.118 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 12:59:16.120 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 12:59:16.123 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 12:59:16.124 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 12:59:16.127 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 12:59:16.147 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 12:59:16.198 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 12:59:16.203 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 12:59:16.205 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 12:59:16.206 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 12:59:16.208 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 12:59:16.209 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 12:59:16.211 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 12:59:16.212 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 12:59:16.213 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 12:59:16.215 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 12:59:16.216 +07:00 [DBG] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 12:59:16.231 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 12:59:16.241 +07:00 [INF] Hosting environment: Development
+2025-08-29 12:59:16.242 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 12:59:16.244 +07:00 [DBG] Hosting started
+2025-08-29 13:01:52.527 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:01:53.253 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 13:01:53.831 +07:00 [INF] Response correlationId = e1e9f02e-e8ef-4dd9-b17f-b7880eb377b4, reply = dev.reply_temp.30d2073d-2713-4cc0-8976-4167c25ea286.1756447308556, correlationId = e1e9f02e-e8ef-4dd9-b17f-b7880eb377b4
+2025-08-29 13:01:53.946 +07:00 [DBG] ✅ [Worker-0] Completed: e1e9f02e-e8ef-4dd9-b17f-b7880eb377b4
+2025-08-29 13:02:34.059 +07:00 [DBG] 📦 [Worker-3] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:02:34.081 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-29 13:02:34.610 +07:00 [INF] Response correlationId = 1f39fb64-2b4c-4c8b-b901-64dfea5e37db, reply = dev.reply_temp.777ff8bf-48fe-4d59-a2d4-2c04578ca8bf.1756447351437, correlationId = 1f39fb64-2b4c-4c8b-b901-64dfea5e37db
+2025-08-29 13:02:34.720 +07:00 [DBG] ✅ [Worker-3] Completed: 1f39fb64-2b4c-4c8b-b901-64dfea5e37db
+2025-08-29 13:04:52.663 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 13:04:52.753 +07:00 [DBG] Hosting starting
+2025-08-29 13:04:53.044 +07:00 [DBG] Middleware loaded
+2025-08-29 13:04:53.054 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 13:04:53.060 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 13:04:53.391 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 13:04:53.583 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 13:04:53.598 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 13:04:53.605 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 13:04:53.607 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 13:04:53.617 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 13:04:53.623 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 13:04:53.626 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 13:04:53.628 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 13:04:53.630 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 13:04:53.632 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 13:04:53.634 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 13:04:53.635 +07:00 [DBG] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 13:04:53.675 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 13:04:53.677 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 13:04:53.680 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 13:04:53.681 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 13:04:53.683 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 13:04:53.704 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 13:04:53.792 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 13:04:53.793 +07:00 [INF] Hosting environment: Development
+2025-08-29 13:04:53.794 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 13:04:53.796 +07:00 [DBG] Hosting started
+2025-08-29 13:05:42.136 +07:00 [DBG] 📦 [Worker-1] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:07:06.937 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 13:07:07.054 +07:00 [DBG] Hosting starting
+2025-08-29 13:07:07.518 +07:00 [DBG] Middleware loaded
+2025-08-29 13:07:07.538 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 13:07:07.546 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 13:07:08.086 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 13:07:08.326 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 13:07:08.332 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 13:07:08.334 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 13:07:08.336 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 13:07:08.338 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 13:07:08.339 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 13:07:08.340 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 13:07:08.341 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 13:07:08.343 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 13:07:08.345 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 13:07:08.346 +07:00 [DBG] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 13:07:12.104 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 13:07:12.192 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 13:07:12.194 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 13:07:12.196 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 13:07:12.197 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 13:07:12.198 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 13:07:12.217 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 13:07:12.338 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 13:07:12.346 +07:00 [INF] Hosting environment: Development
+2025-08-29 13:07:12.347 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 13:07:12.351 +07:00 [DBG] Hosting started
+2025-08-29 13:07:21.718 +07:00 [DBG] 📦 [Worker-2] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:09:01.029 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 13:09:01.092 +07:00 [DBG] Hosting starting
+2025-08-29 13:09:01.382 +07:00 [DBG] Middleware loaded
+2025-08-29 13:09:01.397 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 13:09:01.402 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 13:09:02.064 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 13:09:02.133 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 13:09:02.142 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 13:09:02.145 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 13:09:02.152 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 13:09:02.156 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 13:09:02.159 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 13:09:02.161 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 13:09:02.166 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 13:09:02.168 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 13:09:02.170 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 13:09:02.172 +07:00 [DBG] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 13:09:05.567 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 13:09:05.676 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 13:09:05.678 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 13:09:05.682 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 13:09:05.683 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 13:09:05.685 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 13:09:05.715 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 13:09:05.913 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 13:09:05.922 +07:00 [INF] Hosting environment: Development
+2025-08-29 13:09:05.924 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 13:09:05.927 +07:00 [DBG] Hosting started
+2025-08-29 13:09:30.026 +07:00 [DBG] 📦 [Worker-1] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:09:30.476 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: Test
+   at Mti.PartyManagement.Services.Api.Infrastructure.MessageStreamManager`2.ProduceResponseAsync[TResponse](String correlationId, String replyToTopic, TResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\Infrastructure\MessageStreamManager.cs:line 62
+2025-08-29 13:09:30.542 +07:00 [DBG] ✅ [Worker-1] Completed: 9f8a0c7e-3b2b-4931-bf86-7e61a1a2f0cd
+2025-08-29 13:10:42.247 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:10:42.549 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: Test
+   at Mti.PartyManagement.Services.Api.Infrastructure.MessageStreamManager`2.ProduceResponseAsync[TResponse](String correlationId, String replyToTopic, TResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\Infrastructure\MessageStreamManager.cs:line 62
+2025-08-29 13:10:42.570 +07:00 [DBG] ✅ [Worker-0] Completed: 6c9b5271-1490-42ac-8d52-46ba09a66e59
+2025-08-29 13:11:45.314 +07:00 [DBG] 📦 [Worker-2] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:11:50.682 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: Test
+   at Mti.PartyManagement.Services.Api.Infrastructure.MessageStreamManager`2.ProduceResponseAsync[TResponse](String correlationId, String replyToTopic, TResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\Infrastructure\MessageStreamManager.cs:line 62
+2025-08-29 13:12:37.504 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-29 13:12:37.664 +07:00 [DBG] Hosting starting
+2025-08-29 13:12:38.768 +07:00 [DBG] Middleware loaded
+2025-08-29 13:12:38.789 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-29 13:12:38.801 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-29 13:12:39.540 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-29 13:12:39.667 +07:00 [DBG] 👷 Worker 0 started
+2025-08-29 13:12:39.677 +07:00 [DBG] 👷 Worker 1 started
+2025-08-29 13:12:39.681 +07:00 [DBG] 👷 Worker 2 started
+2025-08-29 13:12:39.684 +07:00 [DBG] 👷 Worker 3 started
+2025-08-29 13:12:39.686 +07:00 [DBG] 👷 Worker 4 started
+2025-08-29 13:12:39.689 +07:00 [DBG] 👷 Worker 5 started
+2025-08-29 13:12:39.691 +07:00 [DBG] 👷 Worker 6 started
+2025-08-29 13:12:39.693 +07:00 [DBG] 👷 Worker 7 started
+2025-08-29 13:12:39.697 +07:00 [DBG] 👷 Worker 8 started
+2025-08-29 13:12:39.700 +07:00 [DBG] 👷 Worker 9 started
+2025-08-29 13:12:39.703 +07:00 [DBG] ⚡Producer-Consumer Started (Max Parallel: 10)
+2025-08-29 13:12:42.841 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-29 13:12:43.003 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-29 13:12:43.005 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-29 13:12:43.009 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-29 13:12:43.012 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-29 13:12:43.014 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-29 13:12:43.049 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-29 13:12:43.260 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-29 13:12:43.316 +07:00 [INF] Hosting environment: Development
+2025-08-29 13:12:43.320 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-29 13:12:43.326 +07:00 [DBG] Hosting started
+2025-08-29 13:13:07.101 +07:00 [DBG] 📦 [Worker-1] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:13:09.000 +07:00 [DBG] 📦 [Worker-0] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:13:20.783 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: Test
+   at Mti.PartyManagement.Services.Api.Infrastructure.MessageStreamManager`2.ProduceResponseAsync[TResponse](String correlationId, String replyToTopic, TResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\Infrastructure\MessageStreamManager.cs:line 62
+2025-08-29 13:13:20.783 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: Test
+   at Mti.PartyManagement.Services.Api.Infrastructure.MessageStreamManager`2.ProduceResponseAsync[TResponse](String correlationId, String replyToTopic, TResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\Infrastructure\MessageStreamManager.cs:line 62
+2025-08-29 13:13:26.353 +07:00 [INF] Response error correlationId = 2b8ef5c7-5128-4589-83a7-5b3097a31478
+2025-08-29 13:13:26.353 +07:00 [INF] Response error correlationId = b40c0892-4aab-418d-a1ac-2dbd5301ad0a
+2025-08-29 13:13:26.473 +07:00 [DBG] ✅ [Worker-1] Completed: b40c0892-4aab-418d-a1ac-2dbd5301ad0a
+2025-08-29 13:13:26.473 +07:00 [DBG] ✅ [Worker-0] Completed: 2b8ef5c7-5128-4589-83a7-5b3097a31478
+2025-08-29 13:13:40.634 +07:00 [DBG] 📦 [Worker-2] Processing: 0198ee8d-77b4-72ad-a599-032d55454757
+2025-08-29 13:13:43.886 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: Test
+   at Mti.PartyManagement.Services.Api.Infrastructure.MessageStreamManager`2.ProduceResponseAsync[TResponse](String correlationId, String replyToTopic, TResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\Infrastructure\MessageStreamManager.cs:line 62
+2025-08-29 13:13:44.422 +07:00 [INF] Response error correlationId = 0e2d2fe1-9373-4b77-b2a5-39b75e406729
+2025-08-29 13:13:44.528 +07:00 [DBG] ✅ [Worker-2] Completed: 0e2d2fe1-9373-4b77-b2a5-39b75e406729

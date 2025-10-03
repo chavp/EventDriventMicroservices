@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+	  <Compile Remove="Builders\**" />
+	  <EmbeddedResource Remove="Builders\**" />
+	  <None Remove="Builders\**" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Compile Remove="Orders\_MtiOriginalOrderItemResponse.cs" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Mti.OrderManagement.Domain\Mti.OrderManagement.Domain.csproj" />
+	  <ProjectReference Include="..\SharedKernel\Mti.OrderManagement.Messaging\Mti.OrderManagement.Messaging.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Reference Include="Mti.PartyManagement.Messaging">
+	    <HintPath>..\SharedKernel\lib\Mti.PartyManagement.Messaging\net8.0\Mti.PartyManagement.Messaging.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+</Project>

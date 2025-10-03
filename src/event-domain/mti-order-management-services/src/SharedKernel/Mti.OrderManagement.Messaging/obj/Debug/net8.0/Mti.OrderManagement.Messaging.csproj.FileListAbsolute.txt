@@ -1,0 +1,15 @@
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\bin\Debug\net8.0\Mti.OrderManagement.Messaging.deps.json
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\bin\Debug\net8.0\Mti.OrderManagement.Messaging.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\bin\Debug\net8.0\Mti.OrderManagement.Messaging.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\Mti.OrderManagement.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\Mti.OrderManagement.Messaging.AssemblyInfoInputs.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\Mti.OrderManagement.Messaging.AssemblyInfo.cs
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\Mti.OrderManagement.Messaging.csproj.CoreCompileInputs.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\Mti.OrderManagement.Messaging.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\refint\Mti.OrderManagement.Messaging.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\Mti.OrderManagement.Messaging.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\ref\Mti.OrderManagement.Messaging.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\Mti.OrderManagement.Messaging.csproj.AssemblyReference.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\bin\Debug\net8.0\Mti.PartyManagement.Messaging.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\bin\Debug\net8.0\Mti.PartyManagement.Messaging.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\SharedKernel\Mti.OrderManagement.Messaging\obj\Debug\net8.0\Mti.Orde.F7B9A941.Up2Date

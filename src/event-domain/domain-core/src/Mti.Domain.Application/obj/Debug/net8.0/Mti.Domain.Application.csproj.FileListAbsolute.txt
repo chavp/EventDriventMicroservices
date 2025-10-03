@@ -1,0 +1,15 @@
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\bin\Debug\net8.0\Mti.Domain.Application.deps.json
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\bin\Debug\net8.0\Mti.Domain.Application.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\bin\Debug\net8.0\Mti.Domain.Application.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\bin\Debug\net8.0\Mti.Domain.Core.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\bin\Debug\net8.0\Mti.Domain.Core.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\Mti.Domain.Application.csproj.AssemblyReference.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\Mti.Domain.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\Mti.Domain.Application.AssemblyInfoInputs.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\Mti.Domain.Application.AssemblyInfo.cs
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\Mti.Domain.Application.csproj.CoreCompileInputs.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\Mti.Doma.7950D478.Up2Date
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\Mti.Domain.Application.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\refint\Mti.Domain.Application.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\Mti.Domain.Application.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Application\obj\Debug\net8.0\ref\Mti.Domain.Application.dll

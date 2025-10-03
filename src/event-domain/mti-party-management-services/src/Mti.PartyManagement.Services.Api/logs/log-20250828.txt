@@ -1,0 +1,242 @@
+2025-08-28 13:20:15.264 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 13:20:15.330 +07:00 [DBG] Hosting starting
+2025-08-28 13:20:15.609 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:20:15.6085960+07:00"
+2025-08-28 13:20:15.633 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:20:15.6336165+07:00"
+2025-08-28 13:20:15.649 +07:00 [DBG] Middleware loaded
+2025-08-28 13:20:15.654 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 13:20:15.658 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 13:20:15.926 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 13:20:16.048 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 13:20:16.112 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-28 13:20:16.113 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-28 13:20:16.115 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 13:20:16.117 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 13:20:16.118 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 13:20:16.149 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-28 13:20:16.246 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 13:20:16.247 +07:00 [INF] Hosting environment: Development
+2025-08-28 13:20:16.249 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-28 13:20:16.250 +07:00 [DBG] Hosting started
+2025-08-28 13:21:48.277 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 13:21:48.338 +07:00 [DBG] Hosting starting
+2025-08-28 13:21:48.546 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:48.5454635+07:00"
+2025-08-28 13:21:48.575 +07:00 [DBG] Middleware loaded
+2025-08-28 13:21:48.580 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 13:21:48.582 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 13:21:48.769 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 13:21:48.870 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 13:21:48.923 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-28 13:21:48.924 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-28 13:21:48.924 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 13:21:48.925 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 13:21:48.926 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 13:21:48.945 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-28 13:21:49.017 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 13:21:49.028 +07:00 [INF] Hosting environment: Development
+2025-08-28 13:21:49.029 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-28 13:21:49.030 +07:00 [DBG] Hosting started
+2025-08-28 13:21:49.565 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:49.5650078+07:00"
+2025-08-28 13:21:50.572 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:50.5726761+07:00"
+2025-08-28 13:21:51.590 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:51.5899171+07:00"
+2025-08-28 13:21:52.609 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:52.6089369+07:00"
+2025-08-28 13:21:53.622 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:53.6221093+07:00"
+2025-08-28 13:21:54.630 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:54.6305166+07:00"
+2025-08-28 13:21:55.640 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:55.6401379+07:00"
+2025-08-28 13:21:56.650 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:56.6499035+07:00"
+2025-08-28 13:21:57.670 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:57.6700850+07:00"
+2025-08-28 13:21:58.684 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:58.6844614+07:00"
+2025-08-28 13:21:59.702 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:21:59.7028166+07:00"
+2025-08-28 13:22:00.721 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:00.7216501+07:00"
+2025-08-28 13:22:01.737 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:01.7369972+07:00"
+2025-08-28 13:22:02.744 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:02.7440808+07:00"
+2025-08-28 13:22:03.758 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:03.7586924+07:00"
+2025-08-28 13:22:04.766 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:04.7664094+07:00"
+2025-08-28 13:22:05.772 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:05.7722264+07:00"
+2025-08-28 13:22:06.783 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:06.7837262+07:00"
+2025-08-28 13:22:07.793 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:07.7938200+07:00"
+2025-08-28 13:22:30.729 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 13:22:30.828 +07:00 [DBG] Hosting starting
+2025-08-28 13:22:31.016 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:31.0158607+07:00"
+2025-08-28 13:22:31.016 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:31.0159862+07:00"
+2025-08-28 13:22:31.051 +07:00 [DBG] Middleware loaded
+2025-08-28 13:22:31.057 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 13:22:31.062 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 13:22:31.394 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 13:22:31.514 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 13:22:31.582 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-28 13:22:31.583 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-28 13:22:31.584 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 13:22:31.585 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 13:22:31.586 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 13:22:31.605 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-28 13:22:31.690 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 13:22:31.701 +07:00 [INF] Hosting environment: Development
+2025-08-28 13:22:31.702 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-28 13:22:31.703 +07:00 [DBG] Hosting started
+2025-08-28 13:22:32.053 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:32.0537507+07:00"
+2025-08-28 13:22:32.053 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:32.0537519+07:00"
+2025-08-28 13:22:33.057 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:33.0573571+07:00"
+2025-08-28 13:22:33.072 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:33.0721031+07:00"
+2025-08-28 13:22:34.064 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:34.0640003+07:00"
+2025-08-28 13:22:34.078 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:34.0786578+07:00"
+2025-08-28 13:22:35.081 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:35.0817568+07:00"
+2025-08-28 13:22:35.081 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:35.0818909+07:00"
+2025-08-28 13:22:36.091 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:36.0914225+07:00"
+2025-08-28 13:22:36.091 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:36.0916340+07:00"
+2025-08-28 13:22:37.097 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:37.0968668+07:00"
+2025-08-28 13:22:37.112 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:37.1122521+07:00"
+2025-08-28 13:22:38.102 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:38.1025701+07:00"
+2025-08-28 13:22:38.132 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:38.1327585+07:00"
+2025-08-28 13:22:39.108 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:39.1086387+07:00"
+2025-08-28 13:22:39.139 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:39.1397640+07:00"
+2025-08-28 13:22:40.118 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:22:40.1182736+07:00"
+2025-08-28 13:22:40.147 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:22:40.1477568+07:00"
+2025-08-28 13:23:13.031 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 13:23:13.087 +07:00 [DBG] Hosting starting
+2025-08-28 13:23:13.274 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:13.2736616+07:00"
+2025-08-28 13:23:13.274 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:13.2735229+07:00"
+2025-08-28 13:23:13.304 +07:00 [DBG] Middleware loaded
+2025-08-28 13:23:13.309 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 13:23:13.314 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 13:23:13.497 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 13:23:13.607 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 13:23:13.656 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-28 13:23:13.657 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-28 13:23:13.659 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 13:23:13.660 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 13:23:13.660 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 13:23:13.682 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-28 13:23:13.759 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 13:23:13.766 +07:00 [INF] Hosting environment: Development
+2025-08-28 13:23:13.767 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-28 13:23:13.768 +07:00 [DBG] Hosting started
+2025-08-28 13:23:14.299 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:14.2995685+07:00"
+2025-08-28 13:23:14.299 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:14.2994885+07:00"
+2025-08-28 13:23:15.313 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:15.3129305+07:00"
+2025-08-28 13:23:15.313 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:15.3133320+07:00"
+2025-08-28 13:23:16.328 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:16.3280876+07:00"
+2025-08-28 13:23:16.328 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:16.3281874+07:00"
+2025-08-28 13:23:17.337 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:17.3372485+07:00"
+2025-08-28 13:23:17.337 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:17.3373854+07:00"
+2025-08-28 13:23:18.351 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:18.3515767+07:00"
+2025-08-28 13:23:18.351 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:18.3516008+07:00"
+2025-08-28 13:23:19.363 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:19.3639175+07:00"
+2025-08-28 13:23:19.363 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:19.3638473+07:00"
+2025-08-28 13:23:20.381 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:20.3809808+07:00"
+2025-08-28 13:23:20.381 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:20.3809312+07:00"
+2025-08-28 13:23:21.390 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:21.3907902+07:00"
+2025-08-28 13:23:21.390 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:21.3906794+07:00"
+2025-08-28 13:23:22.397 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:22.3972243+07:00"
+2025-08-28 13:23:22.397 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:22.3973752+07:00"
+2025-08-28 13:23:23.403 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:23.4036724+07:00"
+2025-08-28 13:23:23.403 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:23.4036721+07:00"
+2025-08-28 13:23:24.409 +07:00 [DBG] startGetPartiesByIds = "2025-08-28T13:23:24.4098968+07:00"
+2025-08-28 13:23:24.424 +07:00 [DBG] startGetAssetsByIds = "2025-08-28T13:23:24.4245021+07:00"
+2025-08-28 14:40:01.370 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 14:40:01.430 +07:00 [DBG] Hosting starting
+2025-08-28 14:40:06.682 +07:00 [DBG] Middleware loaded
+2025-08-28 14:43:34.923 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 14:43:35.021 +07:00 [DBG] Hosting starting
+2025-08-28 14:43:35.243 +07:00 [DBG] Middleware loaded
+2025-08-28 14:43:35.250 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 14:43:35.266 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 14:43:35.494 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 14:43:35.595 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 14:43:35.645 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-28 14:43:35.647 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-28 14:43:35.649 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 14:43:35.650 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 14:43:35.651 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 14:43:35.673 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-28 14:43:35.744 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 14:43:35.751 +07:00 [INF] Hosting environment: Development
+2025-08-28 14:43:35.752 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-28 14:43:35.753 +07:00 [DBG] Hosting started
+2025-08-28 14:59:27.870 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 14:59:27.965 +07:00 [DBG] Hosting starting
+2025-08-28 14:59:28.386 +07:00 [DBG] Middleware loaded
+2025-08-28 14:59:28.396 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 14:59:28.422 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 14:59:28.792 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 14:59:29.118 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 14:59:29.202 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-28 14:59:29.204 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-28 14:59:29.206 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 14:59:29.207 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 14:59:29.208 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 14:59:29.229 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-28 14:59:29.330 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 14:59:29.331 +07:00 [INF] Hosting environment: Development
+2025-08-28 14:59:29.332 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-28 14:59:29.333 +07:00 [DBG] Hosting started
+2025-08-28 15:03:59.307 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[]}
+2025-08-28 15:04:01.345 +07:00 [INF] Response correlationId = 9c7f346d-169d-4346-917e-c6b05dc812a2, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 9c7f346d-169d-4346-917e-c6b05dc812a2
+2025-08-28 15:04:56.311 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[]}
+2025-08-28 15:04:56.838 +07:00 [INF] Response correlationId = 8f8c778b-705d-4e4d-bb88-3cbab7668b87, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 8f8c778b-705d-4e4d-bb88-3cbab7668b87
+2025-08-28 15:06:44.265 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[]}
+2025-08-28 15:06:44.793 +07:00 [INF] Response correlationId = 66bfca37-0905-4847-a685-f3d85ee3d13a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 66bfca37-0905-4847-a685-f3d85ee3d13a
+2025-08-28 15:08:54.135 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":null,"Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-28 15:08:54.676 +07:00 [INF] Response correlationId = 5383c013-28d7-4865-a85a-fc5ed3162d7a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 5383c013-28d7-4865-a85a-fc5ed3162d7a
+2025-08-28 15:09:13.045 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":null,"Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-28 15:09:13.570 +07:00 [INF] Response correlationId = 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3
+2025-08-28 15:16:34.097 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":null,"Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-28 15:16:34.215 +07:00 [INF] Response correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75
+2025-08-28 15:17:32.587 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":null,"Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-28 15:17:33.124 +07:00 [INF] Response correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617
+2025-08-28 15:18:40.600 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 15:18:40.697 +07:00 [DBG] Hosting starting
+2025-08-28 15:18:41.115 +07:00 [DBG] Middleware loaded
+2025-08-28 15:18:41.123 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 15:18:41.140 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 15:18:41.503 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 15:18:41.715 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 15:18:41.791 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-28 15:18:41.793 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-28 15:18:41.795 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 15:18:41.796 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 15:18:41.797 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 15:18:41.827 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-28 15:18:41.946 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 15:18:41.959 +07:00 [INF] Hosting environment: Development
+2025-08-28 15:18:41.960 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-28 15:18:41.962 +07:00 [DBG] Hosting started
+2025-08-28 15:19:08.290 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-28 15:19:08.384 +07:00 [INF] Response correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b
+2025-08-28 16:08:11.603 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 16:08:11.653 +07:00 [DBG] Hosting starting
+2025-08-28 16:08:12.048 +07:00 [DBG] Middleware loaded
+2025-08-28 16:08:12.062 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 16:08:12.067 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 16:08:12.412 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 16:08:12.659 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 16:08:12.780 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-28 16:08:12.782 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-28 16:08:12.784 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 16:08:12.785 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 16:08:12.786 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 16:08:12.804 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-28 16:08:12.916 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 16:08:12.926 +07:00 [INF] Hosting environment: Development
+2025-08-28 16:08:12.927 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-28 16:08:12.928 +07:00 [DBG] Hosting started
+2025-08-28 16:09:15.599 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-28 16:09:16.155 +07:00 [INF] Response correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104
+2025-08-28 16:31:41.281 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-28 16:31:41.330 +07:00 [DBG] Hosting starting
+2025-08-28 16:31:41.573 +07:00 [DBG] Middleware loaded
+2025-08-28 16:31:41.578 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 16:31:41.595 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 16:31:41.858 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 16:31:42.003 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 16:31:42.059 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-28 16:31:42.060 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-28 16:31:42.062 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 16:31:42.063 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 16:31:42.064 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 16:31:42.083 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-28 16:31:42.199 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 16:31:42.232 +07:00 [INF] Hosting environment: Development
+2025-08-28 16:31:42.234 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-28 16:31:42.235 +07:00 [DBG] Hosting started
+2025-08-28 16:32:11.998 +07:00 [DBG] Producing response for: {"Parties_TenantId":null,"Data":[{"AssetTypeCode":"VEHICLE","AssetId":"0198ee8d-77b4-72ad-a599-032d55454757","Vehicle":{"Code":null,"Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0}}]}
+2025-08-28 16:32:12.543 +07:00 [INF] Response correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1, correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f

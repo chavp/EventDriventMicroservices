@@ -1,0 +1,11 @@
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\bin\Debug\net8.0\Mti.Domain.Messaging.deps.json
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\bin\Debug\net8.0\Mti.Domain.Messaging.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\bin\Debug\net8.0\Mti.Domain.Messaging.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\obj\Debug\net8.0\Mti.Domain.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\obj\Debug\net8.0\Mti.Domain.Messaging.AssemblyInfoInputs.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\obj\Debug\net8.0\Mti.Domain.Messaging.AssemblyInfo.cs
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\obj\Debug\net8.0\Mti.Domain.Messaging.csproj.CoreCompileInputs.cache
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\obj\Debug\net8.0\Mti.Domain.Messaging.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\obj\Debug\net8.0\refint\Mti.Domain.Messaging.dll
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\obj\Debug\net8.0\Mti.Domain.Messaging.pdb
+C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\domain-core\src\Mti.Domain.Messaging\obj\Debug\net8.0\ref\Mti.Domain.Messaging.dll

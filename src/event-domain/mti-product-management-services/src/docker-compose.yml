@@ -1,0 +1,7 @@
+services:
+  mti.productmanagement.services.api:
+    image: ${DOCKER_REGISTRY-}mtiproductmanagementservicesapi
+    network_mode: host
+    build:
+      context: .
+      dockerfile: Mti.ProductManagement.Services.Api/Dockerfile

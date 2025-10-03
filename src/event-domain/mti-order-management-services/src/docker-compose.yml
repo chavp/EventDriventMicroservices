@@ -1,0 +1,7 @@
+services:
+  mti.ordermanagement.services.api:
+    image: ${DOCKER_REGISTRY-}mtiordermanagementservicesapi
+    network_mode: host
+    build:
+      context: .
+      dockerfile: Mti.OrderManagement.Services.Api/Dockerfile

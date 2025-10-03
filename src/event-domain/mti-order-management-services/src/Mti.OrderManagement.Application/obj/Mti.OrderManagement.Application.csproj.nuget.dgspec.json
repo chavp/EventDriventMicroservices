@@ -1,0 +1,657 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Application\\Mti.OrderManagement.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Application\\Mti.OrderManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Application\\Mti.OrderManagement.Application.csproj",
+        "projectName": "Mti.OrderManagement.Application",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Application\\Mti.OrderManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj"
+              },
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj"
+              },
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Persistence\\Mti.OrderManagement.Persistence.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Persistence\\Mti.OrderManagement.Persistence.csproj"
+              },
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj",
+        "projectName": "Mti.OrderManagement.Contracts",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj"
+              },
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj",
+        "projectName": "Mti.OrderManagement.Domain",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Core\\Mti.Domain.Core.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Core\\Mti.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Persistence\\Mti.OrderManagement.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Persistence\\Mti.OrderManagement.Persistence.csproj",
+        "projectName": "Mti.OrderManagement.Persistence",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Persistence\\Mti.OrderManagement.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj"
+              },
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Application\\Mti.Domain.Application.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Application\\Mti.Domain.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Application\\Mti.Domain.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Application\\Mti.Domain.Application.csproj",
+        "projectName": "Mti.Domain.Application",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Application\\Mti.Domain.Application.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Core\\Mti.Domain.Core.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Core\\Mti.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Core\\Mti.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Core\\Mti.Domain.Core.csproj",
+        "projectName": "Mti.Domain.Core",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Core\\Mti.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj",
+        "projectName": "Mti.Domain.Infrastructure",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Application\\Mti.Domain.Application.csproj": {
+                "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Application\\Mti.Domain.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj",
+        "projectName": "Mti.OrderManagement.Messaging",
+        "projectPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj",
+        "packagesPath": "C:\\Users\\Parinya.c\\.nuget\\packages\\",
+        "outputPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Parinya.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

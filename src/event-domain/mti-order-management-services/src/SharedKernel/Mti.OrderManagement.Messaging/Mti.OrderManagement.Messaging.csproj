@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Mti.PartyManagement.Messaging">
+      <HintPath>..\lib\Mti.PartyManagement.Messaging\net8.0\Mti.PartyManagement.Messaging.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

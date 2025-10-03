@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C9086A-698A-4E2A-A518-6A6C1496FEDC}|Mti.OrderManagement.IntegrationTests\\Mti.OrderManagement.IntegrationTests.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.integrationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C9086A-698A-4E2A-A518-6A6C1496FEDC}|Mti.OrderManagement.IntegrationTests\\Mti.OrderManagement.IntegrationTests.csproj|solutionrelative:mti.ordermanagement.integrationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF022B0-FFE4-A8D3-B449-15C24BB9B1E9}|Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.contracts\\orders\\mtioriginalorderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF022B0-FFE4-A8D3-B449-15C24BB9B1E9}|Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj|solutionrelative:mti.ordermanagement.contracts\\orders\\mtioriginalorderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70939A50-C11A-4B5B-8377-B6FDA76C8003}|Mti.OrderManagement.Services.Api\\Mti.OrderManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.services.api\\controllers\\ordermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70939A50-C11A-4B5B-8377-B6FDA76C8003}|Mti.OrderManagement.Services.Api\\Mti.OrderManagement.Services.Api.csproj|solutionrelative:mti.ordermanagement.services.api\\controllers\\ordermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70939A50-C11A-4B5B-8377-B6FDA76C8003}|Mti.OrderManagement.Services.Api\\Mti.OrderManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.services.api\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70939A50-C11A-4B5B-8377-B6FDA76C8003}|Mti.OrderManagement.Services.Api\\Mti.OrderManagement.Services.Api.csproj|solutionrelative:mti.ordermanagement.services.api\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70939A50-C11A-4B5B-8377-B6FDA76C8003}|Mti.OrderManagement.Services.Api\\Mti.OrderManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70939A50-C11A-4B5B-8377-B6FDA76C8003}|Mti.OrderManagement.Services.Api\\Mti.OrderManagement.Services.Api.csproj|solutionrelative:mti.ordermanagement.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6D7BC2-8160-2A0F-FFE8-42665C93F69F}|Mti.OrderManagement.Application\\Mti.OrderManagement.Application.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.application\\orders\\savepartiesbyorder\\savepartiesbyorderproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6D7BC2-8160-2A0F-FFE8-42665C93F69F}|Mti.OrderManagement.Application\\Mti.OrderManagement.Application.csproj|solutionrelative:mti.ordermanagement.application\\orders\\savepartiesbyorder\\savepartiesbyorderproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D066881B-4A9F-15FB-A86A-9188A78B5581}|SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\sharedkernel\\mti.domain.infrastructure\\extensions\\queryserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D066881B-4A9F-15FB-A86A-9188A78B5581}|SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj|solutionrelative:sharedkernel\\mti.domain.infrastructure\\extensions\\queryserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D066881B-4A9F-15FB-A86A-9188A78B5581}|SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\sharedkernel\\mti.domain.infrastructure\\common\\autodeletereplytopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D066881B-4A9F-15FB-A86A-9188A78B5581}|SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj|solutionrelative:sharedkernel\\mti.domain.infrastructure\\common\\autodeletereplytopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D066881B-4A9F-15FB-A86A-9188A78B5581}|SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\sharedkernel\\mti.domain.infrastructure\\extensions\\topicextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D066881B-4A9F-15FB-A86A-9188A78B5581}|SharedKernel\\Mti.Domain.Infrastructure\\Mti.Domain.Infrastructure.csproj|solutionrelative:sharedkernel\\mti.domain.infrastructure\\extensions\\topicextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70939A50-C11A-4B5B-8377-B6FDA76C8003}|Mti.OrderManagement.Services.Api\\Mti.OrderManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.services.api\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70939A50-C11A-4B5B-8377-B6FDA76C8003}|Mti.OrderManagement.Services.Api\\Mti.OrderManagement.Services.Api.csproj|solutionrelative:mti.ordermanagement.services.api\\hostextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF022B0-FFE4-A8D3-B449-15C24BB9B1E9}|Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.contracts\\orders\\vehiclevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF022B0-FFE4-A8D3-B449-15C24BB9B1E9}|Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj|solutionrelative:mti.ordermanagement.contracts\\orders\\vehiclevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6D7BC2-8160-2A0F-FFE8-42665C93F69F}|Mti.OrderManagement.Application\\Mti.OrderManagement.Application.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.application\\orders\\savemtioriginal\\savemtioriginalproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6D7BC2-8160-2A0F-FFE8-42665C93F69F}|Mti.OrderManagement.Application\\Mti.OrderManagement.Application.csproj|solutionrelative:mti.ordermanagement.application\\orders\\savemtioriginal\\savemtioriginalproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF022B0-FFE4-A8D3-B449-15C24BB9B1E9}|Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.contracts\\orders\\extractpostaladdressvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF022B0-FFE4-A8D3-B449-15C24BB9B1E9}|Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj|solutionrelative:mti.ordermanagement.contracts\\orders\\extractpostaladdressvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF022B0-FFE4-A8D3-B449-15C24BB9B1E9}|Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.contracts\\orders\\extractpartyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF022B0-FFE4-A8D3-B449-15C24BB9B1E9}|Mti.OrderManagement.Contracts\\Mti.OrderManagement.Contracts.csproj|solutionrelative:mti.ordermanagement.contracts\\orders\\extractpartyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2D0F37-2F25-4609-AF90-6CEB4110C3A7}|SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\sharedkernel\\mti.ordermanagement.messaging\\mtioriginalorderitemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2D0F37-2F25-4609-AF90-6CEB4110C3A7}|SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj|solutionrelative:sharedkernel\\mti.ordermanagement.messaging\\mtioriginalorderitemmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2D0F37-2F25-4609-AF90-6CEB4110C3A7}|SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\sharedkernel\\mti.ordermanagement.messaging\\mtioriginalordermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2D0F37-2F25-4609-AF90-6CEB4110C3A7}|SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj|solutionrelative:sharedkernel\\mti.ordermanagement.messaging\\mtioriginalordermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2D0F37-2F25-4609-AF90-6CEB4110C3A7}|SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\sharedkernel\\mti.ordermanagement.messaging\\policymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2D0F37-2F25-4609-AF90-6CEB4110C3A7}|SharedKernel\\Mti.OrderManagement.Messaging\\Mti.OrderManagement.Messaging.csproj|solutionrelative:sharedkernel\\mti.ordermanagement.messaging\\policymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D61FD-2CBD-4101-9228-2C90038E27CC}|Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.domain\\orders\\orderitemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D61FD-2CBD-4101-9228-2C90038E27CC}|Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj|solutionrelative:mti.ordermanagement.domain\\orders\\orderitemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D61FD-2CBD-4101-9228-2C90038E27CC}|Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D61FD-2CBD-4101-9228-2C90038E27CC}|Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj|solutionrelative:mti.ordermanagement.domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D61FD-2CBD-4101-9228-2C90038E27CC}|Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\mti.ordermanagement.domain\\orders\\types\\orderroletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D61FD-2CBD-4101-9228-2C90038E27CC}|Mti.OrderManagement.Domain\\Mti.OrderManagement.Domain.csproj|solutionrelative:mti.ordermanagement.domain\\orders\\types\\orderroletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.IntegrationTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.IntegrationTests\\UnitTest1.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.IntegrationTests\\UnitTest1.cs",
+              "RelativeToolTip": "Mti.OrderManagement.IntegrationTests\\UnitTest1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:58:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Services.Api\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Services.Api\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Services.Api\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Services.Api\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:29:47.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Services.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Services.Api\\Program.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Services.Api\\Program.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Services.Api\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:34:50.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SavePartiesByOrderProducer.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Application\\Orders\\SavePartiesByOrder\\SavePartiesByOrderProducer.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Application\\Orders\\SavePartiesByOrder\\SavePartiesByOrderProducer.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Application\\Orders\\SavePartiesByOrder\\SavePartiesByOrderProducer.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Application\\Orders\\SavePartiesByOrder\\SavePartiesByOrderProducer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:11:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoDeleteReplyTopicService.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Common\\AutoDeleteReplyTopicService.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Mti.Domain.Infrastructure\\Common\\AutoDeleteReplyTopicService.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Common\\AutoDeleteReplyTopicService.cs",
+              "RelativeToolTip": "SharedKernel\\Mti.Domain.Infrastructure\\Common\\AutoDeleteReplyTopicService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T05:56:26.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HostExtensions.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Services.Api\\HostExtensions.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Services.Api\\HostExtensions.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Services.Api\\HostExtensions.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Services.Api\\HostExtensions.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:26:03.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueryServiceExtensions.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Extensions\\QueryServiceExtensions.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Mti.Domain.Infrastructure\\Extensions\\QueryServiceExtensions.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Extensions\\QueryServiceExtensions.cs",
+              "RelativeToolTip": "SharedKernel\\Mti.Domain.Infrastructure\\Extensions\\QueryServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:16:47.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopicExtensions.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Extensions\\TopicExtensions.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Mti.Domain.Infrastructure\\Extensions\\TopicExtensions.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.Domain.Infrastructure\\Extensions\\TopicExtensions.cs",
+              "RelativeToolTip": "SharedKernel\\Mti.Domain.Infrastructure\\Extensions\\TopicExtensions.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA/wBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T03:52:39.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveMtiOriginalProducer.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Application\\Orders\\SaveMtiOriginal\\SaveMtiOriginalProducer.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Application\\Orders\\SaveMtiOriginal\\SaveMtiOriginalProducer.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Application\\Orders\\SaveMtiOriginal\\SaveMtiOriginalProducer.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Application\\Orders\\SaveMtiOriginal\\SaveMtiOriginalProducer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:32:26.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExtractPostalAddressValue.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Orders\\ExtractPostalAddressValue.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Contracts\\Orders\\ExtractPostalAddressValue.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Orders\\ExtractPostalAddressValue.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Contracts\\Orders\\ExtractPostalAddressValue.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:05:13.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehicleValue.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Orders\\VehicleValue.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Contracts\\Orders\\VehicleValue.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Orders\\VehicleValue.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Contracts\\Orders\\VehicleValue.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAIA3wDQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:04:59.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExtractPartyValue.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Orders\\ExtractPartyValue.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Contracts\\Orders\\ExtractPartyValue.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Orders\\ExtractPartyValue.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Contracts\\Orders\\ExtractPartyValue.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:04:19.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MtiOriginalOrderMessage.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\MtiOriginalOrderMessage.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Mti.OrderManagement.Messaging\\MtiOriginalOrderMessage.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\MtiOriginalOrderMessage.cs",
+              "RelativeToolTip": "SharedKernel\\Mti.OrderManagement.Messaging\\MtiOriginalOrderMessage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:01:21.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PolicyMessage.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\PolicyMessage.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Mti.OrderManagement.Messaging\\PolicyMessage.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\PolicyMessage.cs",
+              "RelativeToolTip": "SharedKernel\\Mti.OrderManagement.Messaging\\PolicyMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:59:58.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MtiOriginalOrderItemMessage.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\MtiOriginalOrderItemMessage.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Mti.OrderManagement.Messaging\\MtiOriginalOrderItemMessage.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\SharedKernel\\Mti.OrderManagement.Messaging\\MtiOriginalOrderItemMessage.cs",
+              "RelativeToolTip": "SharedKernel\\Mti.OrderManagement.Messaging\\MtiOriginalOrderItemMessage.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T05:56:01.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MtiOriginalOrderItemResponse.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Orders\\MtiOriginalOrderItemResponse.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Contracts\\Orders\\MtiOriginalOrderItemResponse.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Contracts\\Orders\\MtiOriginalOrderItemResponse.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Contracts\\Orders\\MtiOriginalOrderItemResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:12:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderManagementController.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Services.Api\\Controllers\\OrderManagementController.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Services.Api\\Controllers\\OrderManagementController.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Services.Api\\Controllers\\OrderManagementController.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Services.Api\\Controllers\\OrderManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T02:42:28.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Domain\\Orders\\Order.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Orders\\Order.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Domain\\Orders\\Order.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:13:41.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderRoleType.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Orders\\Types\\OrderRoleType.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Domain\\Orders\\Types\\OrderRoleType.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Orders\\Types\\OrderRoleType.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Domain\\Orders\\Types\\OrderRoleType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:29:56.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItemRole.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Orders\\OrderItemRole.cs",
+              "RelativeDocumentMoniker": "Mti.OrderManagement.Domain\\Orders\\OrderItemRole.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-order-management-services\\src\\Mti.OrderManagement.Domain\\Orders\\OrderItemRole.cs",
+              "RelativeToolTip": "Mti.OrderManagement.Domain\\Orders\\OrderItemRole.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:29:46.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

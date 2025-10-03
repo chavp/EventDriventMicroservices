@@ -1,0 +1,295 @@
+2025-08-21 08:53:02.645 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 08:53:02.690 +07:00 [DBG] Hosting starting
+2025-08-21 08:53:02.769 +07:00 [DBG] Middleware loaded
+2025-08-21 08:53:02.774 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-21 08:53:02.777 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-21 08:53:02.848 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-21 08:53:02.921 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-21 08:53:02.936 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-21 08:53:02.937 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-21 08:53:02.938 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-21 08:53:02.939 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-21 08:53:02.940 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-21 08:53:02.954 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-21 08:53:03.014 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-21 08:53:03.016 +07:00 [INF] Hosting environment: Development
+2025-08-21 08:53:03.017 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-21 08:53:03.017 +07:00 [DBG] Hosting started
+2025-08-21 08:54:40.065 +07:00 [ERR] startConsume
+System.Exception: Error consume
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 83
+2025-08-21 08:57:07.730 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 08:57:07.783 +07:00 [DBG] Hosting starting
+2025-08-21 08:57:13.187 +07:00 [DBG] Middleware loaded
+2025-08-21 08:57:13.192 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-21 08:57:13.198 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-21 08:57:13.385 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-21 08:57:13.514 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-21 08:57:13.566 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-21 08:57:13.568 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-21 08:57:13.570 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-21 08:57:13.570 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-21 08:57:13.571 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-21 08:57:13.586 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-21 08:57:13.655 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-21 08:57:13.670 +07:00 [INF] Hosting environment: Development
+2025-08-21 08:57:13.672 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-21 08:57:13.676 +07:00 [DBG] Hosting started
+2025-08-21 08:59:32.429 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 08:59:32.481 +07:00 [DBG] Hosting starting
+2025-08-21 08:59:32.615 +07:00 [DBG] Middleware loaded
+2025-08-21 08:59:32.622 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-21 08:59:32.625 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-21 08:59:32.844 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-21 08:59:32.930 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-21 08:59:33.007 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-21 08:59:33.010 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-21 08:59:33.011 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-21 08:59:33.012 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-21 08:59:33.013 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-21 08:59:33.031 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-21 08:59:33.106 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-21 08:59:33.120 +07:00 [INF] Hosting environment: Development
+2025-08-21 08:59:33.122 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-21 08:59:33.124 +07:00 [DBG] Hosting started
+2025-08-21 08:59:36.211 +07:00 [ERR] startConsume
+System.Exception: Error consume
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 83
+2025-08-21 09:00:06.499 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 09:00:06.557 +07:00 [DBG] Hosting starting
+2025-08-21 09:00:09.245 +07:00 [DBG] Middleware loaded
+2025-08-21 09:00:09.256 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-21 09:00:09.269 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-21 09:00:09.551 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-21 09:00:09.641 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-21 09:00:09.699 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-21 09:00:09.700 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-21 09:00:09.702 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-21 09:00:09.702 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-21 09:00:09.703 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-21 09:00:09.717 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-21 09:00:09.799 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-21 09:00:09.808 +07:00 [INF] Hosting environment: Development
+2025-08-21 09:00:09.811 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-21 09:00:09.812 +07:00 [DBG] Hosting started
+2025-08-21 09:00:43.020 +07:00 [ERR] startConsume
+System.Exception: Error consume
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 83
+2025-08-21 09:21:41.908 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 09:21:41.971 +07:00 [DBG] Hosting starting
+2025-08-21 11:19:39.568 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 11:19:39.618 +07:00 [DBG] Hosting starting
+2025-08-21 11:20:18.060 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 11:20:18.106 +07:00 [DBG] Hosting starting
+2025-08-21 11:21:27.337 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 11:21:27.386 +07:00 [DBG] Hosting starting
+2025-08-21 11:21:27.448 +07:00 [DBG] Middleware loaded
+2025-08-21 11:21:27.454 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-21 11:21:27.456 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-21 11:21:27.773 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-21 11:21:27.961 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-21 11:21:27.975 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-21 11:21:27.976 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-21 11:21:27.978 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-21 11:21:27.979 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-21 11:21:27.980 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-21 11:21:27.993 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-21 11:21:28.053 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-21 11:21:28.055 +07:00 [INF] Hosting environment: Development
+2025-08-21 11:21:28.056 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-21 11:21:28.057 +07:00 [DBG] Hosting started
+2025-08-21 11:21:31.146 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198ca55-c9a1-7243-ab37-b03a66171bf2","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[{"PartyId":"0198c6ee-116e-7158-a827-3bd5d2761f08"},{"PartyId":"0198c6ee-1180-741e-903b-e0637241c7c2"}],"DeleteAssets":[{"AssetId":"0198c6ee-118a-7787-929a-73df7e830753"}]}
+2025-08-21 11:21:31.969 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198ca55-c9a1-7243-ab37-b03a66171bf2","Parties":[{"PartyId":"0198cadc-4be7-7969-8845-4875c86bd9e2","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198cadc-4c42-75f9-810e-8fed82cc376e","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198cadc-4c62-73eb-9dbb-d6b7acdaddec","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198cadc-4c91-78d7-822f-8dc31347485d","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:21:31.973 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: test Excetpion
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceResponseAsync(String correlationId, String replyToTopic, SavePartiesByOrderResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 245
+2025-08-21 11:21:32.010 +07:00 [ERR] startConsume
+System.InvalidCastException: Unable to cast object of type 'AsyncStateMachineBox`1[FluentResults.Result,Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer+<produceErrorAsync>d__13]' to type 'FluentResults.IError'.
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.<>c__DisplayClass10_1.<startConsume>b__1(IError errs) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 114
+   at System.Linq.Enumerable.SelectIListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at FluentResults.ResultBase`1.WithReasons(IEnumerable`1 reasons)
+   at FluentResults.ResultBase`1.WithErrors(IEnumerable`1 errors)
+   at FluentResults.Result.MapErrors(Func`2 errorMapper)
+   at FluentResults.Extensions.ResultExtensions.MapErrors(Task`1 resultTask, Func`2 errorMapper)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 112
+2025-08-21 11:21:32.453 +07:00 [ERR] An unexpected error occurred while sending message
+Confluent.Kafka.ProduceException`2[Confluent.Kafka.Null,Confluent.Kafka.Null]: Broker: Broker failed to validate record
+   at Confluent.Kafka.Producer`2.ProduceAsync(TopicPartition topicPartition, Message`2 message, CancellationToken cancellationToken)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceErrorAsync(String correlationId, String replyToTopic, IError error, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 297
+2025-08-21 11:22:44.032 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198cadd-456d-72b6-bfc5-fc00607d3f8f","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[],"DeleteAssets":[]}
+2025-08-21 11:22:44.381 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198cadd-456d-72b6-bfc5-fc00607d3f8f","Parties":[{"PartyId":"0198cadd-66ca-732d-8020-4070527fd028","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198cadd-6751-700d-b724-f0830ff9ecb1","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198cadd-676c-7f8c-a131-58b4ac30f073","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198cadd-6783-74b2-838f-652318878646","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:22:44.385 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: test Excetpion
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceResponseAsync(String correlationId, String replyToTopic, SavePartiesByOrderResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 245
+2025-08-21 11:22:44.400 +07:00 [ERR] startConsume
+System.InvalidCastException: Unable to cast object of type 'AsyncStateMachineBox`1[FluentResults.Result,Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer+<produceErrorAsync>d__13]' to type 'FluentResults.IError'.
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.<>c__DisplayClass10_1.<startConsume>b__1(IError errs) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 114
+   at System.Linq.Enumerable.SelectIListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at FluentResults.ResultBase`1.WithReasons(IEnumerable`1 reasons)
+   at FluentResults.ResultBase`1.WithErrors(IEnumerable`1 errors)
+   at FluentResults.Result.MapErrors(Func`2 errorMapper)
+   at FluentResults.Extensions.ResultExtensions.MapErrors(Task`1 resultTask, Func`2 errorMapper)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 112
+2025-08-21 11:22:44.460 +07:00 [ERR] An unexpected error occurred while sending message
+Confluent.Kafka.ProduceException`2[Confluent.Kafka.Null,Confluent.Kafka.Null]: Broker: Broker failed to validate record
+   at Confluent.Kafka.Producer`2.ProduceAsync(TopicPartition topicPartition, Message`2 message, CancellationToken cancellationToken)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceErrorAsync(String correlationId, String replyToTopic, IError error, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 297
+2025-08-21 11:32:02.973 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 11:32:03.025 +07:00 [DBG] Hosting starting
+2025-08-21 11:32:25.914 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 11:32:25.965 +07:00 [DBG] Hosting starting
+2025-08-21 11:33:06.632 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 11:33:06.681 +07:00 [DBG] Hosting starting
+2025-08-21 11:33:06.758 +07:00 [DBG] Middleware loaded
+2025-08-21 11:33:06.767 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-21 11:33:06.775 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-21 11:33:06.878 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-21 11:33:06.993 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-21 11:33:07.010 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-21 11:33:07.011 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-21 11:33:07.011 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-21 11:33:07.012 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-21 11:33:07.013 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-21 11:33:07.028 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-21 11:33:07.096 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-21 11:33:07.100 +07:00 [INF] Hosting environment: Development
+2025-08-21 11:33:07.102 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-21 11:33:07.104 +07:00 [DBG] Hosting started
+2025-08-21 11:33:29.945 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198cae7-3cc3-7897-863c-2a77b676b600","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[],"DeleteAssets":[]}
+2025-08-21 11:33:31.275 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198cae7-3cc3-7897-863c-2a77b676b600","Parties":[{"PartyId":"0198cae7-4223-73cd-8df5-c7ccd3ece32d","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198cae7-447f-74bc-bb88-4d0c1dd73e1e","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198cae7-4552-7f57-b411-ed869082bdac","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198cae7-45a3-7839-af0a-b2550f41dbca","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:33:31.280 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: test Excetpion
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceResponseAsync(String correlationId, String replyToTopic, SavePartiesByOrderResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 245
+2025-08-21 11:33:31.362 +07:00 [ERR] startConsume
+System.InvalidCastException: Unable to cast object of type 'AsyncStateMachineBox`1[FluentResults.Result,Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer+<produceErrorAsync>d__13]' to type 'FluentResults.IError'.
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.<>c__DisplayClass10_1.<startConsume>b__1(IError errs) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 114
+   at System.Linq.Enumerable.SelectIListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at FluentResults.ResultBase`1.WithReasons(IEnumerable`1 reasons)
+   at FluentResults.ResultBase`1.WithErrors(IEnumerable`1 errors)
+   at FluentResults.Result.MapErrors(Func`2 errorMapper)
+   at FluentResults.Extensions.ResultExtensions.MapErrors(Task`1 resultTask, Func`2 errorMapper)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 112
+2025-08-21 11:33:31.451 +07:00 [ERR] An unexpected error occurred while sending message
+Confluent.Kafka.ProduceException`2[Confluent.Kafka.Null,Mti.Domain.Messaging.SavePartiesByOrder.SavePartiesByOrderResponse]: Broker: Broker failed to validate record
+   at Confluent.Kafka.Producer`2.ProduceAsync(TopicPartition topicPartition, Message`2 message, CancellationToken cancellationToken)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceErrorAsync(String correlationId, String replyToTopic, IError error, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 298
+2025-08-21 11:34:42.127 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198cae8-4a60-7d81-b88f-6fa3fcefee83","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[],"DeleteAssets":[]}
+2025-08-21 11:34:42.471 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198cae8-4a60-7d81-b88f-6fa3fcefee83","Parties":[{"PartyId":"0198cae8-5bc3-7963-91af-7c8f66f76af8","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198cae8-5c43-714a-8926-8dc47319ddc2","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198cae8-5c6c-7840-9d52-edfc0154aaf2","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198cae8-5c8e-7f87-8378-8bf9ad8828c0","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:34:42.476 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: test Excetpion
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceResponseAsync(String correlationId, String replyToTopic, SavePartiesByOrderResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 245
+2025-08-21 11:34:42.504 +07:00 [ERR] startConsume
+System.InvalidCastException: Unable to cast object of type 'AsyncStateMachineBox`1[FluentResults.Result,Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer+<produceErrorAsync>d__13]' to type 'FluentResults.IError'.
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.<>c__DisplayClass10_1.<startConsume>b__1(IError errs) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 114
+   at System.Linq.Enumerable.SelectIListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at FluentResults.ResultBase`1.WithReasons(IEnumerable`1 reasons)
+   at FluentResults.ResultBase`1.WithErrors(IEnumerable`1 errors)
+   at FluentResults.Result.MapErrors(Func`2 errorMapper)
+   at FluentResults.Extensions.ResultExtensions.MapErrors(Task`1 resultTask, Func`2 errorMapper)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 112
+2025-08-21 11:34:42.568 +07:00 [ERR] An unexpected error occurred while sending message
+Confluent.Kafka.ProduceException`2[Confluent.Kafka.Null,Mti.Domain.Messaging.SavePartiesByOrder.SavePartiesByOrderResponse]: Broker: Broker failed to validate record
+   at Confluent.Kafka.Producer`2.ProduceAsync(TopicPartition topicPartition, Message`2 message, CancellationToken cancellationToken)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceErrorAsync(String correlationId, String replyToTopic, IError error, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 298
+2025-08-21 11:37:43.705 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 11:37:43.750 +07:00 [DBG] Hosting starting
+2025-08-21 11:37:43.871 +07:00 [DBG] Middleware loaded
+2025-08-21 11:37:43.881 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-21 11:37:43.887 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-21 11:37:43.972 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-21 11:37:44.097 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-21 11:37:44.113 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-21 11:37:44.115 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-21 11:37:44.116 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-21 11:37:44.117 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-21 11:37:44.118 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-21 11:37:44.133 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-21 11:37:44.197 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-21 11:37:44.199 +07:00 [INF] Hosting environment: Development
+2025-08-21 11:37:44.200 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-21 11:37:44.201 +07:00 [DBG] Hosting started
+2025-08-21 11:38:24.971 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caeb-be76-7925-9696-736b351f41d9","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[],"DeleteAssets":[]}
+2025-08-21 11:38:25.864 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caeb-be76-7925-9696-736b351f41d9","Parties":[{"PartyId":"0198caeb-c28f-7959-8e39-1a9b775e78ca","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198caeb-c3f7-785d-99c4-30df740f2d04","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198caeb-c46c-7915-bc32-d2dd55c8b562","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198caeb-c4aa-79a9-acf2-e03b13b553b2","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:38:25.914 +07:00 [INF] Response order id = 0198c1ab-4113-7ff6-b7cb-f45464cc5e50
+2025-08-21 11:38:38.622 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caeb-f612-78c6-81b6-72d15d57599b","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[{"PartyId":"0198caeb-c28f-7959-8e39-1a9b775e78ca"},{"PartyId":"0198caeb-c46c-7915-bc32-d2dd55c8b562"}],"DeleteAssets":[{"AssetId":"0198caeb-c4aa-79a9-acf2-e03b13b553b2"}]}
+2025-08-21 11:38:38.929 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caeb-f612-78c6-81b6-72d15d57599b","Parties":[{"PartyId":"0198caeb-f826-7e81-87ab-bb75a301a0a9","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198caeb-f832-79fa-bf09-122b898ea2f2","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198caeb-f83c-70dc-96b8-0f91a3f538a2","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198caeb-f849-78c7-bc7e-b15ab8ec0ca8","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:38:38.951 +07:00 [INF] Response order id = 0198c1ab-4113-7ff6-b7cb-f45464cc5e50
+2025-08-21 11:38:44.984 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caec-0ef4-7a79-aa94-4a5a6d77b2ac","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[{"PartyId":"0198caeb-f826-7e81-87ab-bb75a301a0a9"},{"PartyId":"0198caeb-f83c-70dc-96b8-0f91a3f538a2"}],"DeleteAssets":[{"AssetId":"0198caeb-f849-78c7-bc7e-b15ab8ec0ca8"}]}
+2025-08-21 11:38:45.075 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caec-0ef4-7a79-aa94-4a5a6d77b2ac","Parties":[{"PartyId":"0198caec-1020-7b85-be12-5dbdeffe4700","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198caec-102c-721f-a8e5-2cc2346095e0","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198caec-1032-7d7e-8994-20c1a1ce6711","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198caec-1040-7724-9801-cc25fd878d04","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:38:45.097 +07:00 [INF] Response order id = 0198c1ab-4113-7ff6-b7cb-f45464cc5e50
+2025-08-21 11:39:01.126 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caec-4dfd-756c-9e72-46cc50bf49be","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[{"PartyId":"0198caec-1020-7b85-be12-5dbdeffe4700"},{"PartyId":"0198caec-1032-7d7e-8994-20c1a1ce6711"}],"DeleteAssets":[{"AssetId":"0198caec-1040-7724-9801-cc25fd878d04"}]}
+2025-08-21 11:39:01.238 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caec-4dfd-756c-9e72-46cc50bf49be","Parties":[{"PartyId":"0198caec-4f37-7f84-80bd-ee82321a4693","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198caec-4f45-7550-b4a8-34877f117f74","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198caec-4f52-7cbe-9233-b4486a588808","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198caec-4f63-7704-803e-7d0f287787fe","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:39:01.261 +07:00 [INF] Response order id = 0198c1ab-4113-7ff6-b7cb-f45464cc5e50
+2025-08-21 11:39:28.604 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caec-b94d-7edb-a9fb-29d036f9bf2b","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[{"PartyId":"0198caec-4f37-7f84-80bd-ee82321a4693"},{"PartyId":"0198caec-4f52-7cbe-9233-b4486a588808"}],"DeleteAssets":[{"AssetId":"0198caec-4f63-7704-803e-7d0f287787fe"}]}
+2025-08-21 11:39:28.679 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caec-b94d-7edb-a9fb-29d036f9bf2b","Parties":[{"PartyId":"0198caec-ba7d-7af6-9bfe-d51299d94750","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198caec-ba8c-7433-b325-63ae82dfb67f","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198caec-ba93-7b4d-a415-08636cc364d9","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198caec-ba9c-777c-95aa-1c5757fcbaa7","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:39:28.708 +07:00 [INF] Response order id = 0198c1ab-4113-7ff6-b7cb-f45464cc5e50
+2025-08-21 11:46:06.627 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 11:46:06.714 +07:00 [DBG] Hosting starting
+2025-08-21 11:46:07.026 +07:00 [DBG] Middleware loaded
+2025-08-21 11:46:07.043 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-21 11:46:07.050 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-21 11:46:07.340 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-21 11:46:07.536 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-21 11:46:07.621 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-21 11:46:07.622 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-21 11:46:07.624 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-21 11:46:07.626 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-21 11:46:07.627 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-21 11:46:07.648 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-21 11:46:07.795 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-21 11:46:07.798 +07:00 [INF] Hosting environment: Development
+2025-08-21 11:46:07.799 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-21 11:46:07.800 +07:00 [DBG] Hosting started
+2025-08-21 11:46:56.551 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caf3-7cc4-76b5-9de1-a7188f085797","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[{"PartyId":"0198caec-ba7d-7af6-9bfe-d51299d94750"},{"PartyId":"0198caec-ba93-7b4d-a415-08636cc364d9"}],"DeleteAssets":[{"AssetId":"0198caec-ba9c-777c-95aa-1c5757fcbaa7"}]}
+2025-08-21 11:46:58.647 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caf3-7cc4-76b5-9de1-a7188f085797","Parties":[{"PartyId":"0198caf3-96a9-7c53-897f-e9e3bd9ca1ab","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198caf3-9770-742c-92ed-ac86c4ec8ddb","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198caf3-97af-71e0-a392-fe8e9d1b49c7","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198caf3-97f8-72fd-bee6-57c67f7af210","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:46:58.796 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: test exception
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceResponseAsync(String correlationId, String replyToTopic, SavePartiesByOrderResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 245
+2025-08-21 11:47:15.646 +07:00 [INF] Response error correlationId = b614e5762b88400eab32e879ecd4e8e8
+2025-08-21 11:47:28.442 +07:00 [ERR] startConsume
+System.InvalidCastException: Unable to cast object of type 'AsyncStateMachineBox`1[FluentResults.Result,System.Runtime.CompilerServices.IAsyncStateMachine]' to type 'FluentResults.IError'.
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.<>c__DisplayClass10_1.<startConsume>b__1(IError errs) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 114
+   at System.Linq.Enumerable.SelectIListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at FluentResults.ResultBase`1.WithReasons(IEnumerable`1 reasons)
+   at FluentResults.ResultBase`1.WithErrors(IEnumerable`1 errors)
+   at FluentResults.Result.MapErrors(Func`2 errorMapper)
+   at FluentResults.Extensions.ResultExtensions.MapErrors(Task`1 resultTask, Func`2 errorMapper)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 112
+2025-08-21 11:48:32.942 +07:00 [DBG] Received message: "0198c1ab-4113-7ff6-b7cb-f45464cc5e50" - {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caf4-ef19-7a58-a2ac-0472286d5138","Parties":[{"PartyRoleTypeCode":"INSURED","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":"2025-07-21","ContactMechanisms":[{"ContactMechanismTypeCode":"MAIN_ADDRESS","Telecommunication":null,"ElectronicAddress":null,"PostalAddress":{"Name":"กรุงเทพมหานคร 122/108 บ้านช่างหล่อ บางกอกน้อย กรุงเทพมหานคร 10700","HouseNumber":"122/108","VillageNumber":"กรุงเทพมหานคร","Village":null,"Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"กรุงเทพมหานคร","District":"บางกอกน้อย","SubDistrict":"บ้านช่างหล่อ","ZipCode":"10700"}}]},{"PartyRoleTypeCode":"INVOICE","IsOrganization":false,"Title":"น.ส.","FirstName":"โสภิตดา","LastName":"พันธ์พฤกษ์","MiddleName":null,"CardId":"3102000524129","Nationality":null,"BirthDate":null,"ContactMechanisms":[]}],"InsuredAsset":{"AssetTypeCode":"VEHICLE","AssetRoleTypeCode":"OWNER","Name":"MMKBBHCP506503718","Vehicle":{"Brand":"210","Model":"210","Color":"เทา","RegisterNo":null,"RegisterProvince":"210","RegisterYear":2019,"Chassis":"MMKBBHCP506503718","Cc":2755.0,"Seat":0.0,"Weight":2500.0,"Tonnage":0.0,"Engine":"1GD4768126","Passenger":0}}}],"DeleteParties":[],"DeleteAssets":[]}
+2025-08-21 11:48:33.154 +07:00 [DBG] Producing response for: {"OrderId":"0198c1ab-4113-7ff6-b7cb-f45464cc5e50","Parties_TenantId":null,"Orders_TenantId":null,"SaveRoleOrderItems":[{"OrderItemId":"0198caf4-ef19-7a58-a2ac-0472286d5138","Parties":[{"PartyId":"0198caf5-0904-72d0-b840-d60e14a43574","PartyRoleTypeCode":"INSURED","ContactMechanisms":[{"ContactMechanismId":"0198caf5-094a-7431-90ed-217dc05d2b92","ContactMechanismTypeCode":"MAIN_ADDRESS"}]},{"PartyId":"0198caf5-0959-76e1-8ca5-f51c4e44c56b","PartyRoleTypeCode":"INVOICE","ContactMechanisms":[]}],"Asset":{"AssetId":"0198caf5-096e-7ef9-85cf-452e6ba39da3","AssetRoleTypeCode":"OWNER"}}]}
+2025-08-21 11:48:33.276 +07:00 [ERR] An unexpected error occurred while sending message
+System.Exception: test exception
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.produceResponseAsync(String correlationId, String replyToTopic, SavePartiesByOrderResponse response, CancellationToken cancellationToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 245
+2025-08-21 11:49:13.862 +07:00 [INF] Response error correlationId = d6575a89880f4b54b9bd9408365bfac9
+2025-08-21 11:50:03.705 +07:00 [ERR] startConsume
+System.InvalidCastException: Unable to cast object of type 'AsyncStateMachineBox`1[FluentResults.Result,System.Runtime.CompilerServices.IAsyncStateMachine]' to type 'FluentResults.IError'.
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.<>c__DisplayClass10_1.<startConsume>b__1(IError errs) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 114
+   at System.Linq.Enumerable.SelectIListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.AddRange(IEnumerable`1 collection)
+   at FluentResults.ResultBase`1.WithReasons(IEnumerable`1 reasons)
+   at FluentResults.ResultBase`1.WithErrors(IEnumerable`1 errors)
+   at FluentResults.Result.MapErrors(Func`2 errorMapper)
+   at FluentResults.Extensions.ResultExtensions.MapErrors(Task`1 resultTask, Func`2 errorMapper)
+   at Mti.PartyManagement.Services.Api.BackgroundServices.SavePartiesByOrder.SavePartiesByOrderConsumer.startConsume(CancellationToken stoppingToken) in C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api\BackgroundServices\SavePartiesByOrder\SavePartiesByOrderConsumer.cs:line 112
+2025-08-21 15:32:59.387 +07:00 [INF] Starting Mti.PartyManagement.Services.Api...
+2025-08-21 15:32:59.465 +07:00 [DBG] Hosting starting
+2025-08-21 15:32:59.580 +07:00 [DBG] Middleware loaded
+2025-08-21 15:32:59.587 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-21 15:32:59.596 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-21 15:32:59.733 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-21 15:32:59.944 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-21 15:32:59.967 +07:00 [INF] Now listening on: http://localhost:5211
+2025-08-21 15:32:59.971 +07:00 [DBG] Loaded hosting startup assembly Mti.PartyManagement.Services.Api
+2025-08-21 15:32:59.974 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-21 15:32:59.976 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-21 15:32:59.978 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-21 15:33:00.003 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-08-21 15:33:00.129 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-21 15:33:00.130 +07:00 [INF] Hosting environment: Development
+2025-08-21 15:33:00.131 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-party-management-services\src\Mti.PartyManagement.Services.Api
+2025-08-21 15:33:00.133 +07:00 [DBG] Hosting started

@@ -1,0 +1,7 @@
+services:
+  mti.partymanagement.services.api:
+    image: ${DOCKER_REGISTRY-}mtipartymanagementservicesapi
+    network_mode: host
+    build:
+      context: .
+      dockerfile: Mti.PartyManagement.Services.Api/Dockerfile

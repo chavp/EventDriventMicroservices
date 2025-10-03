@@ -1,0 +1,1727 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Mti.OrderManagement.Services.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/v1/order-management/transform-mti-original/sale-order": {
+      "post": {
+        "tags": [
+          "OrderManagement"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/MtiOriginalOrderResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MtiOriginalOrderResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MtiOriginalOrderResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/order-management/transform-csv-mti-original/sale-order": {
+      "post": {
+        "tags": [
+          "OrderManagement"
+        ],
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 1
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 100
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "files": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "binary"
+                    }
+                  }
+                }
+              },
+              "encoding": {
+                "files": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TransformCsvMtiOriginalResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TransformCsvMtiOriginalResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TransformCsvMtiOriginalResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/order-management/save-mti-original/sale-order": {
+      "put": {
+        "tags": [
+          "OrderManagement"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/order-management/orders/{orderId}/mti-original": {
+      "get": {
+        "tags": [
+          "OrderManagement"
+        ],
+        "parameters": [
+          {
+            "name": "orderId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/MtiOriginalOrderResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MtiOriginalOrderResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MtiOriginalOrderResponse"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AddressValue": {
+        "type": "object",
+        "properties": {
+          "no": {
+            "type": "string",
+            "nullable": true
+          },
+          "moo": {
+            "type": "string",
+            "nullable": true
+          },
+          "floor": {
+            "type": "string",
+            "nullable": true
+          },
+          "room": {
+            "type": "string",
+            "nullable": true
+          },
+          "mooban": {
+            "type": "string",
+            "nullable": true
+          },
+          "building": {
+            "type": "string",
+            "nullable": true
+          },
+          "soi": {
+            "type": "string",
+            "nullable": true
+          },
+          "road": {
+            "type": "string",
+            "nullable": true
+          },
+          "tumbol": {
+            "type": "string",
+            "nullable": true
+          },
+          "ampur": {
+            "type": "string",
+            "nullable": true
+          },
+          "province": {
+            "type": "string",
+            "nullable": true
+          },
+          "zipcode": {
+            "type": "string",
+            "nullable": true
+          },
+          "line1": {
+            "type": "string",
+            "nullable": true
+          },
+          "line2": {
+            "type": "string",
+            "nullable": true
+          },
+          "line3": {
+            "type": "string",
+            "nullable": true
+          },
+          "line4": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ApiErrorResponse": {
+        "type": "object",
+        "properties": {
+          "errors": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Error"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "AssetMessage": {
+        "type": "object",
+        "properties": {
+          "assetId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "insuredAssetId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "assetTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "vehicle": {
+            "$ref": "#/components/schemas/VehicleMessage"
+          }
+        },
+        "additionalProperties": false
+      },
+      "AssetValue": {
+        "type": "object",
+        "properties": {
+          "assetId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "insuredAssetId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "assetTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "vehicle": {
+            "$ref": "#/components/schemas/VehicleMessage"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EnumPatternNames": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "EnumPatternPostalAddresses": {
+        "enum": [
+          0,
+          1
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "Error": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "nullable": true
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ExtractPartyValue": {
+        "type": "object",
+        "properties": {
+          "partyTypeCode": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          },
+          "partyId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "roleTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "isOrganization": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "titleName": {
+            "type": "string",
+            "nullable": true
+          },
+          "firstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "middleName": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "cardId": {
+            "type": "string",
+            "nullable": true
+          },
+          "nationality": {
+            "type": "string",
+            "nullable": true
+          },
+          "birthDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "postalAddresses": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ExtractPostalAddressValue"
+            },
+            "nullable": true
+          },
+          "pattern": {
+            "$ref": "#/components/schemas/EnumPatternNames"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ExtractPostalAddressValue": {
+        "type": "object",
+        "properties": {
+          "contactMechanismId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "contactMechanismTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "houseNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "villageNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "village": {
+            "type": "string",
+            "nullable": true
+          },
+          "alley": {
+            "type": "string",
+            "nullable": true
+          },
+          "road": {
+            "type": "string",
+            "nullable": true
+          },
+          "building": {
+            "type": "string",
+            "nullable": true
+          },
+          "room": {
+            "type": "string",
+            "nullable": true
+          },
+          "floor": {
+            "type": "string",
+            "nullable": true
+          },
+          "province": {
+            "type": "string",
+            "nullable": true
+          },
+          "district": {
+            "type": "string",
+            "nullable": true
+          },
+          "subDistrict": {
+            "type": "string",
+            "nullable": true
+          },
+          "zipCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "pattern": {
+            "$ref": "#/components/schemas/EnumPatternPostalAddresses"
+          },
+          "displayName": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MtiOriginalApplicationMessage": {
+        "type": "object",
+        "properties": {
+          "applicationTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "originalId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "transID": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "remark": {
+            "type": "string",
+            "nullable": true
+          },
+          "source": {
+            "type": "string",
+            "nullable": true
+          },
+          "systemId": {
+            "type": "string",
+            "nullable": true
+          },
+          "refNoticeNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "refDetailNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "statusMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "refQuotation": {
+            "type": "string",
+            "nullable": true
+          },
+          "payPlan": {
+            "type": "string",
+            "nullable": true
+          },
+          "collateralNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerInfoNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyType": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyPreviousNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyEffectiveDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "policyExpiryDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MtiOriginalApplicationValue": {
+        "type": "object",
+        "properties": {
+          "applicationTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "originalId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "transID": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "remark": {
+            "type": "string",
+            "nullable": true
+          },
+          "source": {
+            "type": "string",
+            "nullable": true
+          },
+          "systemId": {
+            "type": "string",
+            "nullable": true
+          },
+          "refNoticeNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "refDetailNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "statusMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "refQuotation": {
+            "type": "string",
+            "nullable": true
+          },
+          "payPlan": {
+            "type": "string",
+            "nullable": true
+          },
+          "collateralNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerInfoNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyType": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyPreviousNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyEffectiveDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "policyExpiryDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MtiOriginalCoverageMessage": {
+        "type": "object",
+        "properties": {
+          "coverageTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "sumInsure": {
+            "type": "number",
+            "format": "double"
+          },
+          "deduct": {
+            "type": "number",
+            "format": "double"
+          },
+          "damageLifePerPerson": {
+            "type": "number",
+            "format": "double"
+          },
+          "damageLifePerTime": {
+            "type": "number",
+            "format": "double"
+          },
+          "damageInsurePerTime": {
+            "type": "number",
+            "format": "double"
+          },
+          "accidentPerDriver": {
+            "type": "number",
+            "format": "double"
+          },
+          "medicalInsure": {
+            "type": "number",
+            "format": "double"
+          },
+          "insureDriver": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "MtiOriginalCoverageValue": {
+        "type": "object",
+        "properties": {
+          "coverageTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "sumInsure": {
+            "type": "number",
+            "format": "double"
+          },
+          "deduct": {
+            "type": "number",
+            "format": "double"
+          },
+          "damageLifePerPerson": {
+            "type": "number",
+            "format": "double"
+          },
+          "damageLifePerTime": {
+            "type": "number",
+            "format": "double"
+          },
+          "damageInsurePerTime": {
+            "type": "number",
+            "format": "double"
+          },
+          "accidentPerDriver": {
+            "type": "number",
+            "format": "double"
+          },
+          "medicalInsure": {
+            "type": "number",
+            "format": "double"
+          },
+          "insureDriver": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "MtiOriginalOrderItemMessage": {
+        "type": "object",
+        "properties": {
+          "orderItemTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "seq": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "orderItemId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "netPremium": {
+            "type": "number",
+            "format": "double"
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "application": {
+            "$ref": "#/components/schemas/MtiOriginalApplicationMessage"
+          },
+          "product": {
+            "$ref": "#/components/schemas/MtiOriginalProductMessage"
+          },
+          "coverage": {
+            "$ref": "#/components/schemas/MtiOriginalCoverageMessage"
+          },
+          "policy": {
+            "$ref": "#/components/schemas/PolicyMessage"
+          },
+          "insuredAsset": {
+            "$ref": "#/components/schemas/AssetMessage"
+          },
+          "parties": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PartyMessage"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MtiOriginalOrderItemResponse": {
+        "type": "object",
+        "properties": {
+          "orderItemTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "seq": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "orderItemId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "netPremium": {
+            "type": "number",
+            "format": "double"
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "application": {
+            "$ref": "#/components/schemas/MtiOriginalApplicationValue"
+          },
+          "product": {
+            "$ref": "#/components/schemas/MtiOriginalProductValue"
+          },
+          "coverage": {
+            "$ref": "#/components/schemas/MtiOriginalCoverageValue"
+          },
+          "policy": {
+            "$ref": "#/components/schemas/PolicyValue"
+          },
+          "insuredAsset": {
+            "$ref": "#/components/schemas/AssetValue"
+          },
+          "parties": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ExtractPartyValue"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MtiOriginalOrderResponse": {
+        "type": "object",
+        "properties": {
+          "orders_TenantId": {
+            "type": "string",
+            "nullable": true
+          },
+          "parties_TenantId": {
+            "type": "string",
+            "nullable": true
+          },
+          "products_TenantId": {
+            "type": "string",
+            "nullable": true
+          },
+          "orderTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "orderId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "number": {
+            "type": "string",
+            "nullable": true
+          },
+          "saleDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "loanNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "totalQuantity": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "orderItems": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MtiOriginalOrderItemResponse"
+            },
+            "nullable": true,
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MtiOriginalProductMessage": {
+        "type": "object",
+        "properties": {
+          "productTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "productId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "productName": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyType": {
+            "type": "string",
+            "nullable": true
+          },
+          "campaign": {
+            "type": "string",
+            "nullable": true
+          },
+          "package": {
+            "type": "string",
+            "nullable": true
+          },
+          "workshop": {
+            "type": "string",
+            "nullable": true
+          },
+          "refPolicyType": {
+            "type": "string",
+            "nullable": true
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "code": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MtiOriginalProductValue": {
+        "type": "object",
+        "properties": {
+          "productTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "productId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "productName": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyType": {
+            "type": "string",
+            "nullable": true
+          },
+          "campaign": {
+            "type": "string",
+            "nullable": true
+          },
+          "package": {
+            "type": "string",
+            "nullable": true
+          },
+          "workshop": {
+            "type": "string",
+            "nullable": true
+          },
+          "refPolicyType": {
+            "type": "string",
+            "nullable": true
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "code": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "PartyMessage": {
+        "type": "object",
+        "properties": {
+          "partyTypeCode": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          },
+          "partyId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "roleTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "isOrganization": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "titleName": {
+            "type": "string",
+            "nullable": true
+          },
+          "firstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "middleName": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "cardId": {
+            "type": "string",
+            "nullable": true
+          },
+          "nationality": {
+            "type": "string",
+            "nullable": true
+          },
+          "birthDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "postalAddresses": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PostalAddressMessage"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "PartyNameValue": {
+        "type": "object",
+        "properties": {
+          "titleText": {
+            "type": "string",
+            "nullable": true
+          },
+          "givenname": {
+            "type": "string",
+            "nullable": true
+          },
+          "surname": {
+            "type": "string",
+            "nullable": true
+          },
+          "fullname": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "PolicyMessage": {
+        "type": "object",
+        "properties": {
+          "agreementId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "number": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "PolicyValue": {
+        "type": "object",
+        "properties": {
+          "agreementId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "number": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "PostalAddressMessage": {
+        "type": "object",
+        "properties": {
+          "contactMechanismId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
+          },
+          "contactMechanismTypeCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "houseNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "villageNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "village": {
+            "type": "string",
+            "nullable": true
+          },
+          "alley": {
+            "type": "string",
+            "nullable": true
+          },
+          "road": {
+            "type": "string",
+            "nullable": true
+          },
+          "building": {
+            "type": "string",
+            "nullable": true
+          },
+          "room": {
+            "type": "string",
+            "nullable": true
+          },
+          "floor": {
+            "type": "string",
+            "nullable": true
+          },
+          "province": {
+            "type": "string",
+            "nullable": true
+          },
+          "district": {
+            "type": "string",
+            "nullable": true
+          },
+          "subDistrict": {
+            "type": "string",
+            "nullable": true
+          },
+          "zipCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "displayName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProblemDetails": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "detail": {
+            "type": "string",
+            "nullable": true
+          },
+          "instance": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": { }
+      },
+      "TranformMtiOriginalItemPartyValue": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "$ref": "#/components/schemas/PartyNameValue"
+          },
+          "cardId": {
+            "type": "string",
+            "nullable": true
+          },
+          "birthDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "nationlity": {
+            "type": "string",
+            "nullable": true
+          },
+          "telMobile1": {
+            "type": "string",
+            "nullable": true
+          },
+          "telMobile": {
+            "type": "string",
+            "nullable": true
+          },
+          "telHome": {
+            "type": "string",
+            "nullable": true
+          },
+          "telOffice": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "branchId": {
+            "type": "string",
+            "nullable": true
+          },
+          "branchName": {
+            "type": "string",
+            "nullable": true
+          },
+          "addr": {
+            "$ref": "#/components/schemas/AddressValue"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TranformMtiOriginalItemRequest": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "transID": {
+            "type": "string",
+            "nullable": true
+          },
+          "productName": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyType": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "refPolicyType": {
+            "type": "string",
+            "nullable": true
+          },
+          "campaign": {
+            "type": "string",
+            "nullable": true
+          },
+          "package": {
+            "type": "string",
+            "nullable": true
+          },
+          "workshop": {
+            "type": "string",
+            "nullable": true
+          },
+          "totalPremium": {
+            "type": "number",
+            "format": "double"
+          },
+          "netPremium": {
+            "type": "number",
+            "format": "double"
+          },
+          "remark": {
+            "type": "string",
+            "nullable": true
+          },
+          "refNoticeNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "refDetailNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "refQuotation": {
+            "type": "string",
+            "nullable": true
+          },
+          "source": {
+            "type": "string",
+            "nullable": true
+          },
+          "systemId": {
+            "type": "string",
+            "nullable": true
+          },
+          "statusMessage": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerInfoNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "owner": {
+            "$ref": "#/components/schemas/TranformMtiOriginalItemPartyValue"
+          },
+          "invoice": {
+            "$ref": "#/components/schemas/TranformMtiOriginalItemPartyValue"
+          },
+          "sumInsure": {
+            "type": "number",
+            "format": "double"
+          },
+          "deduct": {
+            "type": "number",
+            "format": "double"
+          },
+          "damageLifePerPerson": {
+            "type": "number",
+            "format": "double"
+          },
+          "damageLifePerTime": {
+            "type": "number",
+            "format": "double"
+          },
+          "damageInsurePerTime": {
+            "type": "number",
+            "format": "double"
+          },
+          "accidentPerDriver": {
+            "type": "number",
+            "format": "double"
+          },
+          "medicalInsure": {
+            "type": "number",
+            "format": "double"
+          },
+          "insureDriver": {
+            "type": "number",
+            "format": "double"
+          },
+          "vehCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "brandName": {
+            "type": "string",
+            "nullable": true
+          },
+          "modelName": {
+            "type": "string",
+            "nullable": true
+          },
+          "yrmanuf": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "regNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "engine": {
+            "type": "string",
+            "nullable": true
+          },
+          "chassis": {
+            "type": "string",
+            "nullable": true
+          },
+          "regProvince": {
+            "type": "string",
+            "nullable": true
+          },
+          "cc": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "seat": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "weight": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "toannage": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "passenger": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "payPlan": {
+            "type": "string",
+            "nullable": true
+          },
+          "collateralNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "carColour": {
+            "type": "string",
+            "nullable": true
+          },
+          "policyNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "oldPolicy": {
+            "type": "string",
+            "nullable": true
+          },
+          "effectiveDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "expiryDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "errors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TranformMtiOriginalRequest": {
+        "type": "object",
+        "properties": {
+          "saleDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "loanNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TranformMtiOriginalItemRequest"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TransformCsvMtiOriginalResponse": {
+        "type": "object",
+        "properties": {
+          "total": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "page": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "limit": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TranformMtiOriginalRequest"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "VehicleMessage": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "nullable": true
+          },
+          "brand": {
+            "type": "string",
+            "nullable": true
+          },
+          "model": {
+            "type": "string",
+            "nullable": true
+          },
+          "manufactoringYear": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "color": {
+            "type": "string",
+            "nullable": true
+          },
+          "registerNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "registerProvince": {
+            "type": "string",
+            "nullable": true
+          },
+          "registerYear": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "chassis": {
+            "type": "string",
+            "nullable": true
+          },
+          "cc": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "seat": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "weight": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "tonnage": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "engine": {
+            "type": "string",
+            "nullable": true
+          },
+          "passenger": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

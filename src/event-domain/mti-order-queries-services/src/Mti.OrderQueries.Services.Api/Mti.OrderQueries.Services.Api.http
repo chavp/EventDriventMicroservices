@@ -1,0 +1,6 @@
+@Mti.OrderQueries.Services.Api_HostAddress = http://localhost:5091
+
+GET {{Mti.OrderQueries.Services.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

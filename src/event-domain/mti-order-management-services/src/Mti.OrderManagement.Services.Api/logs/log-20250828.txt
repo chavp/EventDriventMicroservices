@@ -1,0 +1,1136 @@
+2025-08-28 09:41:11.040 +07:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-28 09:41:11.161 +07:00 [DBG] Hosting starting
+2025-08-28 09:41:11.333 +07:00 [DBG] Middleware loaded
+2025-08-28 09:41:11.337 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 09:41:11.340 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 09:41:11.625 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 09:41:11.869 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 09:41:11.909 +07:00 [INF] Now listening on: http://localhost:5169
+2025-08-28 09:41:11.911 +07:00 [DBG] Loaded hosting startup assembly Mti.OrderManagement.Services.Api
+2025-08-28 09:41:11.913 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 09:41:11.914 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 09:41:11.915 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 09:41:12.057 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 09:41:12.063 +07:00 [INF] Hosting environment: Development
+2025-08-28 09:41:12.067 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Services.Api
+2025-08-28 09:41:12.069 +07:00 [DBG] Hosting started
+2025-08-28 09:41:12.210 +07:00 [DBG] Connection id "0HNF5RHD03BE5" accepted.
+2025-08-28 09:41:12.225 +07:00 [DBG] Connection id "0HNF5RHD03BE6" reset.
+2025-08-28 09:41:12.235 +07:00 [DBG] Connection id "0HNF5RHD03BE5" received FIN.
+2025-08-28 09:41:12.240 +07:00 [DBG] Connection id "0HNF5RHD03BE5" started.
+2025-08-28 09:41:12.246 +07:00 [DBG] Connection id "0HNF5RHD03BE6" accepted.
+2025-08-28 09:41:12.249 +07:00 [DBG] Connection id "0HNF5RHD03BE6" started.
+2025-08-28 09:41:12.259 +07:00 [DBG] Connection id "0HNF5RHD03BE6" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 09:41:12.259 +07:00 [DBG] Connection id "0HNF5RHD03BE5" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 09:41:12.264 +07:00 [DBG] Connection id "0HNF5RHD03BE6" disconnecting.
+2025-08-28 09:41:12.265 +07:00 [DBG] Connection id "0HNF5RHD03BE5" disconnecting.
+2025-08-28 09:41:12.271 +07:00 [DBG] Connection id "0HNF5RHD03BE6" stopped.
+2025-08-28 09:41:12.272 +07:00 [DBG] Connection id "0HNF5RHD03BE5" stopped.
+2025-08-28 09:41:12.922 +07:00 [DBG] Connection id "0HNF5RHD03BE7" accepted.
+2025-08-28 09:41:12.924 +07:00 [DBG] Connection id "0HNF5RHD03BE7" started.
+2025-08-28 09:41:13.004 +07:00 [DBG] Connection id "0HNF5RHD03BE8" accepted.
+2025-08-28 09:41:13.010 +07:00 [DBG] Connection id "0HNF5RHD03BE8" started.
+2025-08-28 09:41:13.104 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 09:41:13.332 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-28 09:41:13.370 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 09:41:13.372 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 09:41:13.435 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 09:41:13.438 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 09:41:13.490 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 09:41:13.491 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 09:41:13.492 +07:00 [DBG] Connection id "0HNF5RHD03BE7" completed keep alive response.
+2025-08-28 09:41:13.495 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 408.388ms
+2025-08-28 09:41:13.568 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 09:41:13.573 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 09:41:13.574 +07:00 [DBG] Connection id "0HNF5RHD03BE7" completed keep alive response.
+2025-08-28 09:41:13.575 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 6.9146ms
+2025-08-28 09:41:13.583 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 09:41:13.649 +07:00 [DBG] Connection id "0HNF5RHD03BE7" completed keep alive response.
+2025-08-28 09:41:13.651 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 68.1105ms
+2025-08-28 09:41:13.766 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 09:41:13.770 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 09:41:13.771 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 09:41:13.796 +07:00 [DBG] Connection id "0HNF5RHD03BE7" completed keep alive response.
+2025-08-28 09:41:13.798 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 32.1153ms
+2025-08-28 09:41:14.571 +07:00 [DBG] Connection id "0HNF5RHD03BE7" received FIN.
+2025-08-28 09:41:14.571 +07:00 [DBG] Connection id "0HNF5RHD03BE8" received FIN.
+2025-08-28 09:41:14.573 +07:00 [DBG] Connection id "0HNF5RHD03BE7" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 09:41:14.573 +07:00 [DBG] Connection id "0HNF5RHD03BE8" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 09:41:14.574 +07:00 [DBG] Connection id "0HNF5RHD03BE7" disconnecting.
+2025-08-28 09:41:14.575 +07:00 [DBG] Connection id "0HNF5RHD03BE8" disconnecting.
+2025-08-28 09:41:14.577 +07:00 [DBG] Connection id "0HNF5RHD03BE8" stopped.
+2025-08-28 09:41:14.577 +07:00 [DBG] Connection id "0HNF5RHD03BE7" stopped.
+2025-08-28 09:41:42.598 +07:00 [DBG] Connection id "0HNF5RHD03BE9" accepted.
+2025-08-28 09:41:42.609 +07:00 [DBG] Connection id "0HNF5RHD03BE9" started.
+2025-08-28 09:41:42.611 +07:00 [INF] Request starting HTTP/1.1 PUT http://localhost:5169/api/v1/order-management/save-mti-original/sale-order - application/json 3908
+2025-08-28 09:41:42.621 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/save-mti-original/sale-order'
+2025-08-28 09:41:42.625 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.SaveMtiOriginal (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/save-mti-original/sale-order' is valid for the request path '/api/v1/order-management/save-mti-original/sale-order'
+2025-08-28 09:41:42.630 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.SaveMtiOriginal (Mti.OrderManagement.Services.Api)'
+2025-08-28 09:41:42.632 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 09:41:42.634 +07:00 [WRN] Failed to determine the https port for redirect.
+2025-08-28 09:41:42.636 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.SaveMtiOriginal (Mti.OrderManagement.Services.Api)'
+2025-08-28 09:41:42.659 +07:00 [INF] Route matched with {action = "SaveMtiOriginal", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] SaveMtiOriginal(FluentValidation.IValidator`1[Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest], Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 09:41:42.662 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 09:41:42.663 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 09:41:42.664 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 09:41:42.665 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 09:41:42.668 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 09:41:42.670 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 09:41:42.675 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 09:41:42.686 +07:00 [DBG] Attempting to bind parameter 'validator' of type 'FluentValidation.IValidator`1[Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest]' ...
+2025-08-28 09:41:42.703 +07:00 [DBG] Done attempting to bind parameter 'validator' of type 'FluentValidation.IValidator`1[Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest]'.
+2025-08-28 09:41:42.704 +07:00 [DBG] Attempting to validate the bound parameter 'validator' of type 'FluentValidation.IValidator`1[Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest]' ...
+2025-08-28 09:41:42.706 +07:00 [DBG] Done attempting to validate the bound parameter 'validator' of type 'FluentValidation.IValidator`1[Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest]'.
+2025-08-28 09:41:42.708 +07:00 [DBG] Attempting to bind parameter 'request' of type 'Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest' ...
+2025-08-28 09:41:42.710 +07:00 [DBG] Attempting to bind parameter 'request' of type 'Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest' using the name '' in request data ...
+2025-08-28 09:41:42.711 +07:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'.
+2025-08-28 09:41:42.731 +07:00 [DBG] Connection id "0HNF5RHD03BE9", Request id "0HNF5RHD03BE9:00000001": started reading request body.
+2025-08-28 09:41:42.733 +07:00 [DBG] Connection id "0HNF5RHD03BE9", Request id "0HNF5RHD03BE9:00000001": done reading request body.
+2025-08-28 09:41:42.759 +07:00 [DBG] JSON input formatter succeeded, deserializing to type 'Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest'
+2025-08-28 09:41:42.760 +07:00 [DBG] Done attempting to bind parameter 'request' of type 'Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest'.
+2025-08-28 09:41:42.761 +07:00 [DBG] Done attempting to bind parameter 'request' of type 'Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest'.
+2025-08-28 09:41:42.762 +07:00 [DBG] Attempting to validate the bound parameter 'request' of type 'Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest' ...
+2025-08-28 09:41:42.775 +07:00 [DBG] Done attempting to validate the bound parameter 'request' of type 'Mti.OrderManagement.Contracts.Orders.TranformMtiOriginalRequest'.
+2025-08-28 09:41:42.777 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 09:41:42.778 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 09:41:42.779 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 09:41:42.780 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 09:41:43.042 +07:00 [DBG] Handle = {"Request":{"SaleDate":"2025-07-21","LoanNumber":"250000202014","Items":[{"ID":33075258,"TransID":"47B3BB7E-1566-F011-83E9-005056B291F2","ProductName":"ประกันปีแรกพ่วงสินเชื่อ (New)","PolicyType":"ประกันภัยรถยนต์ ประเภท 1","Status":"I","RefPolicyType":"ประกันปีแรกพ่วงสินเชื่อ (New)","Campaign":"EPG2R2_24","Package":"EPG2R2_24","Workshop":"ซ่อมอู่","TotalPremium":0.0,"NetPremium":0.0,"Remark":"สำหรับรถเก๋งใช้งานส่วนบุคคล คุ้มครองอุปกรณ์เพิ่มเติมไม่เกิน 20,000 บาท","RefNoticeNo":"KKPMTIN/68/11321","RefDetailNo":null,"RefQuotation":null,"Source":"3004_Notice_Motor_MTI_20250721.xlsx","SystemId":"KK","StatusMessage":null,"CustomerInfoNo":"KKPMTIN/68/11321","Owner":{"Name":{"TitleText":"นาย","Givenname":null,"Surname":null,"Fullname":"เทพ อุ่นจันทร์"},"CardId":"3510101125631","BirthDate":null,"Nationlity":"ไทย","TelMobile1":null,"TelMobile":"610173755","TelHome":null,"TelOffice":null,"Email":"tapaunchan2510@gmail.com","BranchId":null,"BranchName":null,"Addr":{"No":null,"Moo":null,"Floor":null,"Room":null,"Mooban":null,"Building":null,"Soi":null,"Road":null,"Tumbol":null,"Ampur":null,"Province":null,"Zipcode":null,"Line1":"102/1  ม.4","Line2":null,"Line3":"ต.บ่อเวฬุ อ.ขลุง","Line4":"จ.จันทบุรี  22150"}},"Invoice":{"Name":{"TitleText":"นาย","Givenname":null,"Surname":null,"Fullname":"เทพ อุ่นจันทร์"},"CardId":"3510101125631","BirthDate":null,"Nationlity":null,"TelMobile1":null,"TelMobile":null,"TelHome":null,"TelOffice":null,"Email":null,"BranchId":"16","BranchName":"สาขาชลบุรี","Addr":null},"SumInsure":1150000.0,"Deduct":0.0,"DamageLifePerPerson":0.0,"DamageLifePerTime":0.0,"DamageInsurePerTime":0.0,"AccidentPerDriver":0.0,"MedicalInsure":0.0,"InsureDriver":0.0,"VehCode":"110","BrandName":"BMW","ModelName":"X4","Yrmanuf":2018,"RegNo":"8กผ 8228","Engine":"0059W127","Chassis":"MMFXX140300Z89138","RegProvince":"กรุงเทพมหานคร","Cc":1995.0,"Seat":0,"Weight":0.0,"Toannage":12.0,"Passenger":0,"PayPlan":null,"CollateralNo":null,"CarColour":"ขาว","PolicyNo":null,"OldPolicy":null,"EffectiveDate":"2025-07-21","ExpiryDate":"2026-07-21","Errors":[]}]}
+2025-08-28 09:41:43.804 +07:00 [DBG] request {"OrderId":"0198e4f0-509b-772b-a9fb-9901e95278cb","OrderNumber":"21072025-250000202014","Orders_TenantId":null,"OrderItems":[{"OrderItemId":"0198ee8d-7071-7cb1-965a-3ccedea812a7","OrderItemSeq":0,"Product":{"ProductCode":"#ประกันภัยรถยนต์_ประเภท_1_ประกันภัยรถยนต์_ประเภท_1_ประกันปีแรกพ่วงสินเชื่อ_(NEW)_EPG2R2_24_EPG2R2_24_ซ่อมอู่_EPG2R2_24_EPG2R2_24_ซ่อมอู่","ProductName":"ประกันภัยรถยนต์ ประเภท 1 ประกันภัยรถยนต์ ประเภท 1 ประกันปีแรกพ่วงสินเชื่อ (New) EPG2R2_24 EPG2R2_24 ซ่อมอู่ EPG2R2_24 EPG2R2_24 ซ่อมอู่"},"Coverage":null,"ProductFeature":null}]}
+2025-08-28 09:41:44.007 +07:00 [DBG] Message sent to partition [0] with offset 17, key OrderId 0198e4f0-509b-772b-a9fb-9901e95278cb
+2025-08-28 09:41:44.008 +07:00 [DBG] Message sent to partition [0] with offset 17, key OrderId 0198e4f0-509b-772b-a9fb-9901e95278cb
+2025-08-28 09:41:44.012 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:45.536 +07:00 [DBG] Begin Consumed message 'SaveProductsByOrderResponse { OrderId = 0198e4f0-509b-772b-a9fb-9901e95278cb, Orders_TenantId = , Products_TenantId = , OrderItems = System.Collections.ObjectModel.ReadOnlyCollection`1[Mti.ProductManagement.Messaging.Products.Commands.SaveProductsByOrderItemResponse] }' at: 28/08/68 9:41:45 +07:00, key: 0198e4f0-509b-772b-a9fb-9901e95278cb
+2025-08-28 09:41:47.310 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.311 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.312 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.313 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.313 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.314 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.314 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.315 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.316 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.316 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.317 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.318 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.319 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.320 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.320 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.321 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.321 +07:00 [DBG] Consume order id = 0198e4f0-509b-772b-a9fb-9901e95278cb, reply = dev.mti_party_management.save_parties_by_order.response.th.v1, correlationId = 2196f203-0154-447a-b8c2-03be2c9f0909
+2025-08-28 09:41:47.456 +07:00 [DBG] {"OrderItems":[{"Application":{"ApplicationTypeCode":"MTI_ORIGINAL","OriginalId":33075258,"TransID":"47B3BB7E-1566-F011-83E9-005056B291F2","Status":"I","Remark":"สำหรับรถเก๋งใช้งานส่วนบุคคล คุ้มครองอุปกรณ์เพิ่มเติมไม่เกิน 20,000 บาท","Source":"3004_Notice_Motor_MTI_20250721.xlsx","SystemId":"KK","RefNoticeNo":"KKPMTIN/68/11321","RefDetailNo":null,"StatusMessage":null,"RefQuotation":null,"PayPlan":null,"CollateralNo":null,"CustomerInfoNo":"KKPMTIN/68/11321","PolicyType":"ประกันภัยรถยนต์ ประเภท 1","PolicyNumber":null,"PolicyPreviousNumber":null,"PolicyEffectiveDate":"2025-07-21","PolicyExpiryDate":"2026-07-21"},"Product":{"ProductTypeCode":"MTI_ORIGINAL","ProductId":null,"ProductName":"ประกันปีแรกพ่วงสินเชื่อ (New)","PolicyType":"ประกันภัยรถยนต์ ประเภท 1","Campaign":"EPG2R2_24","Package":"EPG2R2_24","Workshop":"ซ่อมอู่","RefPolicyType":"ประกันปีแรกพ่วงสินเชื่อ (New)","Name":"ประกันภัยรถยนต์ ประเภท 1 ประกันปีแรกพ่วงสินเชื่อ (New) EPG2R2_24 EPG2R2_24 ซ่อมอู่","Code":"#ประกันภัยรถยนต์_ประเภท_1_ประกันปีแรกพ่วงสินเชื่อ_(NEW)_EPG2R2_24_EPG2R2_24_ซ่อมอู่"},"Coverage":null,"Policy":null,"InsuredAsset":{"Vehicle":{"Code":"110","Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0},"AssetId":null,"InsuredAssetId":"0198ee8d-70da-79ff-8737-8ae6600c2a71","AssetTypeCode":"VEHICLE","Description":"BMW,X4,2018"},"Parties":[{"Pattern":2,"PostalAddresses":[{"Pattern":1,"DisplayName":"102/1 ม.4 บ่อเวฬุ ขลุง จันทบุรี 22150","ContactMechanismId":null,"ContactMechanismTypeCode":"MAIN_ADDRESS","Name":"102/1 ม.4 บ่อเวฬุ ขลุง จันทบุรี 22150","HouseNumber":null,"VillageNumber":null,"Village":"102/1 ม.4","Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"จันทบุรี","District":"ขลุง","SubDistrict":"บ่อเวฬุ","ZipCode":"22150"}],"PartyTypeCode":"PERSON","PartyId":null,"RoleTypeCode":"INSURED","ID":0,"IsOrganization":false,"TitleName":"นาย","FirstName":"เทพ","MiddleName":null,"LastName":"อุ่นจันทร์","CardId":"3510101125631","Nationality":"ไทย","BirthDate":null},{"Pattern":2,"PostalAddresses":[],"PartyTypeCode":"PERSON","PartyId":null,"RoleTypeCode":"INVOICE","ID":0,"IsOrganization":false,"TitleName":"นาย","FirstName":"เทพ","MiddleName":null,"LastName":"อุ่นจันทร์","CardId":"3510101125631","Nationality":null,"BirthDate":null}],"OrderItemTypeCode":"MTI_ORIGINAL","Seq":1,"OrderItemId":"0198ee8d-7071-7cb1-965a-3ccedea812a7","NetPremium":0.0,"Quantity":1}],"Orders_TenantId":null,"Parties_TenantId":null,"Products_TenantId":null,"OrderTypeCode":"MTI_ORIGINAL","OrderId":"0198e4f0-509b-772b-a9fb-9901e95278cb","Number":"21072025-250000202014","SaleDate":"2025-07-21","LoanNumber":"250000202014","TotalQuantity":1}
+2025-08-28 09:41:47.458 +07:00 [DBG] read channel SaveMtiOriginalProducer = {"OrderItems":[{"Application":{"ApplicationTypeCode":"MTI_ORIGINAL","OriginalId":33075258,"TransID":"47B3BB7E-1566-F011-83E9-005056B291F2","Status":"I","Remark":"สำหรับรถเก๋งใช้งานส่วนบุคคล คุ้มครองอุปกรณ์เพิ่มเติมไม่เกิน 20,000 บาท","Source":"3004_Notice_Motor_MTI_20250721.xlsx","SystemId":"KK","RefNoticeNo":"KKPMTIN/68/11321","RefDetailNo":null,"StatusMessage":null,"RefQuotation":null,"PayPlan":null,"CollateralNo":null,"CustomerInfoNo":"KKPMTIN/68/11321","PolicyType":"ประกันภัยรถยนต์ ประเภท 1","PolicyNumber":null,"PolicyPreviousNumber":null,"PolicyEffectiveDate":"2025-07-21","PolicyExpiryDate":"2026-07-21"},"Product":{"ProductTypeCode":"MTI_ORIGINAL","ProductId":null,"ProductName":"ประกันปีแรกพ่วงสินเชื่อ (New)","PolicyType":"ประกันภัยรถยนต์ ประเภท 1","Campaign":"EPG2R2_24","Package":"EPG2R2_24","Workshop":"ซ่อมอู่","RefPolicyType":"ประกันปีแรกพ่วงสินเชื่อ (New)","Name":"ประกันภัยรถยนต์ ประเภท 1 ประกันปีแรกพ่วงสินเชื่อ (New) EPG2R2_24 EPG2R2_24 ซ่อมอู่","Code":"#ประกันภัยรถยนต์_ประเภท_1_ประกันปีแรกพ่วงสินเชื่อ_(NEW)_EPG2R2_24_EPG2R2_24_ซ่อมอู่"},"Coverage":null,"Policy":null,"InsuredAsset":{"Vehicle":{"Code":"110","Brand":"BMW","Model":"X4","ManufactoringYear":2018,"Color":"ขาว","RegisterNo":null,"RegisterProvince":"กรุงเทพมหานคร","RegisterYear":2018,"Chassis":"MMFXX140300Z89138","Cc":1995.0,"Seat":0.0,"Weight":0.0,"Tonnage":12.0,"Engine":"0059W127","Passenger":0},"AssetId":null,"InsuredAssetId":"0198ee8d-70da-79ff-8737-8ae6600c2a71","AssetTypeCode":"VEHICLE","Description":"BMW,X4,2018"},"Parties":[{"Pattern":2,"PostalAddresses":[{"Pattern":1,"DisplayName":"102/1 ม.4 บ่อเวฬุ ขลุง จันทบุรี 22150","ContactMechanismId":null,"ContactMechanismTypeCode":"MAIN_ADDRESS","Name":"102/1 ม.4 บ่อเวฬุ ขลุง จันทบุรี 22150","HouseNumber":null,"VillageNumber":null,"Village":"102/1 ม.4","Alley":null,"Road":null,"Building":null,"Room":null,"Floor":null,"Province":"จันทบุรี","District":"ขลุง","SubDistrict":"บ่อเวฬุ","ZipCode":"22150"}],"PartyTypeCode":"PERSON","PartyId":null,"RoleTypeCode":"INSURED","ID":0,"IsOrganization":false,"TitleName":"นาย","FirstName":"เทพ","MiddleName":null,"LastName":"อุ่นจันทร์","CardId":"3510101125631","Nationality":"ไทย","BirthDate":null},{"Pattern":2,"PostalAddresses":[],"PartyTypeCode":"PERSON","PartyId":null,"RoleTypeCode":"INVOICE","ID":0,"IsOrganization":false,"TitleName":"นาย","FirstName":"เทพ","MiddleName":null,"LastName":"อุ่นจันทร์","CardId":"3510101125631","Nationality":null,"BirthDate":null}],"OrderItemTypeCode":"MTI_ORIGINAL","Seq":1,"OrderItemId":"0198ee8d-7071-7cb1-965a-3ccedea812a7","NetPremium":0.0,"Quantity":1}],"Orders_TenantId":null,"Parties_TenantId":null,"Products_TenantId":null,"OrderTypeCode":"MTI_ORIGINAL","OrderId":"0198e4f0-509b-772b-a9fb-9901e95278cb","Number":"21072025-250000202014","SaleDate":"2025-07-21","LoanNumber":"250000202014","TotalQuantity":1}
+2025-08-28 09:41:47.462 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2025-08-28 09:41:47.466 +07:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2025-08-28 09:41:47.469 +07:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2025-08-28 09:41:47.470 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-08-28 09:41:47.471 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2025-08-28 09:41:47.472 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-08-28 09:41:47.473 +07:00 [INF] Executing OkObjectResult, writing value of type 'Mti.OrderManagement.Contracts.Orders.MtiOriginalOrderResponse'.
+2025-08-28 09:41:47.484 +07:00 [DBG] Message sent to partition [0] with offset 7, key OrderId 0198e4f0-509b-772b-a9fb-9901e95278cb
+2025-08-28 09:41:47.512 +07:00 [INF] Executed action Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.SaveMtiOriginal (Mti.OrderManagement.Services.Api) in 4840.8776ms
+2025-08-28 09:41:47.514 +07:00 [INF] Executed endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.SaveMtiOriginal (Mti.OrderManagement.Services.Api)'
+2025-08-28 09:41:47.515 +07:00 [DBG] Connection id "0HNF5RHD03BE9" completed keep alive response.
+2025-08-28 09:41:47.516 +07:00 [INF] Request finished HTTP/1.1 PUT http://localhost:5169/api/v1/order-management/save-mti-original/sale-order - 200 null application/json; charset=utf-8 4905.107ms
+2025-08-28 09:41:49.604 +07:00 [DBG] Connection id "0HNF5RHD03BE9" received FIN.
+2025-08-28 09:41:49.606 +07:00 [DBG] Connection id "0HNF5RHD03BE9" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 09:41:49.608 +07:00 [DBG] Connection id "0HNF5RHD03BE9" disconnecting.
+2025-08-28 09:41:49.609 +07:00 [DBG] Connection id "0HNF5RHD03BE9" stopped.
+2025-08-28 09:50:01.929 +07:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-28 09:50:02.008 +07:00 [DBG] Hosting starting
+2025-08-28 09:50:02.210 +07:00 [DBG] Middleware loaded
+2025-08-28 09:50:02.214 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 09:50:02.216 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 09:50:02.267 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 09:50:02.330 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 09:50:02.340 +07:00 [INF] Now listening on: http://localhost:5169
+2025-08-28 09:50:02.341 +07:00 [DBG] Loaded hosting startup assembly Mti.OrderManagement.Services.Api
+2025-08-28 09:50:02.342 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 09:50:02.343 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 09:50:02.343 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 09:50:02.420 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 09:50:02.422 +07:00 [INF] Hosting environment: Development
+2025-08-28 09:50:02.423 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Services.Api
+2025-08-28 09:50:02.424 +07:00 [DBG] Hosting started
+2025-08-28 09:50:02.668 +07:00 [DBG] Connection id "0HNF5RMB2U6H1" received FIN.
+2025-08-28 09:50:02.675 +07:00 [DBG] Connection id "0HNF5RMB2U6H1" accepted.
+2025-08-28 09:50:02.676 +07:00 [DBG] Connection id "0HNF5RMB2U6H1" started.
+2025-08-28 09:50:02.682 +07:00 [DBG] Connection id "0HNF5RMB2U6H1" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 09:50:02.685 +07:00 [DBG] Connection id "0HNF5RMB2U6H1" disconnecting.
+2025-08-28 09:50:02.691 +07:00 [DBG] Connection id "0HNF5RMB2U6H1" stopped.
+2025-08-28 09:50:02.746 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" accepted.
+2025-08-28 09:50:02.747 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" started.
+2025-08-28 09:50:02.938 +07:00 [DBG] Connection id "0HNF5RMB2U6H3" accepted.
+2025-08-28 09:50:02.939 +07:00 [DBG] Connection id "0HNF5RMB2U6H3" started.
+2025-08-28 09:50:02.967 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 09:50:03.038 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-28 09:50:03.069 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 09:50:03.071 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 09:50:03.106 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 09:50:03.108 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 09:50:03.120 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 09:50:03.121 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 09:50:03.125 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" completed keep alive response.
+2025-08-28 09:50:03.127 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 161.5776ms
+2025-08-28 09:50:03.160 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 09:50:03.166 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 09:50:03.167 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" completed keep alive response.
+2025-08-28 09:50:03.168 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 7.7579ms
+2025-08-28 09:50:03.200 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 09:50:03.229 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" completed keep alive response.
+2025-08-28 09:50:03.231 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.1975ms
+2025-08-28 09:50:03.378 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 09:50:03.382 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 09:50:03.383 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 09:50:03.419 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" completed keep alive response.
+2025-08-28 09:50:03.422 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 44.0576ms
+2025-08-28 09:50:05.485 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" received FIN.
+2025-08-28 09:50:05.485 +07:00 [DBG] Connection id "0HNF5RMB2U6H3" received FIN.
+2025-08-28 09:50:05.488 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 09:50:05.489 +07:00 [DBG] Connection id "0HNF5RMB2U6H3" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 09:50:05.491 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" disconnecting.
+2025-08-28 09:50:05.493 +07:00 [DBG] Connection id "0HNF5RMB2U6H3" disconnecting.
+2025-08-28 09:50:05.495 +07:00 [DBG] Connection id "0HNF5RMB2U6H2" stopped.
+2025-08-28 09:50:05.495 +07:00 [DBG] Connection id "0HNF5RMB2U6H3" stopped.
+2025-08-28 14:45:58.282 +07:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-28 14:45:58.428 +07:00 [DBG] Hosting starting
+2025-08-28 14:45:58.555 +07:00 [DBG] Middleware loaded
+2025-08-28 14:45:58.558 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 14:45:58.562 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 14:45:58.793 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 14:45:58.910 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 14:45:58.939 +07:00 [DBG] Connection id "0HNF60RMRU02B" accepted.
+2025-08-28 14:45:58.941 +07:00 [DBG] Connection id "0HNF60RMRU02B" started.
+2025-08-28 14:45:58.948 +07:00 [INF] Now listening on: http://localhost:5169
+2025-08-28 14:45:58.950 +07:00 [DBG] Loaded hosting startup assembly Mti.OrderManagement.Services.Api
+2025-08-28 14:45:58.951 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 14:45:58.952 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 14:45:58.953 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 14:45:58.986 +07:00 [DBG] Connection id "0HNF60RMRU02B" received FIN.
+2025-08-28 14:45:58.986 +07:00 [DBG] Connection id "0HNF60RMRU02C" received FIN.
+2025-08-28 14:45:58.993 +07:00 [DBG] Connection id "0HNF60RMRU02C" accepted.
+2025-08-28 14:45:59.001 +07:00 [DBG] Connection id "0HNF60RMRU02C" started.
+2025-08-28 14:45:59.000 +07:00 [DBG] Connection id "0HNF60RMRU02B" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 14:45:59.003 +07:00 [DBG] Connection id "0HNF60RMRU02C" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 14:45:59.007 +07:00 [DBG] Connection id "0HNF60RMRU02B" disconnecting.
+2025-08-28 14:45:59.007 +07:00 [DBG] Connection id "0HNF60RMRU02C" disconnecting.
+2025-08-28 14:45:59.018 +07:00 [DBG] Connection id "0HNF60RMRU02B" stopped.
+2025-08-28 14:45:59.018 +07:00 [DBG] Connection id "0HNF60RMRU02C" stopped.
+2025-08-28 14:45:59.167 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 14:45:59.169 +07:00 [INF] Hosting environment: Development
+2025-08-28 14:45:59.171 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Services.Api
+2025-08-28 14:45:59.172 +07:00 [DBG] Hosting started
+2025-08-28 14:45:59.918 +07:00 [DBG] Connection id "0HNF60RMRU02D" accepted.
+2025-08-28 14:45:59.920 +07:00 [DBG] Connection id "0HNF60RMRU02D" started.
+2025-08-28 14:46:00.033 +07:00 [DBG] Connection id "0HNF60RMRU02E" accepted.
+2025-08-28 14:46:00.038 +07:00 [DBG] Connection id "0HNF60RMRU02E" started.
+2025-08-28 14:46:00.120 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 14:46:00.541 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-28 14:46:00.606 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 14:46:00.608 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 14:46:00.684 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 14:46:00.687 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 14:46:00.746 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 14:46:00.748 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 14:46:00.751 +07:00 [DBG] Connection id "0HNF60RMRU02D" completed keep alive response.
+2025-08-28 14:46:00.756 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 655.5034ms
+2025-08-28 14:46:00.905 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 14:46:00.913 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 14:46:00.914 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 14:46:00.915 +07:00 [DBG] Connection id "0HNF60RMRU02D" completed keep alive response.
+2025-08-28 14:46:00.919 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 14.113ms
+2025-08-28 14:46:00.960 +07:00 [DBG] Connection id "0HNF60RMRU02E" completed keep alive response.
+2025-08-28 14:46:00.962 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.8779ms
+2025-08-28 14:46:01.031 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 14:46:01.034 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 14:46:01.036 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 14:46:01.064 +07:00 [DBG] Connection id "0HNF60RMRU02E" completed keep alive response.
+2025-08-28 14:46:01.066 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 34.6906ms
+2025-08-28 14:46:03.757 +07:00 [DBG] Connection id "0HNF60RMRU02D" received FIN.
+2025-08-28 14:46:03.757 +07:00 [DBG] Connection id "0HNF60RMRU02E" received FIN.
+2025-08-28 14:46:03.759 +07:00 [DBG] Connection id "0HNF60RMRU02D" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 14:46:03.760 +07:00 [DBG] Connection id "0HNF60RMRU02E" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 14:46:03.762 +07:00 [DBG] Connection id "0HNF60RMRU02D" disconnecting.
+2025-08-28 14:46:03.763 +07:00 [DBG] Connection id "0HNF60RMRU02E" disconnecting.
+2025-08-28 14:46:03.765 +07:00 [DBG] Connection id "0HNF60RMRU02E" stopped.
+2025-08-28 14:46:03.772 +07:00 [DBG] Connection id "0HNF60RMRU02D" stopped.
+2025-08-28 14:46:15.035 +07:00 [DBG] Connection id "0HNF60RMRU02F" accepted.
+2025-08-28 14:46:15.037 +07:00 [DBG] Connection id "0HNF60RMRU02F" started.
+2025-08-28 14:46:15.043 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original - null null
+2025-08-28 14:46:15.061 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original'
+2025-08-28 14:46:15.071 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original'
+2025-08-28 14:46:15.081 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 14:46:15.089 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 14:46:15.091 +07:00 [WRN] Failed to determine the https port for redirect.
+2025-08-28 14:46:15.098 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 14:46:15.148 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 14:46:15.154 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 14:46:15.157 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 14:46:15.160 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 14:46:15.165 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 14:46:15.167 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 14:46:15.171 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 14:46:15.182 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 14:46:15.190 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 14:46:15.195 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 14:46:15.198 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 14:46:15.200 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 14:46:15.201 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 14:46:15.205 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:02:14.390 +07:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-28 15:02:14.586 +07:00 [DBG] Hosting starting
+2025-08-28 15:02:14.676 +07:00 [DBG] Middleware loaded
+2025-08-28 15:02:14.680 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 15:02:14.684 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 15:02:14.877 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 15:02:15.032 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 15:02:15.094 +07:00 [INF] Now listening on: http://localhost:5169
+2025-08-28 15:02:15.097 +07:00 [DBG] Loaded hosting startup assembly Mti.OrderManagement.Services.Api
+2025-08-28 15:02:15.100 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 15:02:15.104 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 15:02:15.105 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 15:02:15.512 +07:00 [DBG] Connection id "0HNF614PT8FRP" received FIN.
+2025-08-28 15:02:15.512 +07:00 [DBG] Connection id "0HNF614PT8FRO" received FIN.
+2025-08-28 15:02:15.550 +07:00 [DBG] Connection id "0HNF614PT8FRO" accepted.
+2025-08-28 15:02:15.550 +07:00 [DBG] Connection id "0HNF614PT8FRP" accepted.
+2025-08-28 15:02:15.578 +07:00 [DBG] Connection id "0HNF614PT8FRO" started.
+2025-08-28 15:02:15.578 +07:00 [DBG] Connection id "0HNF614PT8FRP" started.
+2025-08-28 15:02:15.777 +07:00 [DBG] Connection id "0HNF614PT8FRO" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:02:15.777 +07:00 [DBG] Connection id "0HNF614PT8FRP" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:02:15.783 +07:00 [DBG] Connection id "0HNF614PT8FRO" disconnecting.
+2025-08-28 15:02:15.783 +07:00 [DBG] Connection id "0HNF614PT8FRP" disconnecting.
+2025-08-28 15:02:15.804 +07:00 [DBG] Connection id "0HNF614PT8FRO" stopped.
+2025-08-28 15:02:15.805 +07:00 [DBG] Connection id "0HNF614PT8FRP" stopped.
+2025-08-28 15:02:16.297 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 15:02:16.299 +07:00 [INF] Hosting environment: Development
+2025-08-28 15:02:16.300 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Services.Api
+2025-08-28 15:02:16.334 +07:00 [DBG] Hosting started
+2025-08-28 15:02:16.603 +07:00 [DBG] Connection id "0HNF614PT8FRQ" accepted.
+2025-08-28 15:02:16.607 +07:00 [DBG] Connection id "0HNF614PT8FRQ" started.
+2025-08-28 15:02:16.832 +07:00 [DBG] Connection id "0HNF614PT8FRR" accepted.
+2025-08-28 15:02:16.891 +07:00 [DBG] Connection id "0HNF614PT8FRR" started.
+2025-08-28 15:02:17.080 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 15:02:17.374 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-28 15:02:17.574 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 15:02:17.577 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:02:17.713 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 15:02:17.718 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 15:02:17.775 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 15:02:17.778 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 15:02:17.780 +07:00 [DBG] Connection id "0HNF614PT8FRQ" completed keep alive response.
+2025-08-28 15:02:17.790 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 743.3763ms
+2025-08-28 15:02:17.873 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 15:02:17.883 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 15:02:17.890 +07:00 [DBG] Connection id "0HNF614PT8FRQ" completed keep alive response.
+2025-08-28 15:02:17.899 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 25.3029ms
+2025-08-28 15:02:17.947 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 15:02:18.224 +07:00 [DBG] Connection id "0HNF614PT8FRQ" completed keep alive response.
+2025-08-28 15:02:18.240 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 293.8773ms
+2025-08-28 15:02:18.364 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 15:02:18.377 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 15:02:18.380 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:02:18.436 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.PrcessRequestAsync (Mti.OrderManagement.Services.Api). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-08-28 15:02:18.529 +07:00 [ERR] Exception occurred: Ambiguous HTTP method for action - Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.PrcessRequestAsync (Mti.OrderManagement.Services.Api). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.PrcessRequestAsync (Mti.OrderManagement.Services.Api). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-08-28 15:02:18.606 +07:00 [DBG] Connection id "0HNF614PT8FRQ" completed keep alive response.
+2025-08-28 15:02:18.610 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 500 null application/json; charset=utf-8 245.7333ms
+2025-08-28 15:02:20.189 +07:00 [DBG] Connection id "0HNF614PT8FRQ" received FIN.
+2025-08-28 15:02:20.189 +07:00 [DBG] Connection id "0HNF614PT8FRR" received FIN.
+2025-08-28 15:02:20.192 +07:00 [DBG] Connection id "0HNF614PT8FRQ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:02:20.193 +07:00 [DBG] Connection id "0HNF614PT8FRR" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:02:20.206 +07:00 [DBG] Connection id "0HNF614PT8FRQ" disconnecting.
+2025-08-28 15:02:20.220 +07:00 [DBG] Connection id "0HNF614PT8FRR" disconnecting.
+2025-08-28 15:02:20.227 +07:00 [DBG] Connection id "0HNF614PT8FRQ" stopped.
+2025-08-28 15:02:20.227 +07:00 [DBG] Connection id "0HNF614PT8FRR" stopped.
+2025-08-28 15:02:22.299 +07:00 [DBG] Connection id "0HNF614PT8FRS" accepted.
+2025-08-28 15:02:22.301 +07:00 [DBG] Connection id "0HNF614PT8FRS" started.
+2025-08-28 15:02:22.309 +07:00 [DBG] Connection id "0HNF614PT8FRT" accepted.
+2025-08-28 15:02:22.309 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 15:02:22.310 +07:00 [DBG] Connection id "0HNF614PT8FRT" started.
+2025-08-28 15:02:22.319 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 15:02:22.320 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:02:22.327 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 15:02:22.328 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 15:02:22.330 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 15:02:22.331 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 15:02:22.332 +07:00 [DBG] Connection id "0HNF614PT8FRS" completed keep alive response.
+2025-08-28 15:02:22.333 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 23.6553ms
+2025-08-28 15:02:22.361 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 15:02:22.362 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 15:02:22.365 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 15:02:22.371 +07:00 [DBG] Connection id "0HNF614PT8FRS" completed keep alive response.
+2025-08-28 15:02:22.376 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 14.6747ms
+2025-08-28 15:02:22.376 +07:00 [DBG] Connection id "0HNF614PT8FRT" completed keep alive response.
+2025-08-28 15:02:22.381 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.3031ms
+2025-08-28 15:02:22.415 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 15:02:22.418 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 15:02:22.420 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:02:22.445 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.PrcessRequestAsync (Mti.OrderManagement.Services.Api). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-08-28 15:02:22.455 +07:00 [ERR] Exception occurred: Ambiguous HTTP method for action - Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.PrcessRequestAsync (Mti.OrderManagement.Services.Api). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.PrcessRequestAsync (Mti.OrderManagement.Services.Api). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-08-28 15:02:22.470 +07:00 [DBG] Connection id "0HNF614PT8FRT" completed keep alive response.
+2025-08-28 15:02:22.471 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 500 null application/json; charset=utf-8 56.3899ms
+2025-08-28 15:02:25.197 +07:00 [DBG] Connection id "0HNF614PT8FRT" received FIN.
+2025-08-28 15:02:25.197 +07:00 [DBG] Connection id "0HNF614PT8FRS" received FIN.
+2025-08-28 15:02:25.201 +07:00 [DBG] Connection id "0HNF614PT8FRS" disconnecting.
+2025-08-28 15:02:25.200 +07:00 [DBG] Connection id "0HNF614PT8FRT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:02:25.215 +07:00 [DBG] Connection id "0HNF614PT8FRS" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:02:25.219 +07:00 [DBG] Connection id "0HNF614PT8FRT" disconnecting.
+2025-08-28 15:02:25.223 +07:00 [DBG] Connection id "0HNF614PT8FRT" stopped.
+2025-08-28 15:02:25.224 +07:00 [DBG] Connection id "0HNF614PT8FRS" stopped.
+2025-08-28 15:03:14.944 +07:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-28 15:03:15.079 +07:00 [DBG] Hosting starting
+2025-08-28 15:03:15.166 +07:00 [DBG] Middleware loaded
+2025-08-28 15:03:15.169 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 15:03:15.173 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 15:03:15.571 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 15:03:15.794 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 15:03:15.852 +07:00 [INF] Now listening on: http://localhost:5169
+2025-08-28 15:03:15.854 +07:00 [DBG] Loaded hosting startup assembly Mti.OrderManagement.Services.Api
+2025-08-28 15:03:15.856 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 15:03:15.858 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 15:03:15.859 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 15:03:16.177 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 15:03:16.192 +07:00 [INF] Hosting environment: Development
+2025-08-28 15:03:16.198 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Services.Api
+2025-08-28 15:03:16.201 +07:00 [DBG] Hosting started
+2025-08-28 15:03:16.231 +07:00 [DBG] Connection id "0HNF615C0AC24" received FIN.
+2025-08-28 15:03:16.249 +07:00 [DBG] Connection id "0HNF615C0AC24" accepted.
+2025-08-28 15:03:16.253 +07:00 [DBG] Connection id "0HNF615C0AC24" started.
+2025-08-28 15:03:16.268 +07:00 [DBG] Connection id "0HNF615C0AC24" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:03:16.275 +07:00 [DBG] Connection id "0HNF615C0AC24" disconnecting.
+2025-08-28 15:03:16.299 +07:00 [DBG] Connection id "0HNF615C0AC24" stopped.
+2025-08-28 15:03:16.578 +07:00 [DBG] Connection id "0HNF615C0AC25" accepted.
+2025-08-28 15:03:16.581 +07:00 [DBG] Connection id "0HNF615C0AC25" started.
+2025-08-28 15:03:16.646 +07:00 [DBG] Connection id "0HNF615C0AC26" accepted.
+2025-08-28 15:03:16.665 +07:00 [DBG] Connection id "0HNF615C0AC26" started.
+2025-08-28 15:03:16.742 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 15:03:16.941 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-28 15:03:17.013 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 15:03:17.016 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:03:17.121 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 15:03:17.126 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 15:03:17.161 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 15:03:17.164 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 15:03:17.166 +07:00 [DBG] Connection id "0HNF615C0AC25" completed keep alive response.
+2025-08-28 15:03:17.172 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 448.5611ms
+2025-08-28 15:03:17.243 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 15:03:17.253 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 15:03:17.262 +07:00 [DBG] Connection id "0HNF615C0AC25" completed keep alive response.
+2025-08-28 15:03:17.263 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 15:03:17.265 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 21.3942ms
+2025-08-28 15:03:17.369 +07:00 [DBG] Connection id "0HNF615C0AC26" completed keep alive response.
+2025-08-28 15:03:17.374 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 110.7338ms
+2025-08-28 15:03:17.469 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 15:03:17.544 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 15:03:17.546 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:03:17.615 +07:00 [DBG] Connection id "0HNF615C0AC26" completed keep alive response.
+2025-08-28 15:03:17.626 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 156.2009ms
+2025-08-28 15:03:20.275 +07:00 [DBG] Connection id "0HNF615C0AC25" received FIN.
+2025-08-28 15:03:20.275 +07:00 [DBG] Connection id "0HNF615C0AC26" received FIN.
+2025-08-28 15:03:20.278 +07:00 [DBG] Connection id "0HNF615C0AC25" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:03:20.279 +07:00 [DBG] Connection id "0HNF615C0AC26" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:03:20.283 +07:00 [DBG] Connection id "0HNF615C0AC25" disconnecting.
+2025-08-28 15:03:20.285 +07:00 [DBG] Connection id "0HNF615C0AC26" disconnecting.
+2025-08-28 15:03:20.291 +07:00 [DBG] Connection id "0HNF615C0AC25" stopped.
+2025-08-28 15:03:20.291 +07:00 [DBG] Connection id "0HNF615C0AC26" stopped.
+2025-08-28 15:03:22.384 +07:00 [DBG] Connection id "0HNF615C0AC27" accepted.
+2025-08-28 15:03:22.386 +07:00 [DBG] Connection id "0HNF615C0AC27" started.
+2025-08-28 15:03:22.389 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original - null null
+2025-08-28 15:03:22.407 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original'
+2025-08-28 15:03:22.414 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original'
+2025-08-28 15:03:22.422 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:03:22.427 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 15:03:22.429 +07:00 [WRN] Failed to determine the https port for redirect.
+2025-08-28 15:03:22.432 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:03:22.470 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 15:03:22.478 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 15:03:22.480 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 15:03:22.483 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:03:22.487 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 15:03:22.489 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:03:22.494 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:03:22.502 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:03:22.511 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:03:22.515 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 15:03:22.519 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:03:22.522 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:03:22.524 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:03:22.528 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:03:22.531 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:03:22.533 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:03:22.534 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:03:22.537 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:03:28.738 +07:00 [DBG] Message sent to partition [0] with offset 0, key correlationId 9c7f346d-169d-4346-917e-c6b05dc812a2
+2025-08-28 15:03:28.744 +07:00 [DBG] Consume correlationId = 9c7f346d-169d-4346-917e-c6b05dc812a2, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:04:11.754 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2025-08-28 15:04:11.761 +07:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2025-08-28 15:04:11.763 +07:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2025-08-28 15:04:11.765 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-08-28 15:04:11.766 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2025-08-28 15:04:11.768 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-08-28 15:04:11.769 +07:00 [INF] Executing OkObjectResult, writing value of type 'Mti.OrderManagement.Contracts.Orders.MtiOriginalOrderResponse'.
+2025-08-28 15:04:11.866 +07:00 [INF] Executed action Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api) in 49371.8723ms
+2025-08-28 15:04:11.869 +07:00 [INF] Executed endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:04:11.873 +07:00 [DBG] Connection id "0HNF615C0AC27" completed keep alive response.
+2025-08-28 15:04:11.875 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original - 200 null application/json; charset=utf-8 49485.4804ms
+2025-08-28 15:04:15.341 +07:00 [DBG] Connection id "0HNF615C0AC27" received FIN.
+2025-08-28 15:04:15.344 +07:00 [DBG] Connection id "0HNF615C0AC27" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:04:15.348 +07:00 [DBG] Connection id "0HNF615C0AC27" disconnecting.
+2025-08-28 15:04:15.349 +07:00 [DBG] Connection id "0HNF615C0AC27" stopped.
+2025-08-28 15:04:31.725 +07:00 [DBG] Connection id "0HNF615C0AC28" accepted.
+2025-08-28 15:04:31.728 +07:00 [DBG] Connection id "0HNF615C0AC28" started.
+2025-08-28 15:04:31.732 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original - null null
+2025-08-28 15:04:31.739 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original'
+2025-08-28 15:04:31.741 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original'
+2025-08-28 15:04:31.744 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:04:31.746 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 15:04:31.748 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:04:31.750 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 15:04:31.753 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 15:04:31.755 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 15:04:31.756 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:04:31.760 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 15:04:31.762 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:04:31.764 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:04:31.773 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:04:31.780 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:04:31.782 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 15:04:31.783 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:04:31.784 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:04:31.785 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:04:31.786 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:04:31.787 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:04:31.788 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:04:31.790 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:04:31.792 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:04:39.924 +07:00 [DBG] Message sent to partition [0] with offset 1, key correlationId 8f8c778b-705d-4e4d-bb88-3cbab7668b87
+2025-08-28 15:04:39.929 +07:00 [DBG] Consume correlationId = 8f8c778b-705d-4e4d-bb88-3cbab7668b87, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:04:43.165 +07:00 [DBG] Consume correlationId = 8f8c778b-705d-4e4d-bb88-3cbab7668b87, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:04:58.443 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2025-08-28 15:04:58.447 +07:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2025-08-28 15:04:58.448 +07:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2025-08-28 15:04:58.449 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-08-28 15:04:58.450 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2025-08-28 15:04:58.451 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-08-28 15:04:58.452 +07:00 [INF] Executing OkObjectResult, writing value of type 'Mti.OrderManagement.Contracts.Orders.MtiOriginalOrderResponse'.
+2025-08-28 15:04:58.455 +07:00 [INF] Executed action Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api) in 26690.4176ms
+2025-08-28 15:04:58.456 +07:00 [INF] Executed endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:04:58.458 +07:00 [DBG] Connection id "0HNF615C0AC28" completed keep alive response.
+2025-08-28 15:04:58.460 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original - 200 null application/json; charset=utf-8 26727.8554ms
+2025-08-28 15:05:00.415 +07:00 [DBG] Connection id "0HNF615C0AC28" received FIN.
+2025-08-28 15:05:00.416 +07:00 [DBG] Connection id "0HNF615C0AC28" disconnecting.
+2025-08-28 15:05:00.424 +07:00 [DBG] Connection id "0HNF615C0AC28" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:05:00.445 +07:00 [DBG] Connection id "0HNF615C0AC28" stopped.
+2025-08-28 15:05:01.015 +07:00 [DBG] Connection id "0HNF615C0AC29" accepted.
+2025-08-28 15:05:01.017 +07:00 [DBG] Connection id "0HNF615C0AC29" started.
+2025-08-28 15:05:01.019 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original - null null
+2025-08-28 15:05:01.023 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original'
+2025-08-28 15:05:01.025 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original'
+2025-08-28 15:05:01.027 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:05:01.029 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 15:05:01.030 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:05:01.031 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 15:05:01.033 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 15:05:01.034 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 15:05:01.035 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:05:01.037 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 15:05:01.039 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:05:01.041 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:05:01.046 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:05:01.055 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:05:01.056 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 15:05:01.059 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:05:01.060 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:05:01.061 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:05:01.063 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:05:01.064 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:05:01.066 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:05:01.067 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:05:01.069 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:05:10.066 +07:00 [DBG] Message sent to partition [0] with offset 2, key correlationId 66bfca37-0905-4847-a685-f3d85ee3d13a
+2025-08-28 15:05:10.069 +07:00 [DBG] Consume correlationId = 66bfca37-0905-4847-a685-f3d85ee3d13a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:05:13.328 +07:00 [DBG] Consume correlationId = 66bfca37-0905-4847-a685-f3d85ee3d13a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:05:13.331 +07:00 [DBG] Consume correlationId = 66bfca37-0905-4847-a685-f3d85ee3d13a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:06:44.807 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2025-08-28 15:06:44.811 +07:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2025-08-28 15:06:44.813 +07:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2025-08-28 15:06:44.814 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-08-28 15:06:44.815 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2025-08-28 15:06:44.816 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-08-28 15:06:44.817 +07:00 [INF] Executing OkObjectResult, writing value of type 'Mti.OrderManagement.Contracts.Orders.MtiOriginalOrderResponse'.
+2025-08-28 15:06:44.819 +07:00 [INF] Executed action Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api) in 103778.2503ms
+2025-08-28 15:06:44.821 +07:00 [INF] Executed endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:06:44.823 +07:00 [DBG] Connection id "0HNF615C0AC29" completed keep alive response.
+2025-08-28 15:06:44.824 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198c1ab-4113-7ff6-b7cb-f45464cc5e50/mti-original - 200 null application/json; charset=utf-8 103805.0008ms
+2025-08-28 15:06:45.541 +07:00 [DBG] Connection id "0HNF615C0AC29" received FIN.
+2025-08-28 15:06:45.543 +07:00 [DBG] Connection id "0HNF615C0AC29" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:06:45.544 +07:00 [DBG] Connection id "0HNF615C0AC29" disconnecting.
+2025-08-28 15:06:45.547 +07:00 [DBG] Connection id "0HNF615C0AC29" stopped.
+2025-08-28 15:08:39.117 +07:00 [DBG] Connection id "0HNF615C0AC2A" accepted.
+2025-08-28 15:08:39.118 +07:00 [DBG] Connection id "0HNF615C0AC2A" started.
+2025-08-28 15:08:39.124 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - null null
+2025-08-28 15:08:39.133 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:08:39.135 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:08:39.137 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:08:39.139 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 15:08:39.141 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:08:39.148 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 15:08:39.150 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 15:08:39.152 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 15:08:39.154 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:08:39.157 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 15:08:39.158 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:08:39.161 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:08:39.172 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:08:39.178 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:08:39.180 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 15:08:39.182 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:08:39.183 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:08:39.184 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:08:39.186 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:08:39.187 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:08:39.188 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:08:39.189 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:08:39.191 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:08:43.827 +07:00 [DBG] Message sent to partition [0] with offset 3, key correlationId 5383c013-28d7-4865-a85a-fc5ed3162d7a
+2025-08-28 15:08:43.832 +07:00 [DBG] Consume correlationId = 5383c013-28d7-4865-a85a-fc5ed3162d7a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:08:47.086 +07:00 [DBG] Consume correlationId = 5383c013-28d7-4865-a85a-fc5ed3162d7a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:08:47.088 +07:00 [DBG] Consume correlationId = 5383c013-28d7-4865-a85a-fc5ed3162d7a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:08:47.089 +07:00 [DBG] Consume correlationId = 5383c013-28d7-4865-a85a-fc5ed3162d7a, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:08:58.136 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2025-08-28 15:08:58.140 +07:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2025-08-28 15:08:58.142 +07:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2025-08-28 15:08:58.145 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-08-28 15:08:58.146 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2025-08-28 15:08:58.147 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-08-28 15:08:58.150 +07:00 [INF] Executing OkObjectResult, writing value of type 'Mti.OrderManagement.Contracts.Orders.MtiOriginalOrderResponse'.
+2025-08-28 15:08:58.164 +07:00 [INF] Executed action Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api) in 19002.363ms
+2025-08-28 15:08:58.166 +07:00 [INF] Executed endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:08:58.168 +07:00 [DBG] Connection id "0HNF615C0AC2A" completed keep alive response.
+2025-08-28 15:08:58.170 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - 200 null application/json; charset=utf-8 19046.4453ms
+2025-08-28 15:09:00.715 +07:00 [DBG] Connection id "0HNF615C0AC2A" received FIN.
+2025-08-28 15:09:00.717 +07:00 [DBG] Connection id "0HNF615C0AC2A" disconnecting.
+2025-08-28 15:09:00.723 +07:00 [DBG] Connection id "0HNF615C0AC2A" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:09:00.729 +07:00 [DBG] Connection id "0HNF615C0AC2A" stopped.
+2025-08-28 15:09:03.868 +07:00 [DBG] Connection id "0HNF615C0AC2B" accepted.
+2025-08-28 15:09:03.871 +07:00 [DBG] Connection id "0HNF615C0AC2B" started.
+2025-08-28 15:09:03.889 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - null null
+2025-08-28 15:09:03.896 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:09:03.901 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:09:03.903 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:09:03.905 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 15:09:03.906 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:09:03.907 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 15:09:03.909 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 15:09:03.910 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 15:09:03.911 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:09:03.915 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 15:09:03.917 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:09:03.920 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:09:03.924 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:09:03.932 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:09:03.934 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 15:09:03.936 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:09:03.938 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:09:03.939 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:09:03.940 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:09:03.942 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:09:03.944 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:09:03.945 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:09:03.947 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:09:10.213 +07:00 [DBG] Message sent to partition [0] with offset 4, key correlationId 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3
+2025-08-28 15:09:10.234 +07:00 [DBG] Consume correlationId = 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:09:13.492 +07:00 [DBG] Consume correlationId = 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:09:13.494 +07:00 [DBG] Consume correlationId = 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:09:13.495 +07:00 [DBG] Consume correlationId = 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:09:13.496 +07:00 [DBG] Consume correlationId = 7d2c2577-49dc-47a8-b9c3-a7f7b43ac4d3, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:16:13.330 +07:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-28 15:16:13.621 +07:00 [DBG] Hosting starting
+2025-08-28 15:16:13.739 +07:00 [DBG] Middleware loaded
+2025-08-28 15:16:13.745 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 15:16:13.748 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 15:16:13.940 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 15:16:14.081 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 15:16:14.130 +07:00 [INF] Now listening on: http://localhost:5169
+2025-08-28 15:16:14.131 +07:00 [DBG] Loaded hosting startup assembly Mti.OrderManagement.Services.Api
+2025-08-28 15:16:14.134 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 15:16:14.135 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 15:16:14.136 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 15:16:14.316 +07:00 [DBG] Connection id "0HNF61CJSN3IS" accepted.
+2025-08-28 15:16:14.316 +07:00 [DBG] Connection id "0HNF61CJSN3IR" accepted.
+2025-08-28 15:16:14.319 +07:00 [DBG] Connection id "0HNF61CJSN3IS" started.
+2025-08-28 15:16:14.320 +07:00 [DBG] Connection id "0HNF61CJSN3IR" started.
+2025-08-28 15:16:14.346 +07:00 [DBG] Connection id "0HNF61CJSN3IR" received FIN.
+2025-08-28 15:16:14.346 +07:00 [DBG] Connection id "0HNF61CJSN3IS" received FIN.
+2025-08-28 15:16:14.365 +07:00 [DBG] Connection id "0HNF61CJSN3IS" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:16:14.365 +07:00 [DBG] Connection id "0HNF61CJSN3IR" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:16:14.371 +07:00 [DBG] Connection id "0HNF61CJSN3IS" disconnecting.
+2025-08-28 15:16:14.372 +07:00 [DBG] Connection id "0HNF61CJSN3IR" disconnecting.
+2025-08-28 15:16:14.382 +07:00 [DBG] Connection id "0HNF61CJSN3IR" stopped.
+2025-08-28 15:16:14.382 +07:00 [DBG] Connection id "0HNF61CJSN3IS" stopped.
+2025-08-28 15:16:14.413 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 15:16:14.416 +07:00 [INF] Hosting environment: Development
+2025-08-28 15:16:14.419 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Services.Api
+2025-08-28 15:16:14.422 +07:00 [DBG] Hosting started
+2025-08-28 15:16:14.799 +07:00 [DBG] Connection id "0HNF61CJSN3IT" accepted.
+2025-08-28 15:16:14.801 +07:00 [DBG] Connection id "0HNF61CJSN3IT" started.
+2025-08-28 15:16:15.016 +07:00 [DBG] Connection id "0HNF61CJSN3IU" accepted.
+2025-08-28 15:16:15.019 +07:00 [DBG] Connection id "0HNF61CJSN3IU" started.
+2025-08-28 15:16:15.616 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 15:16:15.851 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-28 15:16:15.931 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 15:16:15.933 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:16:16.218 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 15:16:16.222 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 15:16:16.297 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 15:16:16.302 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 15:16:16.306 +07:00 [DBG] Connection id "0HNF61CJSN3IT" completed keep alive response.
+2025-08-28 15:16:16.324 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 745.3958ms
+2025-08-28 15:16:16.623 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 15:16:16.637 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 15:16:16.640 +07:00 [DBG] Connection id "0HNF61CJSN3IT" completed keep alive response.
+2025-08-28 15:16:16.643 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 20.0759ms
+2025-08-28 15:16:16.705 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 15:16:16.806 +07:00 [DBG] Connection id "0HNF61CJSN3IT" completed keep alive response.
+2025-08-28 15:16:16.814 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 108.9637ms
+2025-08-28 15:16:16.912 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 15:16:16.918 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 15:16:16.920 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:16:16.961 +07:00 [DBG] Connection id "0HNF61CJSN3IT" completed keep alive response.
+2025-08-28 15:16:16.963 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 51.5349ms
+2025-08-28 15:16:21.422 +07:00 [DBG] Connection id "0HNF61CJSN3IT" received FIN.
+2025-08-28 15:16:21.422 +07:00 [DBG] Connection id "0HNF61CJSN3IU" received FIN.
+2025-08-28 15:16:21.428 +07:00 [DBG] Connection id "0HNF61CJSN3IT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:16:21.429 +07:00 [DBG] Connection id "0HNF61CJSN3IU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:16:21.432 +07:00 [DBG] Connection id "0HNF61CJSN3IT" disconnecting.
+2025-08-28 15:16:21.435 +07:00 [DBG] Connection id "0HNF61CJSN3IU" disconnecting.
+2025-08-28 15:16:21.438 +07:00 [DBG] Connection id "0HNF61CJSN3IT" stopped.
+2025-08-28 15:16:21.438 +07:00 [DBG] Connection id "0HNF61CJSN3IU" stopped.
+2025-08-28 15:16:32.241 +07:00 [DBG] Connection id "0HNF61CJSN3IV" accepted.
+2025-08-28 15:16:32.244 +07:00 [DBG] Connection id "0HNF61CJSN3IV" started.
+2025-08-28 15:16:32.246 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - null null
+2025-08-28 15:16:32.264 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:16:32.272 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:16:32.285 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:16:32.292 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 15:16:32.294 +07:00 [WRN] Failed to determine the https port for redirect.
+2025-08-28 15:16:32.299 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:16:32.344 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 15:16:32.349 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 15:16:32.352 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 15:16:32.354 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:16:32.358 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 15:16:32.361 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:16:32.366 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:16:32.381 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:16:32.390 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:16:32.395 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 15:16:32.399 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:16:32.400 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:16:32.402 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:16:32.406 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:16:32.409 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:16:32.412 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:16:32.413 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:16:32.415 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:16:33.694 +07:00 [DBG] Message sent to partition [0] with offset 5, key correlationId 3337a78c-af4c-43cc-8f68-b22201dfbc75
+2025-08-28 15:16:33.703 +07:00 [DBG] Consume correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:16:37.030 +07:00 [DBG] Consume correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:16:37.037 +07:00 [DBG] Consume correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:16:37.043 +07:00 [DBG] Consume correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:16:37.080 +07:00 [DBG] Consume correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:16:37.083 +07:00 [DBG] Consume correlationId = 3337a78c-af4c-43cc-8f68-b22201dfbc75, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:16:37.138 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2025-08-28 15:16:37.148 +07:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2025-08-28 15:16:37.153 +07:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2025-08-28 15:16:37.156 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-08-28 15:16:37.159 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2025-08-28 15:16:37.163 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-08-28 15:16:37.166 +07:00 [INF] Executing OkObjectResult, writing value of type 'Mti.OrderManagement.Contracts.Orders.MtiOriginalOrderResponse'.
+2025-08-28 15:16:37.295 +07:00 [INF] Executed action Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api) in 4926.8535ms
+2025-08-28 15:16:37.298 +07:00 [INF] Executed endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:16:37.303 +07:00 [DBG] Connection id "0HNF61CJSN3IV" completed keep alive response.
+2025-08-28 15:16:37.304 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - 200 null application/json; charset=utf-8 5058.7263ms
+2025-08-28 15:16:41.522 +07:00 [DBG] Connection id "0HNF61CJSN3IV" received FIN.
+2025-08-28 15:16:41.528 +07:00 [DBG] Connection id "0HNF61CJSN3IV" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:16:41.530 +07:00 [DBG] Connection id "0HNF61CJSN3IV" disconnecting.
+2025-08-28 15:16:41.531 +07:00 [DBG] Connection id "0HNF61CJSN3IV" stopped.
+2025-08-28 15:17:31.974 +07:00 [DBG] Connection id "0HNF61CJSN3J0" accepted.
+2025-08-28 15:17:31.976 +07:00 [DBG] Connection id "0HNF61CJSN3J0" started.
+2025-08-28 15:17:31.979 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - null null
+2025-08-28 15:17:31.983 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:17:31.985 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:17:31.988 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:17:31.990 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 15:17:31.991 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:17:31.994 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 15:17:31.996 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 15:17:31.998 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 15:17:31.999 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:17:32.001 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 15:17:32.003 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:17:32.005 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:17:32.010 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:17:32.015 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:17:32.017 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 15:17:32.019 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:17:32.020 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:17:32.022 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:17:32.024 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:17:32.026 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:17:32.028 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:17:32.030 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:17:32.032 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:17:32.566 +07:00 [DBG] Message sent to partition [0] with offset 6, key correlationId c816d4b7-8a5a-4da6-8dd2-1aaafab4d617
+2025-08-28 15:17:32.571 +07:00 [DBG] Consume correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:17:35.771 +07:00 [DBG] Consume correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:17:35.773 +07:00 [DBG] Consume correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:17:35.774 +07:00 [DBG] Consume correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:17:35.775 +07:00 [DBG] Consume correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:17:35.776 +07:00 [DBG] Consume correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:17:35.777 +07:00 [DBG] Consume correlationId = c816d4b7-8a5a-4da6-8dd2-1aaafab4d617, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:19:00.718 +07:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-28 15:19:00.986 +07:00 [DBG] Hosting starting
+2025-08-28 15:19:01.123 +07:00 [DBG] Middleware loaded
+2025-08-28 15:19:01.131 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 15:19:01.136 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 15:19:01.428 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 15:19:01.658 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 15:19:01.719 +07:00 [INF] Now listening on: http://localhost:5169
+2025-08-28 15:19:01.721 +07:00 [DBG] Loaded hosting startup assembly Mti.OrderManagement.Services.Api
+2025-08-28 15:19:01.724 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 15:19:01.726 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 15:19:01.730 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 15:19:02.025 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 15:19:02.041 +07:00 [INF] Hosting environment: Development
+2025-08-28 15:19:02.043 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Services.Api
+2025-08-28 15:19:02.045 +07:00 [DBG] Connection id "0HNF61E5S9R46" received FIN.
+2025-08-28 15:19:02.045 +07:00 [DBG] Hosting started
+2025-08-28 15:19:02.066 +07:00 [DBG] Connection id "0HNF61E5S9R46" accepted.
+2025-08-28 15:19:02.071 +07:00 [DBG] Connection id "0HNF61E5S9R46" started.
+2025-08-28 15:19:02.089 +07:00 [DBG] Connection id "0HNF61E5S9R46" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:19:02.096 +07:00 [DBG] Connection id "0HNF61E5S9R46" disconnecting.
+2025-08-28 15:19:02.108 +07:00 [DBG] Connection id "0HNF61E5S9R46" stopped.
+2025-08-28 15:19:02.434 +07:00 [DBG] Connection id "0HNF61E5S9R47" accepted.
+2025-08-28 15:19:02.437 +07:00 [DBG] Connection id "0HNF61E5S9R47" started.
+2025-08-28 15:19:02.546 +07:00 [DBG] Connection id "0HNF61E5S9R48" accepted.
+2025-08-28 15:19:02.552 +07:00 [DBG] Connection id "0HNF61E5S9R48" started.
+2025-08-28 15:19:02.639 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 15:19:02.899 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-28 15:19:02.972 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 15:19:02.975 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:19:03.086 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 15:19:03.089 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 15:19:03.148 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 15:19:03.151 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 15:19:03.155 +07:00 [DBG] Connection id "0HNF61E5S9R47" completed keep alive response.
+2025-08-28 15:19:03.166 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 541.9594ms
+2025-08-28 15:19:03.328 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 15:19:03.338 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 15:19:03.340 +07:00 [DBG] Connection id "0HNF61E5S9R47" completed keep alive response.
+2025-08-28 15:19:03.342 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 14.614ms
+2025-08-28 15:19:03.358 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 15:19:03.488 +07:00 [DBG] Connection id "0HNF61E5S9R48" completed keep alive response.
+2025-08-28 15:19:03.491 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 133.5891ms
+2025-08-28 15:19:03.694 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 15:19:03.717 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 15:19:03.719 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 15:19:03.852 +07:00 [DBG] Connection id "0HNF61E5S9R48" completed keep alive response.
+2025-08-28 15:19:03.855 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 160.8978ms
+2025-08-28 15:19:06.007 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - null null
+2025-08-28 15:19:06.033 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:19:06.040 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 15:19:06.060 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:19:06.068 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 15:19:06.071 +07:00 [WRN] Failed to determine the https port for redirect.
+2025-08-28 15:19:06.082 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:19:06.142 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 15:19:06.149 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 15:19:06.152 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 15:19:06.155 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:19:06.158 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 15:19:06.161 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 15:19:06.167 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:19:06.183 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 15:19:06.206 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:19:06.214 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 15:19:06.218 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:19:06.220 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:19:06.222 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 15:19:06.229 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 15:19:06.232 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:19:06.235 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:19:06.236 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 15:19:06.239 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 15:19:06.678 +07:00 [DBG] Connection id "0HNF61E5S9R47" received FIN.
+2025-08-28 15:19:06.681 +07:00 [DBG] Connection id "0HNF61E5S9R47" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:19:06.685 +07:00 [DBG] Connection id "0HNF61E5S9R47" disconnecting.
+2025-08-28 15:19:06.688 +07:00 [DBG] Connection id "0HNF61E5S9R47" stopped.
+2025-08-28 15:19:07.538 +07:00 [DBG] Message sent to partition [0] with offset 7, key correlationId a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b
+2025-08-28 15:19:07.548 +07:00 [DBG] Consume correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:19:10.833 +07:00 [DBG] Consume correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:19:10.837 +07:00 [DBG] Consume correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:19:10.838 +07:00 [DBG] Consume correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:19:10.860 +07:00 [DBG] Consume correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:19:10.861 +07:00 [DBG] Consume correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:19:10.863 +07:00 [DBG] Consume correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:19:10.864 +07:00 [DBG] Consume correlationId = a9c9f02d-9be2-48e5-9eb3-89b8c5471c8b, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 15:19:10.904 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2025-08-28 15:19:10.913 +07:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2025-08-28 15:19:10.922 +07:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2025-08-28 15:19:10.925 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-08-28 15:19:10.926 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2025-08-28 15:19:10.929 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-08-28 15:19:10.931 +07:00 [INF] Executing OkObjectResult, writing value of type 'Mti.OrderManagement.Contracts.Orders.MtiOriginalOrderResponse'.
+2025-08-28 15:19:11.024 +07:00 [INF] Executed action Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api) in 4856.695ms
+2025-08-28 15:19:11.027 +07:00 [INF] Executed endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 15:19:11.031 +07:00 [DBG] Connection id "0HNF61E5S9R48" completed keep alive response.
+2025-08-28 15:19:11.032 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - 200 null application/json; charset=utf-8 5025.0361ms
+2025-08-28 15:19:11.684 +07:00 [DBG] Connection id "0HNF61E5S9R48" received FIN.
+2025-08-28 15:19:11.689 +07:00 [DBG] Connection id "0HNF61E5S9R48" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 15:19:11.693 +07:00 [DBG] Connection id "0HNF61E5S9R48" disconnecting.
+2025-08-28 15:19:11.695 +07:00 [DBG] Connection id "0HNF61E5S9R48" stopped.
+2025-08-28 16:09:08.856 +07:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-28 16:09:09.110 +07:00 [DBG] Hosting starting
+2025-08-28 16:09:09.304 +07:00 [DBG] Middleware loaded
+2025-08-28 16:09:09.310 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 16:09:09.315 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 16:09:09.550 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 16:09:09.735 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 16:09:09.816 +07:00 [INF] Now listening on: http://localhost:5169
+2025-08-28 16:09:09.821 +07:00 [DBG] Loaded hosting startup assembly Mti.OrderManagement.Services.Api
+2025-08-28 16:09:09.831 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 16:09:09.834 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 16:09:09.842 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 16:09:10.021 +07:00 [DBG] Connection id "0HNF62A6AJ198" received FIN.
+2025-08-28 16:09:10.022 +07:00 [DBG] Connection id "0HNF62A6AJ197" accepted.
+2025-08-28 16:09:10.033 +07:00 [DBG] Connection id "0HNF62A6AJ197" received FIN.
+2025-08-28 16:09:10.046 +07:00 [DBG] Connection id "0HNF62A6AJ197" started.
+2025-08-28 16:09:10.047 +07:00 [DBG] Connection id "0HNF62A6AJ198" accepted.
+2025-08-28 16:09:10.058 +07:00 [DBG] Connection id "0HNF62A6AJ198" started.
+2025-08-28 16:09:10.069 +07:00 [DBG] Connection id "0HNF62A6AJ197" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 16:09:10.069 +07:00 [DBG] Connection id "0HNF62A6AJ198" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 16:09:10.074 +07:00 [DBG] Connection id "0HNF62A6AJ197" disconnecting.
+2025-08-28 16:09:10.075 +07:00 [DBG] Connection id "0HNF62A6AJ198" disconnecting.
+2025-08-28 16:09:10.085 +07:00 [DBG] Connection id "0HNF62A6AJ197" stopped.
+2025-08-28 16:09:10.085 +07:00 [DBG] Connection id "0HNF62A6AJ198" stopped.
+2025-08-28 16:09:10.109 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 16:09:10.111 +07:00 [INF] Hosting environment: Development
+2025-08-28 16:09:10.112 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Services.Api
+2025-08-28 16:09:10.114 +07:00 [DBG] Hosting started
+2025-08-28 16:09:10.460 +07:00 [DBG] Connection id "0HNF62A6AJ199" accepted.
+2025-08-28 16:09:10.482 +07:00 [DBG] Connection id "0HNF62A6AJ199" started.
+2025-08-28 16:09:10.580 +07:00 [DBG] Connection id "0HNF62A6AJ19A" accepted.
+2025-08-28 16:09:10.612 +07:00 [DBG] Connection id "0HNF62A6AJ19A" started.
+2025-08-28 16:09:10.736 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 16:09:11.035 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-28 16:09:11.122 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 16:09:11.126 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 16:09:11.231 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 16:09:11.236 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 16:09:11.245 +07:00 [DBG] Connection id "0HNF62A6AJ19A" received FIN.
+2025-08-28 16:09:11.253 +07:00 [DBG] Connection id "0HNF62A6AJ19A" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 16:09:11.270 +07:00 [DBG] Connection id "0HNF62A6AJ19A" disconnecting.
+2025-08-28 16:09:11.274 +07:00 [DBG] Connection id "0HNF62A6AJ19A" stopped.
+2025-08-28 16:09:11.290 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 16:09:11.293 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 16:09:11.295 +07:00 [DBG] Connection id "0HNF62A6AJ199" completed keep alive response.
+2025-08-28 16:09:11.305 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 589.7013ms
+2025-08-28 16:09:11.426 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 16:09:11.436 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 16:09:11.438 +07:00 [DBG] Connection id "0HNF62A6AJ199" completed keep alive response.
+2025-08-28 16:09:11.440 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 14.1389ms
+2025-08-28 16:09:11.484 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 16:09:11.561 +07:00 [DBG] Connection id "0HNF62A6AJ199" completed keep alive response.
+2025-08-28 16:09:11.568 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 84.7197ms
+2025-08-28 16:09:11.649 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 16:09:11.655 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 16:09:11.656 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 16:09:11.714 +07:00 [DBG] Connection id "0HNF62A6AJ199" completed keep alive response.
+2025-08-28 16:09:11.736 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 86.6313ms
+2025-08-28 16:09:13.541 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - null null
+2025-08-28 16:09:13.566 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 16:09:13.572 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 16:09:13.581 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 16:09:13.588 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 16:09:13.590 +07:00 [WRN] Failed to determine the https port for redirect.
+2025-08-28 16:09:13.594 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 16:09:13.638 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 16:09:13.643 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 16:09:13.645 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 16:09:13.648 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 16:09:13.651 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 16:09:13.652 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 16:09:13.657 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 16:09:13.667 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 16:09:13.678 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 16:09:13.683 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 16:09:13.687 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 16:09:13.688 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 16:09:13.690 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 16:09:13.695 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 16:09:13.699 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 16:09:13.701 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 16:09:13.703 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 16:09:13.706 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 16:09:14.878 +07:00 [DBG] Message sent to partition [0] with offset 8, key correlationId 9e3ec770-2388-4157-a1d0-37e4f3e51104
+2025-08-28 16:09:14.889 +07:00 [DBG] Consume correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:09:18.237 +07:00 [DBG] Consume correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:09:18.239 +07:00 [DBG] Consume correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:09:18.240 +07:00 [DBG] Consume correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:09:18.267 +07:00 [DBG] Consume correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:09:18.269 +07:00 [DBG] Consume correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:09:18.271 +07:00 [DBG] Consume correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:09:18.272 +07:00 [DBG] Consume correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:09:18.276 +07:00 [DBG] Consume correlationId = 9e3ec770-2388-4157-a1d0-37e4f3e51104, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:09:18.380 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2025-08-28 16:09:18.385 +07:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2025-08-28 16:09:18.388 +07:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2025-08-28 16:09:18.390 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-08-28 16:09:18.391 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2025-08-28 16:09:18.393 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-08-28 16:09:18.396 +07:00 [INF] Executing OkObjectResult, writing value of type 'Mti.OrderManagement.Contracts.Orders.MtiOriginalOrderResponse'.
+2025-08-28 16:09:18.489 +07:00 [INF] Executed action Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api) in 4832.228ms
+2025-08-28 16:09:18.492 +07:00 [INF] Executed endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 16:09:18.496 +07:00 [DBG] Connection id "0HNF62A6AJ199" completed keep alive response.
+2025-08-28 16:09:18.498 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - 200 null application/json; charset=utf-8 4957.0508ms
+2025-08-28 16:09:21.250 +07:00 [DBG] Connection id "0HNF62A6AJ199" received FIN.
+2025-08-28 16:09:21.252 +07:00 [DBG] Connection id "0HNF62A6AJ199" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 16:09:21.254 +07:00 [DBG] Connection id "0HNF62A6AJ199" disconnecting.
+2025-08-28 16:09:21.265 +07:00 [DBG] Connection id "0HNF62A6AJ199" stopped.
+2025-08-28 16:32:06.867 +07:00 [DBG] Registered model binder providers, in the following order: ["Asp.Versioning.ApiVersionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-08-28 16:32:07.078 +07:00 [DBG] Hosting starting
+2025-08-28 16:32:07.156 +07:00 [DBG] Middleware loaded
+2025-08-28 16:32:07.160 +07:00 [DBG] Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16549 B).
+2025-08-28 16:32:07.164 +07:00 [DBG] Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+2025-08-28 16:32:07.331 +07:00 [DBG] Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+2025-08-28 16:32:07.421 +07:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 56AC7EE0852B4D970370C27BB12BE75C1907C6AD)
+2025-08-28 16:32:07.451 +07:00 [INF] Now listening on: http://localhost:5169
+2025-08-28 16:32:07.452 +07:00 [DBG] Loaded hosting startup assembly Mti.OrderManagement.Services.Api
+2025-08-28 16:32:07.453 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-08-28 16:32:07.454 +07:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-08-28 16:32:07.454 +07:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-08-28 16:32:07.587 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-28 16:32:07.588 +07:00 [INF] Hosting environment: Development
+2025-08-28 16:32:07.589 +07:00 [INF] Content root path: C:\data\backlogs\#3 - load file for inform policy\src\guides\event-domain\mti-order-management-services\src\Mti.OrderManagement.Services.Api
+2025-08-28 16:32:07.605 +07:00 [DBG] Hosting started
+2025-08-28 16:32:07.889 +07:00 [DBG] Connection id "0HNF62N0UV5QA" accepted.
+2025-08-28 16:32:07.893 +07:00 [DBG] Connection id "0HNF62N0UV5QA" started.
+2025-08-28 16:32:07.893 +07:00 [DBG] Connection id "0HNF62N0UV5QA" received FIN.
+2025-08-28 16:32:07.903 +07:00 [DBG] Connection id "0HNF62N0UV5QA" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 16:32:07.909 +07:00 [DBG] Connection id "0HNF62N0UV5QA" disconnecting.
+2025-08-28 16:32:07.915 +07:00 [DBG] Connection id "0HNF62N0UV5QA" stopped.
+2025-08-28 16:32:08.109 +07:00 [DBG] Connection id "0HNF62N0UV5QB" accepted.
+2025-08-28 16:32:08.112 +07:00 [DBG] Connection id "0HNF62N0UV5QB" started.
+2025-08-28 16:32:08.179 +07:00 [DBG] Connection id "0HNF62N0UV5QC" accepted.
+2025-08-28 16:32:08.187 +07:00 [DBG] Connection id "0HNF62N0UV5QC" started.
+2025-08-28 16:32:08.255 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2025-08-28 16:32:08.316 +07:00 [DBG] Connection id "0HNF62N0UV5QC" received FIN.
+2025-08-28 16:32:08.318 +07:00 [DBG] Connection id "0HNF62N0UV5QC" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 16:32:08.330 +07:00 [DBG] Connection id "0HNF62N0UV5QC" disconnecting.
+2025-08-28 16:32:08.333 +07:00 [DBG] Connection id "0HNF62N0UV5QC" stopped.
+2025-08-28 16:32:08.404 +07:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-08-28 16:32:08.447 +07:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-08-28 16:32:08.448 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 16:32:08.502 +07:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-08-28 16:32:08.504 +07:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-08-28 16:32:08.536 +07:00 [DBG] Response markup was updated to include Browser Link script injection.
+2025-08-28 16:32:08.538 +07:00 [DBG] Response markup was updated to include browser refresh script injection.
+2025-08-28 16:32:08.539 +07:00 [DBG] Connection id "0HNF62N0UV5QB" completed keep alive response.
+2025-08-28 16:32:08.543 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 302.6243ms
+2025-08-28 16:32:08.640 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-28 16:32:08.644 +07:00 [DBG] Script injected: /_framework/aspnetcore-browser-refresh.js
+2025-08-28 16:32:08.645 +07:00 [DBG] Connection id "0HNF62N0UV5QB" completed keep alive response.
+2025-08-28 16:32:08.646 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 16549 application/javascript; charset=utf-8 6.0016ms
+2025-08-28 16:32:08.651 +07:00 [DBG] Connection id "0HNF62N0UV5QD" accepted.
+2025-08-28 16:32:08.653 +07:00 [DBG] Connection id "0HNF62N0UV5QD" started.
+2025-08-28 16:32:08.655 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2025-08-28 16:32:08.695 +07:00 [DBG] Connection id "0HNF62N0UV5QD" completed keep alive response.
+2025-08-28 16:32:08.697 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.7931ms
+2025-08-28 16:32:08.739 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2025-08-28 16:32:08.741 +07:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-08-28 16:32:08.742 +07:00 [DBG] Request did not match any endpoints
+2025-08-28 16:32:08.759 +07:00 [DBG] Connection id "0HNF62N0UV5QD" completed keep alive response.
+2025-08-28 16:32:08.760 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 21.2269ms
+2025-08-28 16:32:10.621 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - null null
+2025-08-28 16:32:10.654 +07:00 [DBG] 1 candidate(s) found for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 16:32:10.660 +07:00 [DBG] Endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)' with route pattern 'api/v{v:apiVersion}/order-management/orders/{orderId}/mti-original' is valid for the request path '/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original'
+2025-08-28 16:32:10.668 +07:00 [DBG] Request matched endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 16:32:10.671 +07:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-08-28 16:32:10.672 +07:00 [WRN] Failed to determine the https port for redirect.
+2025-08-28 16:32:10.678 +07:00 [INF] Executing endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 16:32:10.721 +07:00 [INF] Route matched with {action = "GetMtiOriginalOrderById", controller = "OrderManagement"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMtiOriginalOrderById(System.Guid, System.Threading.CancellationToken) on controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api).
+2025-08-28 16:32:10.725 +07:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-08-28 16:32:10.727 +07:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-08-28 16:32:10.729 +07:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 16:32:10.731 +07:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-08-28 16:32:10.734 +07:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Asp.Versioning.ReportApiVersionsAttribute (Order: 0)"]
+2025-08-28 16:32:10.739 +07:00 [DBG] Executing controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 16:32:10.746 +07:00 [DBG] Executed controller factory for controller Mti.OrderManagement.Services.Api.Controllers.OrderManagementController (Mti.OrderManagement.Services.Api)
+2025-08-28 16:32:10.756 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 16:32:10.759 +07:00 [DBG] Attempting to bind parameter 'orderId' of type 'System.Guid' using the name 'orderId' in request data ...
+2025-08-28 16:32:10.762 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 16:32:10.763 +07:00 [DBG] Done attempting to bind parameter 'orderId' of type 'System.Guid'.
+2025-08-28 16:32:10.764 +07:00 [DBG] Attempting to validate the bound parameter 'orderId' of type 'System.Guid' ...
+2025-08-28 16:32:10.768 +07:00 [DBG] Done attempting to validate the bound parameter 'orderId' of type 'System.Guid'.
+2025-08-28 16:32:10.770 +07:00 [DBG] Attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 16:32:10.771 +07:00 [DBG] Done attempting to bind parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 16:32:10.773 +07:00 [DBG] Attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken' ...
+2025-08-28 16:32:10.774 +07:00 [DBG] Done attempting to validate the bound parameter 'cancellationToken' of type 'System.Threading.CancellationToken'.
+2025-08-28 16:32:11.462 +07:00 [DBG] Message sent to partition [0] with offset 9, key correlationId 11dd28ae-e614-448a-9b5a-f87803204e1f
+2025-08-28 16:32:11.467 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:13.320 +07:00 [DBG] Connection id "0HNF62N0UV5QB" received FIN.
+2025-08-28 16:32:13.321 +07:00 [DBG] Connection id "0HNF62N0UV5QB" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 16:32:13.323 +07:00 [DBG] Connection id "0HNF62N0UV5QB" disconnecting.
+2025-08-28 16:32:13.331 +07:00 [DBG] Connection id "0HNF62N0UV5QB" stopped.
+2025-08-28 16:32:14.737 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:14.738 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:14.739 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:14.758 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:14.759 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:14.760 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:14.761 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:14.764 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:14.765 +07:00 [DBG] Consume correlationId = 11dd28ae-e614-448a-9b5a-f87803204e1f, reply = dev.mti_party_management.get_assets_by_ids.response.th.v1
+2025-08-28 16:32:14.844 +07:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2025-08-28 16:32:14.849 +07:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2025-08-28 16:32:14.853 +07:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2025-08-28 16:32:14.854 +07:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-08-28 16:32:14.855 +07:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2025-08-28 16:32:14.856 +07:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-08-28 16:32:14.858 +07:00 [INF] Executing OkObjectResult, writing value of type 'Mti.OrderManagement.Contracts.Orders.MtiOriginalOrderResponse'.
+2025-08-28 16:32:14.929 +07:00 [INF] Executed action Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api) in 4190.3618ms
+2025-08-28 16:32:14.931 +07:00 [INF] Executed endpoint 'Mti.OrderManagement.Services.Api.Controllers.OrderManagementController.GetMtiOriginalOrderById (Mti.OrderManagement.Services.Api)'
+2025-08-28 16:32:14.934 +07:00 [DBG] Connection id "0HNF62N0UV5QD" completed keep alive response.
+2025-08-28 16:32:14.935 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/api/v1/order-management/orders/0198e4f0-509b-772b-a9fb-9901e95278cb/mti-original - 200 null application/json; charset=utf-8 4313.741ms
+2025-08-28 16:32:18.324 +07:00 [DBG] Connection id "0HNF62N0UV5QD" received FIN.
+2025-08-28 16:32:18.325 +07:00 [DBG] Connection id "0HNF62N0UV5QD" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-08-28 16:32:18.326 +07:00 [DBG] Connection id "0HNF62N0UV5QD" disconnecting.
+2025-08-28 16:32:18.327 +07:00 [DBG] Connection id "0HNF62N0UV5QD" stopped.

@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Orders\SavePartiesByOrder\SavePartiesByOrderConsumer.cs" />
+    </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="2.11.0" />
+    <PackageReference Include="CsvHelper" Version="33.1.0" />
+    <PackageReference Include="FluentValidation" Version="12.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="9.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mti.OrderManagement.Contracts\Mti.OrderManagement.Contracts.csproj" />
+    <ProjectReference Include="..\Mti.OrderManagement.Domain\Mti.OrderManagement.Domain.csproj" />
+    <ProjectReference Include="..\Mti.OrderManagement.Persistence\Mti.OrderManagement.Persistence.csproj" />
+    <ProjectReference Include="..\SharedKernel\Mti.Domain.Infrastructure\Mti.Domain.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Orders\GetMtiOriginalOrderById\" />
+    <Folder Include="Orders\SaveProductMtiOriginal\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Mti.PartyManagement.Messaging">
+      <HintPath>..\SharedKernel\lib\Mti.PartyManagement.Messaging\net8.0\Mti.PartyManagement.Messaging.dll</HintPath>
+    </Reference>
+    <Reference Include="Mti.ProductManagement.Messaging">
+      <HintPath>..\SharedKernel\lib\Mti.ProductManagement.Messaging\net8.0\Mti.ProductManagement.Messaging.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA116EC7-F9DF-C94C-F677-B339584BD32A}|..\\tests\\Mti.ProductManagement.Domain.Tests\\Mti.ProductManagement.Domain.Tests.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\mti.productmanagement.domain.tests\\dbtestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA116EC7-F9DF-C94C-F677-B339584BD32A}|..\\tests\\Mti.ProductManagement.Domain.Tests\\Mti.ProductManagement.Domain.Tests.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\mti.productmanagement.domain.tests\\integration\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0F22F5-F9A6-438A-B5F6-FA9CAE8D41A1}|Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\mti.productmanagement.domain\\products\\optionalcoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0F22F5-F9A6-438A-B5F6-FA9CAE8D41A1}|Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj|solutionrelative:mti.productmanagement.domain\\products\\optionalcoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0F22F5-F9A6-438A-B5F6-FA9CAE8D41A1}|Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\mti.productmanagement.domain\\effectivemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0F22F5-F9A6-438A-B5F6-FA9CAE8D41A1}|Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj|solutionrelative:mti.productmanagement.domain\\effectivemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0F22F5-F9A6-438A-B5F6-FA9CAE8D41A1}|Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\mti.productmanagement.domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0F22F5-F9A6-438A-B5F6-FA9CAE8D41A1}|Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj|solutionrelative:mti.productmanagement.domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0F22F5-F9A6-438A-B5F6-FA9CAE8D41A1}|Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\mti.productmanagement.domain\\products\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0F22F5-F9A6-438A-B5F6-FA9CAE8D41A1}|Mti.ProductManagement.Domain\\Mti.ProductManagement.Domain.csproj|solutionrelative:mti.productmanagement.domain\\products\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C9DE95-77BF-4C88-AE67-0C8259BB89D5}|Mti.ProductManagement.Services.Api\\Mti.ProductManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\mti.productmanagement.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C9DE95-77BF-4C88-AE67-0C8259BB89D5}|Mti.ProductManagement.Services.Api\\Mti.ProductManagement.Services.Api.csproj|solutionrelative:mti.productmanagement.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C9DE95-77BF-4C88-AE67-0C8259BB89D5}|Mti.ProductManagement.Services.Api\\Mti.ProductManagement.Services.Api.csproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\mti.productmanagement.services.api\\backgroundservices\\saveproductsbyorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C9DE95-77BF-4C88-AE67-0C8259BB89D5}|Mti.ProductManagement.Services.Api\\Mti.ProductManagement.Services.Api.csproj|solutionrelative:mti.productmanagement.services.api\\backgroundservices\\saveproductsbyorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\Mti.ProductManagement.Domain.Tests\\Integration\\ProductTests.cs",
+              "RelativeDocumentMoniker": "..\\tests\\Mti.ProductManagement.Domain.Tests\\Integration\\ProductTests.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\Mti.ProductManagement.Domain.Tests\\Integration\\ProductTests.cs",
+              "RelativeToolTip": "..\\tests\\Mti.ProductManagement.Domain.Tests\\Integration\\ProductTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:19:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbTestBase.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\Mti.ProductManagement.Domain.Tests\\DbTestBase.cs",
+              "RelativeDocumentMoniker": "..\\tests\\Mti.ProductManagement.Domain.Tests\\DbTestBase.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\tests\\Mti.ProductManagement.Domain.Tests\\DbTestBase.cs",
+              "RelativeToolTip": "..\\tests\\Mti.ProductManagement.Domain.Tests\\DbTestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:19:05.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OptionalCoverage.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Products\\OptionalCoverage.cs",
+              "RelativeDocumentMoniker": "Mti.ProductManagement.Domain\\Products\\OptionalCoverage.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Products\\OptionalCoverage.cs",
+              "RelativeToolTip": "Mti.ProductManagement.Domain\\Products\\OptionalCoverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T03:09:41.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EffectiveModel.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\EffectiveModel.cs",
+              "RelativeDocumentMoniker": "Mti.ProductManagement.Domain\\EffectiveModel.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\EffectiveModel.cs",
+              "RelativeToolTip": "Mti.ProductManagement.Domain\\EffectiveModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T03:07:49.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleModel.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Products\\VehicleModel.cs",
+              "RelativeDocumentMoniker": "Mti.ProductManagement.Domain\\Products\\VehicleModel.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Products\\VehicleModel.cs",
+              "RelativeToolTip": "Mti.ProductManagement.Domain\\Products\\VehicleModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:24:41.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Entity.cs",
+              "RelativeDocumentMoniker": "Mti.ProductManagement.Domain\\Entity.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Domain\\Entity.cs",
+              "RelativeToolTip": "Mti.ProductManagement.Domain\\Entity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:02:33.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Services.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mti.ProductManagement.Services.Api\\Program.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Services.Api\\Program.cs",
+              "RelativeToolTip": "Mti.ProductManagement.Services.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:46:17.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveProductsByOrderService.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Services.Api\\BackgroundServices\\SaveProductsByOrderService.cs",
+              "RelativeDocumentMoniker": "Mti.ProductManagement.Services.Api\\BackgroundServices\\SaveProductsByOrderService.cs",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\Mti.ProductManagement.Services.Api\\BackgroundServices\\SaveProductsByOrderService.cs",
+              "RelativeToolTip": "Mti.ProductManagement.Services.Api\\BackgroundServices\\SaveProductsByOrderService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:31:08.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\data\\backlogs\\#3 - load file for inform policy\\src\\guides\\event-domain\\mti-product-management-services\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-26T04:02:07.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
