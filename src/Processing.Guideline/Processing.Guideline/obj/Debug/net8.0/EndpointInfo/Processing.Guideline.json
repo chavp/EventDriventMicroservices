@@ -1,0 +1,67 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Processing.Guideline",
+    "version": "1.0"
+  },
+  "paths": {
+    "/WeatherForecast": {
+      "put": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "validations",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DataRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DataRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DataRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "DataRequest": {
+        "type": "object",
+        "properties": {
+          "request1": {
+            "type": "string",
+            "nullable": true
+          },
+          "request2": {
+            "type": "string",
+            "nullable": true
+          },
+          "request3": {
+            "type": "number",
+            "format": "double"
+          },
+          "request4": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

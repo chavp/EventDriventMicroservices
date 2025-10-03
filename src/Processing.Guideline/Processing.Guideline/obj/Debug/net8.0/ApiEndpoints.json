@@ -1,0 +1,19 @@
+[
+  {
+    "ContainingType": "Processing.Guideline.Controllers.WeatherForecastController",
+    "Method": "ValidationProcess",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Processing.Guideline.Contracts.DataRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "validations"
+  }
+]

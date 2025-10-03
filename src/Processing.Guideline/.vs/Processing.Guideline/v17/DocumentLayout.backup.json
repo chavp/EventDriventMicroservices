@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|c:\\data\\backlogs\\#6 - validation\\src\\processing.guideline\\processing.guideline\\applications\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|solutionrelative:processing.guideline\\applications\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|c:\\data\\backlogs\\#6 - validation\\src\\processing.guideline\\processing.guideline\\domain\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|solutionrelative:processing.guideline\\domain\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|c:\\data\\backlogs\\#6 - validation\\src\\processing.guideline\\processing.guideline\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|solutionrelative:processing.guideline\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|c:\\data\\backlogs\\#6 - validation\\src\\processing.guideline\\processing.guideline\\controllers\\apibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|solutionrelative:processing.guideline\\controllers\\apibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|c:\\data\\backlogs\\#6 - validation\\src\\processing.guideline\\processing.guideline\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|solutionrelative:processing.guideline\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|c:\\data\\backlogs\\#6 - validation\\src\\processing.guideline\\processing.guideline\\contracts\\dataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|solutionrelative:processing.guideline\\contracts\\dataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|c:\\data\\backlogs\\#6 - validation\\src\\processing.guideline\\processing.guideline\\contracts\\datarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FA75A2-C555-4F75-AACD-45B427881DEF}|Processing.Guideline\\Processing.Guideline.csproj|solutionrelative:processing.guideline\\contracts\\datarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Applications\\ValidationService.cs",
+              "RelativeDocumentMoniker": "Processing.Guideline\\Applications\\ValidationService.cs",
+              "ToolTip": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Applications\\ValidationService.cs*",
+              "RelativeToolTip": "Processing.Guideline\\Applications\\ValidationService.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:21:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiBase.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Controllers\\ApiBase.cs",
+              "RelativeDocumentMoniker": "Processing.Guideline\\Controllers\\ApiBase.cs",
+              "ToolTip": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Controllers\\ApiBase.cs",
+              "RelativeToolTip": "Processing.Guideline\\Controllers\\ApiBase.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:12:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpContextExtensions.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\HttpContextExtensions.cs",
+              "RelativeDocumentMoniker": "Processing.Guideline\\HttpContextExtensions.cs",
+              "ToolTip": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\HttpContextExtensions.cs",
+              "RelativeToolTip": "Processing.Guideline\\HttpContextExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:55:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Domain\\Errors.cs",
+              "RelativeDocumentMoniker": "Processing.Guideline\\Domain\\Errors.cs",
+              "ToolTip": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Domain\\Errors.cs",
+              "RelativeToolTip": "Processing.Guideline\\Domain\\Errors.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:59:16.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Processing.Guideline\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Processing.Guideline\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:48:52.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataResponse.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Contracts\\DataResponse.cs",
+              "RelativeDocumentMoniker": "Processing.Guideline\\Contracts\\DataResponse.cs",
+              "ToolTip": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Contracts\\DataResponse.cs",
+              "RelativeToolTip": "Processing.Guideline\\Contracts\\DataResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:35:10.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataRequest.cs",
+              "DocumentMoniker": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Contracts\\DataRequest.cs",
+              "RelativeDocumentMoniker": "Processing.Guideline\\Contracts\\DataRequest.cs",
+              "ToolTip": "C:\\data\\backlogs\\#6 - Validation\\src\\Processing.Guideline\\Processing.Guideline\\Contracts\\DataRequest.cs",
+              "RelativeToolTip": "Processing.Guideline\\Contracts\\DataRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:34:08.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

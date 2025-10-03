@@ -1,0 +1,6 @@
+@Processing.Guideline_HostAddress = http://localhost:5286
+
+GET {{Processing.Guideline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
